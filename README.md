@@ -98,4 +98,4 @@
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Marquee" />
 
-⭐️ From [@yourusername](https://github.com/Rajath@2005)
+⭐️ From [@rajathajeru@gmail.com ](https://github.com/Rajath@2005)
