@@ -52,17 +52,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Activity Graph
-
-<img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yourusername&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ## 🎯 Goals for 2024
 
@@ -87,10 +76,6 @@
 📫 You can also reach me at: rajathajeru@gmail.com 
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
 
 <h3 align="center">
   Show some ❤️ by starring some of the repositories!
