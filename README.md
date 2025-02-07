@@ -51,6 +51,12 @@
  <a href="https://rajath2005.github.io/Contact-card-Generator/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Contact-card-Generator&theme=react" />
   </a>
+<a href="https://rajath2005.github.io/File-mangement.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=File-mangement.github.io&theme=react" />
+  </a>
+<a href="https://rajath2005.github.io/EnglishDictionary.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=EnglishDictionary.github.io&theme=react" />
+  </a>
 </div>
 
 ## 📊 GitHub Stats
