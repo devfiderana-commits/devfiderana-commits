@@ -49,7 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Raj_res.github.io&theme=react" />
   </a>
  <a href="https://rajath2005.github.io/Contact-card-Generator/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Raj_res.github.io&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Contact-card-Generator&theme=react" />
   </a>
 </div>
 
