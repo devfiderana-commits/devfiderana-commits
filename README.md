@@ -43,10 +43,10 @@
 
 <div align="center">
   <a href="https://github.com/Rajath2005/ProjectXApp.github.io">
-   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react" />
- </a>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=ProjectXApp.github.io&theme=react" />
+  </a>
   <a href="https://rajath2005.github.io/Raj_res.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=react" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Raj_res.github.io&theme=react" />
   </a>
 </div>
 
