@@ -42,6 +42,9 @@
 ## 🌟 Featured Projects
 
 <div align="center">
+ <a href="https://github.com/Rajath2005/mediq.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=rajathkiran.io&theme=react" />
+  </a>
  <a href="https://rajath2005.github.io/rajathkiran.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=rajathkiran.io&theme=react" />
   </a>
