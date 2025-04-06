@@ -45,6 +45,9 @@
  <a href="https://github.com/Rajath2005/mediq.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=react" />
   </a>
+   <a href="https://github.com/Rajath2005/rajathkiran.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=rajathkiran.io&theme=react" />
+  </a>
   <a href="https://github.com/Rajath2005/ProjectXApp.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=ProjectXApp.github.io&theme=react" />
   </a>
