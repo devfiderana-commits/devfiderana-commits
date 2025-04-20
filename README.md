@@ -43,59 +43,35 @@
 
 </div>
 
-<!-- Remaining content stays the same -->
 ## 🌟 Featured Projects
 
-<style>
-  .projects-grid {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-    padding: 10px;
-  }
-  .project-card {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border-radius: 10px;
-    overflow: hidden;
-  }
-  .project-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
-  }
-</style>
-
-<div class="projects-grid">
-
-  <a class="project-card" href="https://github.com/Rajath2005/mediq.io" target="_blank">
+<p align="center">
+  <a href="https://github.com/Rajath2005/mediq.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=react" />
   </a>
-
-  <a class="project-card" href="https://github.com/Rajath2005/rajathkiran.io" target="_blank">
+  <a href="https://github.com/Rajath2005/rajathkiran.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=rajathkiran.io&theme=react" />
   </a>
-
-  <a class="project-card" href="https://github.com/Rajath2005/ProjectXApp.github.io" target="_blank">
+  <br />
+  <a href="https://github.com/Rajath2005/ProjectXApp.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=ProjectXApp.github.io&theme=react" />
   </a>
-
-  <a class="project-card" href="https://rajath2005.github.io/Raj_res.github.io/" target="_blank">
+  <a href="https://rajath2005.github.io/Raj_res.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Raj_res.github.io&theme=react" />
   </a>
-
-  <a class="project-card" href="https://rajath2005.github.io/Contact-card-Generator/" target="_blank">
+  <br />
+  <a href="https://rajath2005.github.io/Contact-card-Generator/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Contact-card-Generator&theme=react" />
   </a>
-
-  <a class="project-card" href="https://rajath2005.github.io/File-mangement.github.io/" target="_blank">
+  <a href="https://rajath2005.github.io/File-mangement.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=File-mangement.github.io&theme=react" />
   </a>
-
-  <a class="project-card" href="https://rajath2005.github.io/EnglishDictionary.github.io/" target="_blank">
+  <br />
+  <a href="https://rajath2005.github.io/EnglishDictionary.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=EnglishDictionary.github.io&theme=react" />
   </a>
+</p>
 
-</div>
 
 
 
