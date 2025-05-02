@@ -72,7 +72,19 @@
   </a>
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dc116df2-c390-4c70-8b12-5970b460beff/deploy-status)](https://app.netlify.com/sites/mediq-health/deploys)
+---
+
+## 🚀 Deployment Status
+
+| Project | Netlify Status |
+|--------|----------------|
+| [MediQ Health](https://mediq-health.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/dc116df2-c390-4c70-8b12-5970b460beff/deploy-status)](https://app.netlify.com/sites/mediq-health/deploys) |
+| [Rajath Resume Site](https://rjkres.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/9876f622-3213-4ec1-b4bb-e7eb8d3df2bd/deploy-status)](https://app.netlify.com/sites/rjkres/deploys) |
+| [Rajath Kiran Site](https://rajathkiran.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/14761461-e287-4a4c-ab07-1ad2de7204a3/deploy-status)](https://app.netlify.com/sites/rajathkiran/deploys) |
+| [Mini Project](https://rajath-mini.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/0394109f-3079-439d-aa03-fe524b9f96ce/deploy-status)](https://app.netlify.com/sites/rajath-mini/deploys) |
+| [Englisho](https://englisho.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/edf93eef-7454-4578-8e3a-2853b7823c48/deploy-status)](https://app.netlify.com/sites/englisho/deploys) |
+| [Business Card Generator](https://businesscardgen1.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/5cf58d12-7da6-40ff-aa95-ffc1a335e10a/deploy-status)](https://app.netlify.com/sites/businesscardgen1/deploys) |
+| [Vote For Sheethal](https://voteforsheethal.netlify.app) | [![Netlify Status](https://api.netlify.com/api/v1/badges/ee9594d9-471b-49f5-9588-d4d34188f902/deploy-status)](https://app.netlify.com/sites/voteforsheethal/deploys) |
 
 
 ## 📊 GitHub Stats
