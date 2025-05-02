@@ -72,7 +72,7 @@
   </a>
 </p>
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dc116df2-c390-4c70-8b12-5970b460beff/deploy-status)](https://app.netlify.com/sites/mediq-health/deploys)
 
 
 ## 📊 GitHub Stats
