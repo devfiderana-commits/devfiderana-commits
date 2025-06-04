@@ -43,6 +43,20 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
@@ -59,6 +73,9 @@
   <a href="https://github.com/Rajath2005/ProjectXApp.github.io">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=ProjectXApp.github.io&theme=react" />
   </a>
+  <a href="https://github.com/Rajath2005/hotel-menu.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=hotel-menu.io&theme=react" />
+  </a>
   <a href="https://rajath2005.github.io/Raj_res.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Raj_res.github.io&theme=react" />
   </a>
@@ -74,7 +91,6 @@
 </p>
 
 ---
-
 ## 🌐 Deployments
 
 | Project | Netlify |
