@@ -23,10 +23,6 @@
 
 - 🎓 Second year engineering student passionate about tech & innovation.
 - 💡 Explorer of AI, Web Development, and all things code.
-- 🌱 Currently building full-stack projects and learning about machine learning.
-- 🚀 Driven by curiosity; always eager to contribute and collaborate.
-- 🌍 Dreaming big: I want to impact the world positively through technology.
-
 ---
 
 ## 🛠️ Tech I Use
