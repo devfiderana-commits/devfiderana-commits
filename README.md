@@ -1,117 +1,102 @@
-<div align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="500px"/>
-</div>
+# Rajath Kiran A
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi! I'm Rajath Kiran A
+**Engineering Student | Full Stack Developer | AI Enthusiast**
 
-</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9CFF&center=true&vCenter=true&width=435&lines=Engineering+Student;Web+Developer;AI+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://rajathkiran.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Check_my_work-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rajath-kiran/">
-    <img src="https://img.shields.io/badge/Let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-
-
-## 🛠️ Tech What I use
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"/>
-</div>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,git,github,firebase,mysql,postgres,mongodb,heroku,vercel,netlify,bootstrap,tailwind,materialui,figma,postman,vscode&perline=8" />
-</p>
-
-***
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Rajath2005/mediq.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=react" />
-  </a>
-  <a href="https://github.com/Rajath2005/rajathkiran.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=rajathkiran.io&theme=react" />
-  </a>
-  <a href="https://github.com/Rajath2005/ProjectXApp.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=ProjectXApp.github.io&theme=react" />
-  </a>
-  <a href="https://github.com/Rajath2005/hotel-menu.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=hotel-menu.io&theme=react" />
-  </a>
-  <a href="https://rajath2005.github.io/Raj_res.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Raj_res.github.io&theme=react" />
-  </a>
-  <a href="https://rajath2005.github.io/Contact-card-Generator/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Contact-card-Generator&theme=react" />
-  </a>
-  <a href="https://rajath2005.github.io/File-mangement.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=File-mangement.github.io&theme=react" />
-  </a>
-  <a href="https://rajath2005.github.io/EnglishDictionary.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=EnglishDictionary.github.io&theme=react" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://rajathkiran.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajath-kiran/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajathajeru@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/rajathajeru?t=qEWmyphfBV5XLtCW4utVig&s=09)
 
 ---
 
+## Technical Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+**Programming Languages**
+- ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Frontend Development**
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+- ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+
+</td>
+<td width="50%">
+
+**Backend & Database**
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white)
+
+**DevOps & Tools**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Pe Kya Chal Raha Hai?
+## Featured Projects
 
-<div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px"/>
-</div>
+### [MediQ.io](https://github.com/Rajath2005/mediq.io)
+Healthcare management system with modern UI/UX
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+### [Portfolio Website](https://github.com/Rajath2005/rajathkiran.io)
+Personal portfolio showcasing projects and skills
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajath2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### [ProjectX App](https://github.com/Rajath2005/ProjectXApp.github.io)
+Full-stack web application with responsive design
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+### [Hotel Menu System](https://github.com/Rajath2005/hotel-menu.io)
+Digital menu management solution
+
+**[View All Projects →](https://github.com/Rajath2005?tab=repositories)**
 
 ---
 
-## 🤝 Let's Be Friends!
+## GitHub Analytics
 
-  
-  <p>
-    <a href="mailto:rajathajeru@gmail.com">
-      <img src="https://img.shields.io/badge/Drop_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/rajath-kiran/">
-      <img src="https://img.shields.io/badge/LinkedIn_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://x.com/rajathajeru?t=qEWmyphfBV5XLtCW4utVig&s=09">
-      <img src="https://img.shields.io/badge/Twitter_follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-  </p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajath2005&theme=minimal&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=compact&theme=minimal&hide_border=true&langs_count=8)
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="400px"/>
-  
-  ### *"Code. Create. Repeat. "* 
-  
-  <sub>If you made it this far, you deserve a ⭐ on my repos!</sub>
-  
+## Let's Connect
 
+I'm always interested in collaborating on innovative projects and discussing new technologies. Feel free to reach out for opportunities or just to connect!
+
+**📧 rajathajeru@gmail.com** • **🔗 [LinkedIn](https://www.linkedin.com/in/rajath-kiran/)** • **🌐 [Portfolio](https://rajathkiran.netlify.app/)**
 
 ---
+
+<div align="center">
+<sub>⚡ "Building tomorrow's solutions with today's code"</sub>
+</div>
