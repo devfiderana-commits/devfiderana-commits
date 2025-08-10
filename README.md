@@ -130,7 +130,7 @@
 <td width="50%" align="center">
 
 ### ⚙️ [**Analysis & Design of Algorithms**](https://github.com/Rajath2005/Analysis-and-Design-of-Algorithms)
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/DSA-3776AB?style=for-the-badge&logo=DSA&logoColor=white" alt="DSA"/>
 <img src="https://img.shields.io/badge/Algorithms-FF9500?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms"/>
 
 *🧠 Comprehensive algorithm solutions & analysis*
