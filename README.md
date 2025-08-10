@@ -56,23 +56,143 @@
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### [MediQ.io](https://github.com/Rajath2005/mediq.io)
-Healthcare management system with modern UI/UX
+<div align="center">
 
-### [Portfolio Website](https://github.com/Rajath2005/rajathkiran.io)
-Personal portfolio showcasing projects and skills
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Welcome+to+My+Project+Showcase;Building+Tomorrow's+Solutions;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
 
-### [ProjectX App](https://github.com/Rajath2005/ProjectXApp.github.io)
-Full-stack web application with responsive design
+</div>
 
-### [Hotel Menu System](https://github.com/Rajath2005/hotel-menu.io)
-Digital menu management solution
+<br>
 
-**[View All Projects →](https://github.com/Rajath2005?tab=repositories)**
+<!-- Project Cards Grid -->
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🩺 [**MediQ.io**](https://github.com/Rajath2005/mediq.io)
+<img src="https://img.shields.io/badge/Healthcare-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" alt="Healthcare"/>
+<img src="https://img.shields.io/badge/UI/UX-4ECDC4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX"/>
+
+*🌟 Modern healthcare management system with intuitive design*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/mediq.io?style=social)](https://github.com/Rajath2005/mediq.io/stargazers)
+[![Forks](https://img.shields.io/github/forks/Rajath2005/mediq.io?style=social)](https://github.com/Rajath2005/mediq.io/network/members)
+
+</td>
+<td width="50%" align="center">
+
+### 📝 [**TextUtils.io**](https://github.com/Rajath2005/textutils.io)
+<img src="https://img.shields.io/badge/Text_Analysis-45B7D1?style=for-the-badge&logo=textpattern&logoColor=white" alt="Text Analysis"/>
+<img src="https://img.shields.io/badge/Tool-FFA07A?style=for-the-badge&logo=tools&logoColor=white" alt="Tool"/>
+
+*⚡ Powerful text transformation with sleek interface*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/textutils.io?style=social)](https://github.com/Rajath2005/textutils.io/stargazers)
+[![Forks](https://img.shields.io/github/forks/Rajath2005/textutils.io?style=social)](https://github.com/Rajath2005/textutils.io/network/members)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📚 [**Englisho.io**](https://github.com/Rajath2005/Englisho.io)
+<img src="https://img.shields.io/badge/Education-98D8C8?style=for-the-badge&logo=academicons&logoColor=white" alt="Education"/>
+<img src="https://img.shields.io/badge/Learning-F06292?style=for-the-badge&logo=book&logoColor=white" alt="Learning"/>
+
+*🎓 Interactive English learning platform*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/Englisho.io?style=social)](https://github.com/Rajath2005/Englisho.io/stargazers)
+[![Forks](https://img.shields.io/github/forks/Rajath2005/Englisho.io?style=social)](https://github.com/Rajath2005/Englisho.io/network/members)
+
+</td>
+<td width="50%" align="center">
+
+### 💼 [**Raj Res**](https://github.com/Rajath2005/Raj_res.github.io)
+<img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Resume-A29BFE?style=for-the-badge&logo=user&logoColor=white" alt="Resume"/>
+
+*💎 Personal brand showcase & digital resume*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/Raj_res.github.io?style=social)](https://github.com/Rajath2005/Raj_res.github.io/stargazers)
+[![Forks](https://img.shields.io/github/forks/Rajath2005/Raj_res.github.io?style=social)](https://github.com/Rajath2005/Raj_res.github.io/network/members)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### ⚙️ [**Analysis & Design of Algorithms**](https://github.com/Rajath2005/Analysis-and-Design-of-Algorithms)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Algorithms-FF9500?style=for-the-badge&logo=algorithm&logoColor=white" alt="Algorithms"/>
+
+*🧠 Comprehensive algorithm solutions & analysis*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/Analysis-and-Design-of-Algorithms?style=social)](https://github.com/Rajath2005/Analysis-and-Design-of-Algorithms/stargazers)
+
+</td>
+<td width="50%" align="center">
+
+### 📄 [**LaTeX Lab Manuals**](https://github.com/Rajath2005/latex-lab-manuals)
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+<img src="https://img.shields.io/badge/Academic-2ECC71?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Academic"/>
+
+*📖 Professional academic documentation*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/latex-lab-manuals?style=social)](https://github.com/Rajath2005/latex-lab-manuals/stargazers)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 🍽️ [**Hotel Menu.io**](https://github.com/Rajath2005/hotel-menu.io)
+<img src="https://img.shields.io/badge/Restaurant-E74C3C?style=for-the-badge&logo=utensils&logoColor=white" alt="Restaurant"/>
+<img src="https://img.shields.io/badge/Management-27AE60?style=for-the-badge&logo=management&logoColor=white" alt="Management"/>
+
+*🍴 Digital menu management solution*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/hotel-menu.io?style=social)](https://github.com/Rajath2005/hotel-menu.io/stargazers)
+
+</td>
+<td width="50%" align="center">
+
+### 🐍 [**Joy of Computing (Python)**](https://github.com/Rajath2005/joy-of-computing-python)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+<img src="https://img.shields.io/badge/NPTEL-9B59B6?style=for-the-badge&logo=book-reader&logoColor=white" alt="NPTEL"/>
+
+*🎯 Practical Python programming solutions*
+<br><br>
+[![Stars](https://img.shields.io/github/stars/Rajath2005/joy-of-computing-python?style=social)](https://github.com/Rajath2005/joy-of-computing-python/stargazers)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Call to Action -->
+<div align="center">
+
+### 🔥 Want to See More?
+
+<a href="https://github.com/Rajath2005?tab=repositories">
+<img src="https://img.shields.io/badge/🔍_Explore_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e&color=0969da" alt="View All Projects"/>
+</a>
+
+<!-- Fun Footer -->
+</div>
+
+
 
 ## 📊 GitHub Analytics
 
@@ -84,8 +204,6 @@ Digital menu management solution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
-
-
 
 
 ---
