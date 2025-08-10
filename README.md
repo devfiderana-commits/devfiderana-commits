@@ -113,14 +113,15 @@
 </td>
 <td width="50%" align="center">
 
-### 💼 [**Raj Res**](https://github.com/Rajath2005/Raj_res.github.io)
+### 💼 [**Rajath Kiran A**](https://github.com/Rajath2005/rajathkiran.io)
 <img src="https://img.shields.io/badge/Portfolio-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 <img src="https://img.shields.io/badge/Resume-A29BFE?style=for-the-badge&logo=user&logoColor=white" alt="Resume"/>
 
 *💎 Personal brand showcase & digital resume*
 <br><br>
-[![Stars](https://img.shields.io/github/stars/Rajath2005/Raj_res.github.io?style=social)](https://github.com/Rajath2005/Raj_res.github.io/stargazers)
-[![Forks](https://img.shields.io/github/forks/Rajath2005/Raj_res.github.io?style=social)](https://github.com/Rajath2005/Raj_res.github.io/network/members)
+[![Stars](https://img.shields.io/github/stars/Rajath2005/rajathkiran.io?style=social)](https://github.com/Rajath2005/rajathkiran.io/stargazers)
+[![Forks](https://img.shields.io/github/forks/Rajath2005/rajathkiran.io?style=social)](https://github.com/Rajath2005/rajathkiran.io/network/members)
+
 
 </td>
 </tr>
