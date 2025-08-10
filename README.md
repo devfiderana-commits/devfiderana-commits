@@ -74,17 +74,19 @@ Digital menu management solution
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=minimal&hide_border=true&count_private=true&include_all_commits=true)
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajath2005&theme=tokyonight&hide_border=true) |
+| --- | --- |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajath2005&theme=minimal&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=compact&theme=minimal&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
+
+
+
 
 ---
 
