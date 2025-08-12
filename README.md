@@ -195,18 +195,57 @@
 
 
 
-## 📊 GitHub Analytics
-
 <div align="center">
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rajath2005&theme=tokyonight&hide_border=true) |
-| --- | --- |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github.com/Rajath2005/Rajath2005/blob/output/github-contribution-grid-snake-dark.svg" />
+
+<br/><br/>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap; margin: 20px 0;">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&border_radius=20&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&bg_color=00000000&ring_color=00FF41" height="200" />
+
+<img src="https://streak-stats.demolab.com/?user=Rajath2005&theme=transparent&hide_border=true&border_radius=20&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00FF41&sideLabels=00FF41&dates=C9D1D9&background=00000000" height="200" />
 
 </div>
 
+<div style="margin: 20px 0;">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajath2005&bg_color=00000000&color=00FF41&line=00FF41&point=C9D1D9&area=true&hide_border=true&border_radius=20&custom_title=🔥%20Matrix%20Contribution%20Grid%20🔥&theme=github-compact" width="95%" />
 
+</div>
+
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajath2005&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajath2005&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rajath2005&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+</div>
 ---
 
 ## Let's Connect
