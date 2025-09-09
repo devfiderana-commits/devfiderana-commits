@@ -20,7 +20,7 @@
 ---
 
 ### 🐍 Dark Theme Snake Game
-![Futuristic Dark Snake](./futuristic-dark.svg)
+![Futuristic Dark Snake](quantum-purple.svg)
 
 ---
 
