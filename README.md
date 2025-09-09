@@ -19,6 +19,11 @@
 
 ---
 
+### 🐍 Dark Theme Snake Game
+![Futuristic Dark Snake](./futuristic-dark.svg)
+
+---
+
 ## 💻 Technical Expertise
 
 <table>
