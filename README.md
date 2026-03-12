@@ -3,14 +3,12 @@
 <!-- CINEMATIC HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a1628,100:0d2137&height=240&section=header&text=RAJATH%20KIRAN%20A&fontSize=78&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20Cloud%20Explorer%20·%20CS%20@%20VCET%20Puttur&descAlignY=62&descSize=17&descColor=7FDBFF&stroke=00FFD1&strokeWidth=1.5"/>
 
-<!-- Typing Roles -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=00FFD1&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+Full+Stack+Web+Apps;☁️+Google+Cloud+Arcade+Silver+League;🏆+2×+VTU+Topper+—+Code360+Monthly+Challenge;📝+Technical+Blogger+on+WordPress+%26+Medium;⚡+Turning+ideas+into+deployed+products" alt="Typing SVG" />
-</a>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+Full+Stack+Web+Apps;☁️+Google+Cloud+Arcade+Silver+League;🏆+2×+VTU+Topper+—+Code360+Challenge;📝+Technical+Blogger+on+WordPress+%26+Medium;⚡+Turning+ideas+into+deployed+products" alt="Typing SVG" />
 
 <br/>
 
-<!-- Live Badges Row -->
+<!-- Live Badges -->
 <img src="https://komarev.com/ghpvc/?username=Rajath2005&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge&labelColor=0D1117"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/Rajath2005?label=FOLLOWERS&style=for-the-badge&color=00FFD1&labelColor=0D1117&logo=github"/>
@@ -23,7 +21,7 @@
 
 ---
 
-<!-- TERMINAL ABOUT — with real data -->
+<!-- TERMINAL ABOUT -->
 <div align="center">
 
 ```
@@ -57,22 +55,22 @@
 
 ---
 
-<!-- SNAKE - System-aware theme switch -->
+<!-- SNAKE GAME — pointing to main branch (where your SVGs actually are) -->
 <div align="center">
 
 ### 🐍 CONTRIBUTIONS — ALIVE
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/output/cyber-matrix.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/output/plasma-orange.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/output/cyber-matrix.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/cyber-matrix.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/plasma-orange.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/cyber-matrix.svg" width="95%"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ACHIEVEMENTS SHOWCASE -->
+<!-- ACHIEVEMENTS -->
 <div align="center">
 
 # 🏆 ACHIEVEMENTS & ACCOLADES
@@ -89,9 +87,7 @@
 <img src="https://img.shields.io/badge/🏆_2×_VTU_TOPPER-Code360-FF6B35?style=for-the-badge&labelColor=0D1117"/>
 <br/><br/>
 
-**Ranked #1 among VTU students** in the 30-Day Monthly Coding Challenge on Code360 by Coding Ninjas — **twice**.
-
-Competing against thousands of VTU peers on daily DSA challenges across C++, Java, and Python.
+**Ranked #1 among VTU students** in the 30-Day Monthly Coding Challenge on Code360 — **twice**. Competing against thousands of VTU peers in daily DSA challenges.
 
 <br/>
 <a href="https://www.naukri.com/code360/profile/rajathajeru">
@@ -107,9 +103,9 @@ Competing against thousands of VTU peers on daily DSA challenges across C++, Jav
 <img src="https://img.shields.io/badge/☁️_SILVER_LEAGUE-490_Points-C0C0C0?style=for-the-badge&labelColor=0D1117"/>
 <br/><br/>
 
-**19 badges earned** across Cloud, GenAI, DevOps and Kubernetes. Active since Jan 2026 — completing sprints every month.
+**19 badges earned** across Cloud, GenAI, DevOps and Kubernetes. Active since Jan 2026 — completing monthly sprints consistently.
 
-Latest: *Holi-istic Infrastructures · Arcade March 2026 Sprint 1*
+Latest: *Holi-istic Infrastructures · March 2026 Sprint 1*
 
 <br/>
 <a href="https://www.skills.google/public_profiles/09886862-52b8-44a4-86a5-9559a3952dd0">
@@ -125,7 +121,7 @@ Latest: *Holi-istic Infrastructures · Arcade March 2026 Sprint 1*
 <img src="https://img.shields.io/badge/📜_NPTEL-Joy_of_Computing-3776AB?style=for-the-badge&labelColor=0D1117"/>
 <br/><br/>
 
-Completed **Joy of Computing Using Python** by IIT Madras / NPTEL with hands-on problem solving and real-world mini-projects.
+Completed **Joy of Computing Using Python** — IIT Madras / NPTEL with hands-on problem solving and real-world mini-projects.
 
 <br/>
 <a href="https://github.com/Rajath2005/joy-of-computing-python">
@@ -307,7 +303,7 @@ Completed **Joy of Computing Using Python** by IIT Madras / NPTEL with hands-on 
 <!-- FEATURED PROJECTS -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=🚀+FEATURED+PROJECTS;Products+I'm+Proud+Of;Code+•+Deploy+•+Impact" alt="Projects Header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=🚀+FEATURED+PROJECTS;Products+I'm+Proud+Of;Code+•+Deploy+•+Impact" alt="Projects Header"/>
 
 </div>
 
@@ -380,12 +376,10 @@ Completed **Joy of Computing Using Python** by IIT Madras / NPTEL with hands-on 
 
 ---
 
-<!-- TECHNICAL BLOG -->
+<!-- BLOG -->
 <div align="center">
 
 # ✍️ TECHNICAL WRITING
-
-*I write about what I learn — cloud, web dev, OS internals, and dev tools.*
 
 </div>
 
@@ -427,7 +421,7 @@ Completed **Joy of Computing Using Python** by IIT Madras / NPTEL with hands-on 
 
 ---
 
-<!-- WORK EXPERIENCE -->
+<!-- EXPERIENCE -->
 <div align="center">
 
 # 💼 EXPERIENCE
@@ -441,7 +435,7 @@ Completed **Joy of Computing Using Python** by IIT Madras / NPTEL with hands-on 
 
 **Web Developer — Nexara**
 
-Built and deployed client-facing websites using **WordPress + Divi theme** — including a Plumbing Services site and an NGO website. Handled plugins, local dev setup, and performance optimization.
+Built and deployed client websites using **WordPress + Divi theme** — including a Plumbing Services site and an NGO website. Handled plugins, local dev setup, and performance optimization.
 
 `WordPress` `Divi` `UI/UX` `Performance Optimization`
 
@@ -555,9 +549,7 @@ Created social media content using **Canva** — Reels, Carousel Posters, and br
 
 <div align="center">
 
-<sub>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote"/>
-</sub>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote"/>
 
 <br/><br/>
 
