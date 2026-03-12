@@ -4,7 +4,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a1628,100:0d2137&height=240&section=header&text=RAJATH%20KIRAN%20A&fontSize=78&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20Cloud%20Explorer%20·%20CS%20@%20VCET%20Puttur&descAlignY=62&descSize=17&descColor=7FDBFF&stroke=00FFD1&strokeWidth=1.5"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+Full+Stack+Web+Apps;☁️+Google+Cloud+Arcade+Silver+League;🏆+2×+VTU+Topper+—+Code360+Challenge;📝+Technical+Blogger+on+WordPress+%26+Medium;⚡+Turning+ideas+into+deployed+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+Full+Stack+Web+Apps;☁️+Google+Cloud+Arcade+Silver+League;🏆+2×+VTU+Topper+—+Code360+Challenge;📝+Technical+Blogger+on+WordPress+%26+Medium;⚡+Turning+ideas+into+deployed+products" alt="Typing SVG" />
+
 
 <br/>
 
@@ -303,7 +304,7 @@ Completed **Joy of Computing Using Python** — IIT Madras / NPTEL with hands-on
 <!-- FEATURED PROJECTS -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=🚀+FEATURED+PROJECTS;Products+I'm+Proud+Of;Code+•+Deploy+•+Impact" alt="Projects Header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=🚀+FEATURED+PROJECTS;Products+I'm+Proud+Of;Code+•+Deploy+•+Impact" alt="Projects Header"/>
 
 </div>
 
