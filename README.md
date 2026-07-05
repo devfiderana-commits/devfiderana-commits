@@ -17,7 +17,7 @@
 
 <!-- Elegant flat metrics -->
 <a href="https://github.com/Rajath2005"><img src="https://komarev.com/ghpvc/?username=Rajath2005&label=Profile+Views&color=00FFD1&style=flat&labelColor=0D1117" alt="Profile views"/></a>
-<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&style=flat&labelColor=0D1117&color=00FFD1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRajath2005&cacheSeconds=300" alt="GitHub followers"/>
+<a href="https://github.com/Rajath2005?tab=followers"><img src="https://img.shields.io/github/followers/Rajath2005?label=Followers&style=flat&color=00FFD1&labelColor=0D1117&logo=github" alt="GitHub followers"/></a>
 <img src="https://img.shields.io/github/stars/Rajath2005?affiliations=OWNER&label=Total+Stars&style=flat&color=FFD700&labelColor=0D1117&logo=github" alt="Total GitHub stars"/>
 
 </div>
@@ -95,16 +95,80 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/section-projects.svg" width="50%" alt="Featured Projects"/>
-<br/><br/>
-
-<a href="https://github.com/Rajath2005/mediq.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="MediQ.io — Modern healthcare platform with appointments, health records, and smart tools"/></a>
-<a href="https://github.com/Rajath2005/SmartCityApp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=SmartCityApp&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="SmartCityApp — Java app for city attraction management with role-based access"/></a>
-<a href="https://github.com/Rajath2005/COPD"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=COPD&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="COPD — Chronic Obstructive Pulmonary Disease prediction and analysis"/></a>
-<a href="https://github.com/Rajath2005/code-review-env"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=code-review-env&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="Code Review Env — Automated code review environment and tooling"/></a>
-<a href="https://github.com/Rajath2005/Englisho.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Englisho.io&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="Englisho.io — Interactive English dictionary with pronunciation and search history"/></a>
-<a href="https://github.com/Rajath2005/rajathkiran.me"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=rajathkiran.me&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="rajathkiran.me — Personal portfolio with dark-themed UI and smooth animations"/></a>
+</div>
 
 <br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 [MediQ.io](https://github.com/Rajath2005/mediq.io)
+> Modern healthcare platform connecting patients with hospitals — appointments, health records, and smart tools.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+<a href="https://github.com/Rajath2005/mediq.io"><img src="https://img.shields.io/github/stars/Rajath2005/mediq.io?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/></a> <a href="https://github.com/Rajath2005/mediq.io"><img src="https://img.shields.io/github/last-commit/Rajath2005/mediq.io?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Last commit"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [SmartCityApp](https://github.com/Rajath2005/SmartCityApp)
+> Console-based Java app to explore, search & manage city attractions with role-based access for Users & Admins.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square" alt="OOP"/>
+
+<a href="https://github.com/Rajath2005/SmartCityApp"><img src="https://img.shields.io/github/stars/Rajath2005/SmartCityApp?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/></a> <a href="https://github.com/Rajath2005/SmartCityApp"><img src="https://img.shields.io/github/last-commit/Rajath2005/SmartCityApp?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Last commit"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🫁 [COPD](https://github.com/Rajath2005/COPD)
+> COPD (Chronic Obstructive Pulmonary Disease) prediction and analysis application using machine learning.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="ML"/>
+
+<a href="https://github.com/Rajath2005/COPD"><img src="https://img.shields.io/github/stars/Rajath2005/COPD?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/></a> <a href="https://github.com/Rajath2005/COPD"><img src="https://img.shields.io/github/last-commit/Rajath2005/COPD?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Last commit"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 [Code Review Env](https://github.com/Rajath2005/code-review-env)
+> Automated code review environment and tooling for streamlined development workflows.
+
+<img src="https://img.shields.io/badge/DevTools-181717?style=flat-square&logo=github&logoColor=white" alt="DevTools"/> <img src="https://img.shields.io/badge/Automation-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Automation"/>
+
+<a href="https://github.com/Rajath2005/code-review-env"><img src="https://img.shields.io/github/stars/Rajath2005/code-review-env?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/></a> <a href="https://github.com/Rajath2005/code-review-env"><img src="https://img.shields.io/github/last-commit/Rajath2005/code-review-env?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Last commit"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [Englisho.io](https://github.com/Rajath2005/Englisho.io)
+> Interactive English dictionary web app with instant search, audio pronunciation, and search history.
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="API"/>
+
+<a href="https://github.com/Rajath2005/Englisho.io"><img src="https://img.shields.io/github/stars/Rajath2005/Englisho.io?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/></a> <a href="https://github.com/Rajath2005/Englisho.io"><img src="https://img.shields.io/github/last-commit/Rajath2005/Englisho.io?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Last commit"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [rajathkiran.me](https://github.com/Rajath2005/rajathkiran.me)
+> Personal portfolio website with dark-themed UI, smooth animations, and interactive elements.
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS"/>
+
+<a href="https://github.com/Rajath2005/rajathkiran.me"><img src="https://img.shields.io/github/stars/Rajath2005/rajathkiran.me?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/></a> <a href="https://github.com/Rajath2005/rajathkiran.me"><img src="https://img.shields.io/github/last-commit/Rajath2005/rajathkiran.me?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Last commit"/></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <a href="https://github.com/Rajath2005?tab=repositories&sort=stargazers">
   <img src="https://img.shields.io/badge/Explore_All_Repositories_%E2%86%92-00FFD1?style=for-the-badge&logo=github&logoColor=0D1117" alt="View all repositories"/>
