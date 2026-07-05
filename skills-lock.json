@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "create-readme": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/create-readme/SKILL.md",
+      "computedHash": "d0ece1b2164ce1376e4ab6e98d6ac079df3a2a94f5f02224362b6a1ce2516ae9"
+    },
+    "git-city-3d-github-visualization": {
+      "source": "aradotso/trending-skills",
+      "sourceType": "github",
+      "skillPath": "skills/git-city-3d-github-visualization/SKILL.md",
+      "computedHash": "c4be47c1f48c5a46b32082c62e079b8073461de38c6c76c5132b3e7da58153b6"
+    },
+    "github": {
+      "source": "kostja94/marketing-skills",
+      "sourceType": "github",
+      "skillPath": "skills/platforms/github/SKILL.md",
+      "computedHash": "20963d173b1e18279b210b584c1b895b9cee8fed8b381b8870a4790b91b92dde"
+    }
+  }
+}

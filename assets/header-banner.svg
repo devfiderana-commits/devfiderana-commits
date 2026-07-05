@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <!-- Gradient definitions -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="25%" style="stop-color:#0a1628"/>
+      <stop offset="50%" style="stop-color:#0f1d30"/>
+      <stop offset="75%" style="stop-color:#0a1628"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00FFD1">
+        <animate attributeName="stop-color" values="#00FFD1;#00D4FF;#7B61FF;#00FFD1" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#00D4FF">
+        <animate attributeName="stop-color" values="#00D4FF;#7B61FF;#00FFD1;#00D4FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#7B61FF">
+        <animate attributeName="stop-color" values="#7B61FF;#00FFD1;#00D4FF;#7B61FF" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:transparent"/>
+      <stop offset="20%" style="stop-color:#00FFD1">
+        <animate attributeName="stop-color" values="#00FFD1;#7B61FF;#00D4FF;#00FFD1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="80%" style="stop-color:#7B61FF">
+        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#00FFD1;#7B61FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:transparent"/>
+    </linearGradient>
+    
+    <!-- Glow filters -->
+    <filter id="nameGlow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="subtleGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#00FFD1" stroke-width="0.3" opacity="0.08"/>
+    </pattern>
+    
+    <!-- Hexagon pattern -->
+    <polygon id="hex" points="15,0 30,8 30,24 15,32 0,24 0,8" fill="none" stroke="#00FFD1" stroke-width="0.5"/>
+    
+    <!-- Sparkle -->
+    <g id="sparkle">
+      <line x1="0" y1="-6" x2="0" y2="6" stroke="url(#nameGrad)" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="-6" y1="0" x2="6" y2="0" stroke="url(#nameGrad)" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="-4" y1="-4" x2="4" y2="4" stroke="url(#nameGrad)" stroke-width="1" stroke-linecap="round"/>
+      <line x1="4" y1="-4" x2="-4" y2="4" stroke="url(#nameGrad)" stroke-width="1" stroke-linecap="round"/>
+    </g>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  
+  <!-- Animated grid -->
+  <rect width="1200" height="300" fill="url(#grid)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Floating hexagons -->
+  <use href="#hex" x="80" y="40" opacity="0.06">
+    <animate attributeName="opacity" values="0.06;0.12;0.06" dur="5s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 95 56;360 95 56" dur="30s" repeatCount="indefinite"/>
+  </use>
+  <use href="#hex" x="1060" y="200" opacity="0.05" transform="scale(0.8)">
+    <animate attributeName="opacity" values="0.05;0.1;0.05" dur="7s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 1075 216;-360 1075 216" dur="25s" repeatCount="indefinite"/>
+  </use>
+  <use href="#hex" x="950" y="30" opacity="0.04" transform="scale(0.6)">
+    <animate attributeName="opacity" values="0.04;0.09;0.04" dur="6s" repeatCount="indefinite"/>
+  </use>
+  <use href="#hex" x="200" y="220" opacity="0.05" transform="scale(0.7)">
+    <animate attributeName="opacity" values="0.05;0.08;0.05" dur="8s" repeatCount="indefinite"/>
+  </use>
+  
+  <!-- Ambient orbs -->
+  <circle cx="200" cy="80" r="80" fill="#00FFD1" opacity="0.025" filter="url(#softGlow)">
+    <animate attributeName="cx" values="200;230;200" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="80;100;80" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1000" cy="220" r="90" fill="#7B61FF" opacity="0.03" filter="url(#softGlow)">
+    <animate attributeName="cx" values="1000;970;1000" dur="14s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="90;110;90" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="150" r="60" fill="#00D4FF" opacity="0.02" filter="url(#softGlow)">
+    <animate attributeName="cy" values="150;130;150" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Floating particles -->
+  <circle cx="150" cy="60" r="1.5" fill="#00FFD1" opacity="0.5">
+    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="350" cy="250" r="1" fill="#7B61FF" opacity="0.4">
+    <animate attributeName="cy" values="250;230;250" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="550" cy="45" r="1.2" fill="#00D4FF" opacity="0.4">
+    <animate attributeName="cx" values="550;570;550" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="270" r="1" fill="#FFD700" opacity="0.3">
+    <animate attributeName="cy" values="270;250;270" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="900" cy="55" r="1.5" fill="#00FFD1" opacity="0.4">
+    <animate attributeName="cx" values="900;920;900" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="130" r="1" fill="#7B61FF" opacity="0.3">
+    <animate attributeName="cy" values="130;110;130" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="180" r="0.8" fill="#00FFD1" opacity="0.3">
+    <animate attributeName="cy" values="180;165;180" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="90" r="1.2" fill="#FFD700" opacity="0.25">
+    <animate attributeName="cx" values="680;695;680" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.25;0.6;0.25" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  
+  <!-- Sparkles -->
+  <use href="#sparkle" transform="translate(120, 45) scale(0.6)" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#sparkle" transform="translate(1080, 60) scale(0.5)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  </use>
+  <use href="#sparkle" transform="translate(980, 250) scale(0.4)" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.7;0.3" dur="3.5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#sparkle" transform="translate(300, 260) scale(0.5)" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.6;0.25" dur="4s" repeatCount="indefinite"/>
+  </use>
+  
+  <!-- === MAIN TEXT === -->
+  
+  <!-- Name - with glow -->
+  <text x="600" y="115" font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" font-size="56" font-weight="800" fill="url(#nameGrad)" text-anchor="middle" filter="url(#nameGlow)" letter-spacing="3">
+    RAJATH KIRAN A
+  </text>
+  
+  <!-- Role tagline -->
+  <text x="600" y="160" font-family="'Segoe UI', 'SF Pro Display', -apple-system, sans-serif" font-size="16" font-weight="400" fill="#7FDBFF" text-anchor="middle" letter-spacing="5" opacity="0.9">
+    FULL STACK DEVELOPER  ·  CLOUD ENGINEER  ·  OPEN SOURCE
+  </text>
+  
+  <!-- Accent line under tagline -->
+  <rect x="300" y="175" width="600" height="1.5" rx="1" fill="url(#accentLine)" filter="url(#subtleGlow)" opacity="0.7">
+    <animate attributeName="width" values="600;640;600" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="300;280;300" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Stats line -->
+  <text x="600" y="210" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" fill="#8B949E" text-anchor="middle" letter-spacing="2">
+    <tspan fill="#00FFD1">2× VTU RANK #1</tspan>
+    <tspan fill="#30363D">  ·  </tspan>
+    <tspan fill="#FFD700">50+ CLOUD BADGES</tspan>
+    <tspan fill="#30363D">  ·  </tspan>
+    <tspan fill="#00D4FF">8+ DEPLOYED APPS</tspan>
+    <tspan fill="#30363D">  ·  </tspan>
+    <tspan fill="#7B61FF">REACT · NODE · GCP</tspan>
+  </text>
+  
+  <!-- Location line -->
+  <text x="600" y="240" font-family="'Segoe UI', sans-serif" font-size="12" fill="#484F58" text-anchor="middle" letter-spacing="1.5">
+    📍 PUTTUR, INDIA  ·  🎓 VTU COMPUTER SCIENCE  ·  🌐 RAJATHKIRAN.ME
+  </text>
+  
+  <!-- Bottom accent line -->
+  <rect x="0" y="290" width="1200" height="2" fill="url(#accentLine)" opacity="0.4"/>
+  
+  <!-- Corner brackets -->
+  <path d="M 30,20 L 30,30 L 40,30" fill="none" stroke="#00FFD1" stroke-width="1.5" opacity="0.3"/>
+  <path d="M 1170,20 L 1170,30 L 1160,30" fill="none" stroke="#00FFD1" stroke-width="1.5" opacity="0.3"/>
+  <path d="M 30,280 L 30,270 L 40,270" fill="none" stroke="#00FFD1" stroke-width="1.5" opacity="0.3"/>
+  <path d="M 1170,280 L 1170,270 L 1160,270" fill="none" stroke="#00FFD1" stroke-width="1.5" opacity="0.3"/>
+  
+  <!-- Scanning line effect -->
+  <rect x="0" y="0" width="1200" height="2" fill="#00FFD1" opacity="0.05">
+    <animate attributeName="y" values="0;300;0" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.05;0.12;0.05" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

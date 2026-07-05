@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="280" viewBox="0 0 840 280">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#111922"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00FFD1;stop-opacity:0.5">
+        <animate attributeName="stop-color" values="#00FFD1;#7B61FF;#00D4FF;#00FFD1" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#7B61FF;stop-opacity:0.3">
+        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#00FFD1;#7B61FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0.5">
+        <animate attributeName="stop-color" values="#00D4FF;#00FFD1;#7B61FF;#00D4FF" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Card background -->
+  <rect x="2" y="2" width="836" height="276" rx="16" fill="url(#cardBg)"/>
+  
+  <!-- Animated border -->
+  <rect x="2" y="2" width="836" height="276" rx="16" fill="none" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  
+  <!-- Terminal header bar -->
+  <rect x="2" y="2" width="836" height="36" rx="16" fill="#161B22"/>
+  <rect x="2" y="22" width="836" height="16" fill="#161B22"/>
+  
+  <!-- Traffic lights -->
+  <circle cx="24" cy="20" r="5.5" fill="#FF5F57"/>
+  <circle cx="44" cy="20" r="5.5" fill="#FFBD2E"/>
+  <circle cx="64" cy="20" r="5.5" fill="#28C840"/>
+  
+  <!-- Terminal title -->
+  <text x="420" y="24" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#8B949E" text-anchor="middle">rajath@github ~ $ whoami</text>
+  
+  <!-- Content area -->
+  <!-- Prompt line 1 -->
+  <text x="24" y="62" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> name</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#E6EDF3"> Rajath Kiran A</tspan>
+  </text>
+  
+  <!-- Prompt line 2 -->
+  <text x="24" y="88" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> role</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#E6EDF3"> Full Stack Developer &amp; Cloud Engineer</tspan>
+  </text>
+  
+  <!-- Prompt line 3 -->
+  <text x="24" y="114" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> education</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#E6EDF3"> B.E. Computer Science — VCET Puttur (VTU)</tspan>
+  </text>
+  
+  <!-- Prompt line 4 -->
+  <text x="24" y="140" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> stack</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#E6EDF3"> [</tspan>
+    <tspan fill="#FFD700">"React"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"Node.js"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"Next.js"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"GCP"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"MongoDB"</tspan>
+    <tspan fill="#E6EDF3">]</tspan>
+  </text>
+  
+  <!-- Prompt line 5 -->
+  <text x="24" y="166" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> achievements</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#E6EDF3"> [</tspan>
+    <tspan fill="#00FFD1">"2× VTU Rank #1"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#00FFD1">"50+ GCP Badges"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#00FFD1">"NPTEL Certified"</tspan>
+    <tspan fill="#E6EDF3">]</tspan>
+  </text>
+  
+  <!-- Prompt line 6 -->
+  <text x="24" y="192" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> currently</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#E6EDF3"> Building AI-powered healthcare &amp; smart city apps</tspan>
+  </text>
+  
+  <!-- Prompt line 7 -->
+  <text x="24" y="218" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> portfolio</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#7B61FF"> https://rajathkiran.me</tspan>
+  </text>
+  
+  <!-- Prompt line 8 -->
+  <text x="24" y="244" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13">
+    <tspan fill="#00FFD1">→</tspan>
+    <tspan fill="#7FDBFF"> open_to</tspan>
+    <tspan fill="#484F58">:</tspan>
+    <tspan fill="#E6EDF3"> [</tspan>
+    <tspan fill="#28C840">"Internships"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#28C840">"Collaborations"</tspan>
+    <tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#28C840">"Open Source"</tspan>
+    <tspan fill="#E6EDF3">]</tspan>
+  </text>
+  
+  <!-- Blinking cursor -->
+  <rect x="24" y="256" width="8" height="14" fill="#00FFD1">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Ambient dot -->
+  <circle cx="800" cy="50" r="1" fill="#00FFD1" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

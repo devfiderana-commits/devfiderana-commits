@@ -1,563 +1,311 @@
 <div align="center">
 
-<!-- CINEMATIC HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a1628,100:0d2137&height=240&section=header&text=RAJATH%20KIRAN%20A&fontSize=78&fontColor=00FFD1&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20Cloud%20Explorer%20·%20CS%20@%20VCET%20Puttur&descAlignY=62&descSize=17&descColor=7FDBFF&stroke=00FFD1&strokeWidth=1.5"/>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CUSTOM ANIMATED HEADER BANNER                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<a href="https://rajathkiran.me">
+  <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/header-banner.svg" width="100%" alt="Rajath Kiran A — Full Stack Developer, Cloud Engineer, and Open Source Contributor from India"/>
+</a>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=45&lines=🚀+Building+Full+Stack+Web+Apps;☁️+Google+Cloud+Arcade+Silver+League;🏆+2×+VTU+Topper+—+Code360+Challenge;📝+Technical+Blogger+on+WordPress+%26+Medium;⚡+Turning+ideas+into+deployed+products" alt="Typing SVG" />
-
+<a href="https://rajathkiran.me">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1500&color=00FFD1&center=true&vCenter=true&width=700&height=40&lines=%E2%9C%A8+Building+products+that+solve+real+problems;%F0%9F%8F%86+2%C3%97+VTU+Rank+%231+%7C+50%2B+Google+Cloud+Badges;%F0%9F%92%BB+React+%C2%B7+Node.js+%C2%B7+Next.js+%C2%B7+GCP+%C2%B7+MongoDB;%F0%9F%8C%8D+Open+for+Internships+%26+Collaborations" alt="Rajath Kiran A — Full Stack Developer specializing in React, Node.js, and Google Cloud"/>
+</a>
 
 <br/>
 
-<!-- Live Badges -->
-<img src="https://komarev.com/ghpvc/?username=Rajath2005&label=PROFILE+VIEWS&color=00FFD1&style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/Rajath2005?label=FOLLOWERS&style=for-the-badge&color=00FFD1&labelColor=0D1117&logo=github"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/Rajath2005?affiliations=OWNER&label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Google_Arcade-Silver_League_·_490pts-C0C0C0?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1117"/>
+<!-- Elegant flat metrics -->
+<a href="https://github.com/Rajath2005"><img src="https://komarev.com/ghpvc/?username=Rajath2005&label=Profile+Views&color=00FFD1&style=flat&labelColor=0D1117" alt="Profile views"/></a>
+<img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&style=flat&labelColor=0D1117&color=00FFD1&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FRajath2005&cacheSeconds=300" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/Rajath2005?affiliations=OWNER&label=Total+Stars&style=flat&color=FFD700&labelColor=0D1117&logo=github" alt="Total GitHub stars"/>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
 
-<!-- TERMINAL ABOUT -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    ANIMATED TERMINAL ABOUT CARD                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  $ whoami                                                                        ║
-║  ┌─────────────────────────────────────────────────────────────────────────┐     ║
-║  │  Rajath Kiran A  •  Born: June 28, 2005  •  Puttur, Mangalore, India   │     ║
-║  │  B.E. Computer Science — VCET Puttur, VTU                              │     ║
-║  └─────────────────────────────────────────────────────────────────────────┘     ║
-║                                                                                  ║
-║  $ cat interests.json                                                            ║
-║  {                                                                               ║
-║    "coding"    : ["Full Stack Web", "DSA", "AI/ML", "Cloud"],                    ║
-║    "sports"    : ["Cricket 🏏", "Volleyball 🏐"],                                ║
-║    "music"     : true,                                                           ║
-║    "philosophy": "All learning should be interesting and enjoyable"              ║
-║  }                                                                               ║
-║                                                                                  ║
-║  $ ./highlights.sh                                                               ║
-║  ✅  2× VTU Topper — Code360 30-Day Monthly Coding Challenge                    ║
-║  ✅  Google Cloud Arcade — Silver League (490 pts, 19 badges earned)            ║
-║  ✅  Worked with Nexara — WordPress websites (Plumbing + NGO sites)             ║
-║  ✅  Published 5 technical blogs across WordPress & Medium                      ║
-║  ✅  8+ production projects deployed on Netlify / Vercel / GitHub Pages         ║
-║                                                                                  ║
-║  $ ping rajathajeru@gmail.com  →  [OPEN FOR: Internships, Collaborations]        ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
+<a href="https://rajathkiran.me">
+  <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/about-card.svg" width="90%" alt="Rajath Kiran A — Full Stack Developer, B.E. Computer Science at VCET Puttur VTU, specializing in React, Node.js, Next.js, Google Cloud Platform, MongoDB. 2x VTU Rank 1, 50+ Google Cloud badges, NPTEL certified. Building AI-powered healthcare and smart city applications. Open for internships and collaborations."/>
+</a>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
 
-<!-- SNAKE GAME — pointing to main branch (where your SVGs actually are) -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                         TECH STACK                                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/section-tech.svg" width="50%" alt="Tech Arsenal"/>
+<br/><br/>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117" alt="C"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117" alt="C++"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="TypeScript"/>
+
+<br/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" alt="CSS3"/>
+
+<br/>
+
+<!-- Backend & Database -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" alt="Express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117" alt="Firebase"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" alt="MySQL"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL"/>
+
+<br/>
+
+<!-- Cloud & DevOps -->
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1117" alt="Google Cloud Platform"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" alt="Linux"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FEATURED PROJECTS                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/section-projects.svg" width="50%" alt="Featured Projects"/>
+<br/><br/>
+
+<a href="https://github.com/Rajath2005/mediq.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=mediq.io&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="MediQ.io — Modern healthcare platform with appointments, health records, and smart tools"/></a>
+<a href="https://github.com/Rajath2005/SmartCityApp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=SmartCityApp&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="SmartCityApp — Java app for city attraction management with role-based access"/></a>
+<a href="https://github.com/Rajath2005/COPD"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=COPD&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="COPD — Chronic Obstructive Pulmonary Disease prediction and analysis"/></a>
+<a href="https://github.com/Rajath2005/code-review-env"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=code-review-env&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="Code Review Env — Automated code review environment and tooling"/></a>
+<a href="https://github.com/Rajath2005/Englisho.io"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=Englisho.io&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="Englisho.io — Interactive English dictionary with pronunciation and search history"/></a>
+<a href="https://github.com/Rajath2005/rajathkiran.me"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Rajath2005&repo=rajathkiran.me&theme=react&bg_color=0D1117&title_color=00FFD1&hide_border=true&icon_color=FFD700&show_icons=true&description_lines_count=2" alt="rajathkiran.me — Personal portfolio with dark-themed UI and smooth animations"/></a>
+
+<br/>
+
+<a href="https://github.com/Rajath2005?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/badge/Explore_All_Repositories_%E2%86%92-00FFD1?style=for-the-badge&logo=github&logoColor=0D1117" alt="View all repositories"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       GITHUB ANALYTICS                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/section-stats.svg" width="50%" alt="GitHub Analytics"/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&title_color=00FFD1&icon_color=FFD700&text_color=C9D1D9&bg_color=0D1117&ring_color=00FFD1" height="190" alt="Rajath Kiran GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Rajath2005&theme=transparent&hide_border=true&border_radius=12&stroke=00FFD1&ring=00FFD1&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=8B949E&background=0D1117" height="190" alt="GitHub Streak Stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajath2005&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD120&hide_border=true&border_radius=12&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=donut-vertical&hide_border=true&langs_count=8&border_radius=12&title_color=00FFD1&text_color=C9D1D9&bg_color=0D1117" height="220" alt="Most used languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajath2005&theme=2077&utc_offset=5.5" height="220" alt="Most productive coding hours"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rajath2005&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" alt="GitHub Trophies"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      CONTRIBUTION SNAKE                               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-### 🐍 CONTRIBUTIONS — ALIVE
+### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/cyber-matrix.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/plasma-orange.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/cyber-matrix.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-light.svg">
+  <img alt="GitHub contribution graph snake animation" src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
 
-<!-- ACHIEVEMENTS -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      ACHIEVEMENTS & CODING                            ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-# 🏆 ACHIEVEMENTS & ACCOLADES
-
-</div>
+### 🏆 Achievements & Competitive Coding
 
 <table>
 <tr>
-
 <td align="center" width="33%">
 
-### 🥇 Code360 — VTU Topper
-<br/>
-<img src="https://img.shields.io/badge/🏆_2×_VTU_TOPPER-Code360-FF6B35?style=for-the-badge&labelColor=0D1117"/>
-<br/><br/>
-
-**Ranked #1 among VTU students** in the 30-Day Monthly Coding Challenge on Code360 — **twice**. Competing against thousands of VTU peers in daily DSA challenges.
-
-<br/>
-<a href="https://www.naukri.com/code360/profile/rajathajeru">
-  <img src="https://img.shields.io/badge/View_Profile-Code360-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=0D1117"/>
-</a>
+**🥇 2× VTU Rank #1**<br/>
+<sub>Code360 30-Day Challenge</sub><br/>
+<sub>Ranked #1 among all VTU students — **twice**</sub><br/><br/>
+<a href="https://www.naukri.com/code360/profile/rajathajeru"><img src="https://img.shields.io/badge/Code360-Profile-FF6B35?style=flat-square&logo=codingninjas&logoColor=white&labelColor=0D1117" alt="Code360"/></a>
 
 </td>
-
 <td align="center" width="33%">
 
-### ☁️ Google Cloud Arcade
-<br/>
-<img src="https://img.shields.io/badge/☁️_SILVER_LEAGUE-490_Points-C0C0C0?style=for-the-badge&labelColor=0D1117"/>
-<br/><br/>
-
-**19 badges earned** across Cloud, GenAI, DevOps and Kubernetes. Active since Jan 2026 — completing monthly sprints consistently.
-
-Latest: *Holi-istic Infrastructures · March 2026 Sprint 1*
-
-<br/>
-<a href="https://www.skills.google/public_profiles/09886862-52b8-44a4-86a5-9559a3952dd0">
-  <img src="https://img.shields.io/badge/View_Badges-Google_Arcade-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1117"/>
-</a>
+**☁️ 50+ Cloud Badges**<br/>
+<sub>Google Cloud Arcade</sub><br/>
+<sub>Cloud, GenAI, DevOps, Kubernetes & more</sub><br/><br/>
+<a href="https://www.skills.google/public_profiles/09886862-52b8-44a4-86a5-9559a3952dd0"><img src="https://img.shields.io/badge/Google_Cloud-Badges-4285F4?style=flat-square&logo=google-cloud&logoColor=white&labelColor=0D1117" alt="Google Cloud"/></a>
 
 </td>
-
 <td align="center" width="33%">
 
-### 🐍 NPTEL Certified
-<br/>
-<img src="https://img.shields.io/badge/📜_NPTEL-Joy_of_Computing-3776AB?style=for-the-badge&labelColor=0D1117"/>
-<br/><br/>
-
-Completed **Joy of Computing Using Python** — IIT Madras / NPTEL with hands-on problem solving and real-world mini-projects.
-
-<br/>
-<a href="https://github.com/Rajath2005/joy-of-computing-python">
-  <img src="https://img.shields.io/badge/View_Solutions-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
+**📜 NPTEL Certified**<br/>
+<sub>Joy of Computing — Python</sub><br/>
+<sub>IIT Madras · Hands-on problem solving</sub><br/><br/>
+<a href="https://github.com/Rajath2005/joy-of-computing-python"><img src="https://img.shields.io/badge/Solutions-GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" alt="Solutions"/></a>
 
 </td>
 </tr>
 </table>
-
-<!-- Google Arcade Badge Wall -->
-<div align="center">
-
-### ☁️ GOOGLE ARCADE BADGE WALL — 19 Badges & Counting
-
-<img src="https://img.shields.io/badge/Holi--istic_Infrastructures-Mar_2026-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arcade_March_Sprint_1-Mar_2026-34A853?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Skills_At_The_Pitch-Feb_2026-FBBC05?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feb_2026_Sprint_4-Feb_2026-EA4335?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feb_2026_Sprint_3-Feb_2026-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feb_2026_Sprint_2-Feb_2026-34A853?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Feb_2026_Sprint_1-Feb_2026-FBBC05?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/From_Foundations_To_Wonders-Feb_2026-EA4335?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Level_3:_Applied_GenAI-Jan_2026-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Level_2:_Event--Driven_Systems-Jan_2026-34A853?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Level_1:_Compute_+_Storage-Jan_2026-FBBC05?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arcade_Base_Camp_Jan_2026-Jan_2026-EA4335?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Certification_Zone_Jan_2026-Jan_2026-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivia_Jan_Wk_4-Jan_2026-34A853?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivia_Jan_Wk_3-Jan_2026-FBBC05?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivia_Jan_Wk_2-Jan_2026-EA4335?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trivia_Jan_Wk_1-Jan_2026-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Work_Life_Refresh-Jan_2026-34A853?style=flat-square&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Intro_to_Generative_AI-Nov_2025-FBBC05?style=flat-square&logo=google-cloud&logoColor=white"/>
-
-</div>
-
----
-
-<!-- GITHUB ANALYTICS -->
-<div align="center">
-
-# 📊 GITHUB ANALYTICS
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&theme=merko&hide_border=true&count_private=true&include_all_commits=true&border_radius=16&title_color=00FFD1&icon_color=00FFD1&text_color=C9D1D9&bg_color=0D1117&ring_color=00FFD1&custom_title=⚡+Rajath's+GitHub+Stats" height="205"/>
-</td>
-<td align="center" width="50%">
-<img src="https://streak-stats.demolab.com/?user=Rajath2005&theme=transparent&hide_border=true&border_radius=16&stroke=00FFD1&ring=00FFD1&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=8B949E&background=0D1117" height="205"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajath2005&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD120&hide_border=true&border_radius=16&custom_title=📈%20Contribution%20Activity%20Graph&theme=react-dark" width="95%"/>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="40%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=donut&theme=merko&hide_border=true&langs_count=8&border_radius=16&title_color=00FFD1&text_color=C9D1D9&bg_color=0D1117&custom_title=Languages" height="230"/>
-</td>
-<td align="center" width="30%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajath2005&theme=2077" height="110"/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajath2005&theme=2077&utc_offset=5.5" height="110"/>
-</td>
-<td align="center" width="30%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rajath2005&theme=2077" height="110"/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajath2005&theme=2077" height="110"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rajath2005&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%"/>
-
-</div>
-
----
-
-<!-- TECH STACK -->
-<div align="center">
-
-# 🛠 ARSENAL
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**Languages**<br/><br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=3"/>
-
-</td>
-<td align="center" width="25%">
-
-**Frontend**<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=3"/>
-
-</td>
-<td align="center" width="25%">
-
-**Backend & DB**<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,firebase&perline=3"/>
-
-</td>
-<td align="center" width="25%">
-
-**Tools & Cloud**<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,gcp,linux&perline=3"/>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- COMPETITIVE CODING -->
-<div align="center">
-
-# ⚔️ COMPETITIVE CODING
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🟧 LeetCode — @rajath2005
-
-<img src="https://leetcard.jacoblin.cool/rajath2005?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=16" width="95%" alt="LeetCode Stats"/>
 
 <br/>
 
 <a href="https://leetcode.com/u/rajath2005/">
-  <img src="https://img.shields.io/badge/LeetCode-@rajath2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117"/>
+  <img src="https://leetcard.jacoblin.cool/rajath2005?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" width="50%" alt="LeetCode stats and heatmap"/>
 </a>
 
-</td>
-<td align="center" width="50%">
+<br/><br/>
 
-### 🟠 Code360 — 2× VTU Rank #1
-
-```
-╔══════════════════════════════════════╗
-║  🏆  CODE360 ACHIEVEMENTS            ║
-║                                      ║
-║  Platform : Naukri Code360          ║
-║  Username : rajathajeru             ║
-║                                      ║
-║  🥇  VTU Topper                     ║
-║      30-Day Challenge — Round 1     ║
-║      Rank #1 across all VTU         ║
-║                                      ║
-║  🥇  VTU Topper                     ║
-║      30-Day Challenge — Round 2     ║
-║      Rank #1 across all VTU         ║
-║                                      ║
-║  Competing in C++ / Java / Python   ║
-╚══════════════════════════════════════╝
-```
-
-<a href="https://www.naukri.com/code360/profile/rajathajeru">
-  <img src="https://img.shields.io/badge/Code360-@rajathajeru-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=0D1117"/>
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/@rajathajeru">
-  <img src="https://img.shields.io/badge/HackerRank-@rajathajeru-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- FEATURED PROJECTS -->
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=3000&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=🚀+FEATURED+PROJECTS;Products+I'm+Proud+Of;Code+•+Deploy+•+Impact" alt="Projects Header"/>
+<a href="https://leetcode.com/u/rajath2005/"><img src="https://img.shields.io/badge/LeetCode-@rajath2005-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode"/></a>&nbsp;
+<a href="https://www.naukri.com/code360/profile/rajathajeru"><img src="https://img.shields.io/badge/Code360-2×_VTU_Rank_%231-FF6B35?style=flat-square&logo=codingninjas&logoColor=white&labelColor=0D1117" alt="Code360"/></a>&nbsp;
+<a href="https://www.hackerrank.com/@rajathajeru"><img src="https://img.shields.io/badge/HackerRank-@rajathajeru-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="HackerRank"/></a>
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
 
-<details open>
-<summary><b>🩺 MediQ.io — Healthcare Management Platform</b> &nbsp;•&nbsp; <code>React</code> <code>Node.js</code> <code>MongoDB</code></summary>
-<br/>
-
-> A modern, full-stack healthcare system bridging patients and providers with clean, accessible UI.
-
-| Feature | Status |
-|---------|--------|
-| 🔐 Secure Patient Auth | ✅ Live |
-| 📅 Appointment Scheduling | ✅ Live |
-| 💊 Medication Tracker | ✅ Live |
-| 📊 Health Analytics Dashboard | ✅ Live |
-| 📱 Mobile-First Responsive | ✅ Live |
-
-[![Repo](https://img.shields.io/badge/GitHub-mediq.io-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Rajath2005/mediq.io)
-[![Stars](https://img.shields.io/github/stars/Rajath2005/mediq.io?style=social)](https://github.com/Rajath2005/mediq.io/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/Rajath2005/mediq.io?color=00FFD1&labelColor=0D1117)](https://github.com/Rajath2005/mediq.io)
-
-</details>
-
-<details>
-<summary><b>📝 TextUtils.io — Power Text Transformer</b> &nbsp;•&nbsp; <code>React</code> <code>JavaScript</code></summary>
-<br/>
-
-> Real-time text transformation utility — 50+ operations, instant output, zero backend.
-
-[![Repo](https://img.shields.io/badge/GitHub-textutils.io-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Rajath2005/textutils.io)
-[![Stars](https://img.shields.io/github/stars/Rajath2005/textutils.io?style=social)](https://github.com/Rajath2005/textutils.io/stargazers)
-
-</details>
-
-<details>
-<summary><b>📚 Englisho.io — English Learning Platform</b> &nbsp;•&nbsp; <code>React</code> <code>Firebase</code></summary>
-<br/>
-
-> Gamified English learning with streaks, leaderboards, and interactive exercises.
-
-[![Repo](https://img.shields.io/badge/GitHub-Englisho.io-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Rajath2005/Englisho.io)
-[![Stars](https://img.shields.io/github/stars/Rajath2005/Englisho.io?style=social)](https://github.com/Rajath2005/Englisho.io/stargazers)
-
-</details>
-
-<details>
-<summary><b>⚙️ Analysis & Design of Algorithms</b> &nbsp;•&nbsp; <code>C++</code> <code>Python</code> <code>Java</code></summary>
-<br/>
-
-> 30+ algorithms implemented with complexity analysis: Divide & Conquer, DP, Greedy, Backtracking.
-
-[![Repo](https://img.shields.io/badge/GitHub-ADA-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Rajath2005/Analysis-and-Design-of-Algorithms)
-
-</details>
-
-<div align="center">
-
-| 🍽️ Hotel Menu.io | 💼 Portfolio | 📄 LaTeX Lab Manuals | 🐍 Joy of Computing |
-|:---:|:---:|:---:|:---:|
-| Digital menu platform | Personal brand site | Academic LaTeX docs | NPTEL Python solutions |
-| [![](https://img.shields.io/badge/-Repo-0D1117?logo=github)](https://github.com/Rajath2005/hotel-menu.io) | [![](https://img.shields.io/badge/-Repo-0D1117?logo=github)](https://github.com/Rajath2005/rajathkiran.io) | [![](https://img.shields.io/badge/-Repo-0D1117?logo=github)](https://github.com/Rajath2005/latex-lab-manuals) | [![](https://img.shields.io/badge/-Repo-0D1117?logo=github)](https://github.com/Rajath2005/joy-of-computing-python) |
-
-<a href="https://github.com/Rajath2005?tab=repositories">
-  <img src="https://img.shields.io/badge/🔍_All_Repositories-0969da?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-</a>
-
-</div>
-
----
-
-<!-- BLOG -->
-<div align="center">
-
-# ✍️ TECHNICAL WRITING
-
-</div>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    WRITING & CURRENT WORK                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-### 📝 WordPress — Life in Focus
+### ✍️ Latest Articles
 
-| Article | Link |
-|---------|------|
-| 🔌 Top 5 VS Code Extensions for Student Devs (2025) | [Read →](https://rajathpersonal28com.wordpress.com/2025/07/30/top-5-vs-code-extensions-every-student-developer-should-use-in-2025/) |
-| 🌐 Top Free Online Resources for Learning Programming | [Read →](https://rajathpersonal28com.wordpress.com/2025/02/05/top-free-online-resources-for-learning-programming/) |
-| 🗺️ A Beginner's Tech Roadmap for Web Design | [Read →](https://rajathpersonal28com.wordpress.com/2025/02/05/a-beginners-tech-roadmap-for-web-design/) |
-| 🤖 The Truth About AI — Advantages & Disadvantages | [Read →](https://rajathpersonal28com.wordpress.com/2025/02/06/the-truth-about-ai-what-are-its-advantages-and-disadvantages/) |
+- 🔌 [Top 5 VS Code Extensions for Student Devs](https://rajathpersonal28com.wordpress.com/2025/07/30/top-5-vs-code-extensions-every-student-developer-should-use-in-2025/)
+- 🌐 [Top Free Resources for Learning Programming](https://rajathpersonal28com.wordpress.com/2025/02/05/top-free-online-resources-for-learning-programming/)
+- 🗺️ [Beginner's Tech Roadmap for Web Design](https://rajathpersonal28com.wordpress.com/2025/02/05/a-beginners-tech-roadmap-for-web-design/)
+- 🧠 [Memory Management in Operating Systems](https://medium.com/@arajath5463/memory-management-techniques-in-operating-system-eb1f53d7f1f9)
 
 </td>
 <td width="45%" valign="top">
 
-### 📰 Medium — Technical Deep Dives
+### 🎯 Currently
 
-| Article | Link |
-|---------|------|
-| 🧠 Memory Management in Operating Systems | [Read →](https://medium.com/@arajath5463/memory-management-techniques-in-operating-system-eb1f53d7f1f9) |
-
-<br/>
-
-<a href="https://rajathpersonal28com.wordpress.com/">
-  <img src="https://img.shields.io/badge/WordPress_Blog-Life_in_Focus-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0D1117"/>
-</a>
-<br/><br/>
-<a href="https://medium.com/@arajath5463">
-  <img src="https://img.shields.io/badge/Medium-@arajath5463-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=0D1117"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- EXPERIENCE -->
-<div align="center">
-
-# 💼 EXPERIENCE
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="8%">🏢</td>
-<td>
-
-**Web Developer — Nexara**
-
-Built and deployed client websites using **WordPress + Divi theme** — including a Plumbing Services site and an NGO website. Handled plugins, local dev setup, and performance optimization.
-
-`WordPress` `Divi` `UI/UX` `Performance Optimization`
-
-</td>
-</tr>
-<tr>
-<td align="center">🎨</td>
-<td>
-
-**Content & Digital Designer**
-
-Created social media content using **Canva** — Reels, Carousel Posters, and brand visuals for multiple clients to enhance digital presence and engagement.
-
-`Canva` `Social Media` `Brand Design` `Content Strategy`
+```yaml
+building:
+  - AI-powered healthcare (MediQ.io v2)
+  - Smart city management system
+learning:
+  - LangChain & LLM API integration
+  - System Design & Scalability
+  - Docker & Kubernetes
+grinding:
+  - Daily LeetCode challenges
+  - Advanced DSA patterns
+goal:
+  - GCP Cloud Certification
+```
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
 
-<!-- NOW -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                           CONNECT                                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-# 🎯 RIGHT NOW
+### 🌐 Let's Connect
+
+<a href="https://rajathkiran.me"><img src="https://img.shields.io/badge/Portfolio-rajathkiran.me-00FFD1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/rajath-kiran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:rajathajeru@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/></a>
+
+<br/><br/>
+
+<a href="https://x.com/rajathajeru"><img src="https://img.shields.io/badge/@rajathajeru-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
+<a href="https://rajathpersonal28com.wordpress.com/"><img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Blog"/></a>&nbsp;
+<a href="https://medium.com/@arajath5463"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+
+<br/><br/>
+
+```
+💼 Open to: Internships · Full-time · Freelance · Open Source
+📍 Puttur, Mangalore, India — Available remotely worldwide
+⚡ Response time: < 24 hours
+```
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            FOOTER                                     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-### 🔨 Currently Building
-- 🧠 AI-powered web app with LLM integration
-- 🏥 MediQ.io v2 — adding ML diagnostics module
-- ☁️ Deploying projects on Google Cloud Platform
-- 📊 Real-time collaborative coding environment
-
-</td>
-<td width="50%" valign="top">
-
-### 📖 Currently Learning
-- ☁️ GCP Cloud Architecture (Arcade → Certification)
-- 🤖 LangChain & LLM API integration
-- 🏗️ System Design & Scalability patterns
-- 🧮 Advanced DSA — daily LeetCode grind
-- 🐳 Docker & Kubernetes (via Google Arcade labs)
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- CONNECT -->
-<div align="center">
-
-# 🌐 FIND ME ACROSS THE WEB
-
-<br/>
-
-<a href="https://rajathkiran.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-rajathkiran.netlify.app-00FFD1?style=for-the-badge&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/rajath-kiran/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="mailto:rajathajeru@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://x.com/rajathajeru">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://www.skills.google/public_profiles/09886862-52b8-44a4-86a5-9559a3952dd0">
-  <img src="https://img.shields.io/badge/Google_Arcade-Silver_League-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/rajath2005/">
-  <img src="https://img.shields.io/badge/LeetCode-@rajath2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0D1117"/>
-</a>
-<a href="https://www.naukri.com/code360/profile/rajathajeru">
-  <img src="https://img.shields.io/badge/Code360-2×_VTU_Topper-FF6B35?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://www.hackerrank.com/@rajathajeru">
-  <img src="https://img.shields.io/badge/HackerRank-@rajathajeru-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"/>
-</a>
-<a href="https://rajathpersonal28com.wordpress.com/">
-  <img src="https://img.shields.io/badge/Blog-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-> 💬 **Open to:** Internships · Full-time roles · Freelance projects · Open source collaboration
->
-> 📍 Puttur, Mangalore, India — available **remotely worldwide**
->
-> ⚡ Response time: **&lt; 24 hours**
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1628,100:00FFD120&height=130&section=footer&text=Thanks+for+visiting!+⭐+Star+something+you+like!&fontSize=18&fontColor=00FFD1&animation=twinkling&fontAlignY=72"/>
-
-</div>
-
----
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/wave-divider.svg" width="100%" alt=""/>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random developer quote"/>
 
 <br/><br/>
 
 <sub>
-  Crafted with <code>💻 + ☕ + 2AM energy</code> by <b>Rajath Kiran A</b> — Puttur, Mangalore, India 🇮🇳
+  Crafted with <code>passion + precision</code> by <b><a href="https://rajathkiran.me">Rajath Kiran A</a></b> 🇮🇳
   <br/>
   <i>"All learning should be interesting and enjoyable."</i>
+  <br/><br/>
+  Last updated: July 2026
 </sub>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a1628,100:00FFD108&height=80&section=footer" alt=""/>
 
 </div>

@@ -1,4 +1,4 @@
-name: 🐍 Generate Futuristic Snake Game
+name: 🐍 Generate Contribution Snake Animation
 
 on:
   push:
@@ -12,35 +12,29 @@ permissions:
   contents: write
 
 jobs:
-  generate-snake-game:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Generate Futuristic Snake Game Visualizations
+      - name: Generate Snake Animations
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: Rajath2005
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
-            cyber-matrix.svg?palette=github-dark&color_snake=#00FFD1&color_dots=#0D1117,#161B22,#21262D,#30363D,#484F58
-            neon-cyberpunk.svg?palette=github-dark&color_snake=#FF073A&color_dots=#0A0A0A,#1A0A1A,#2A0A2A,#3A0A3A,#FF073A
-            electric-blue.gif?palette=github-dark&color_snake=#00D4FF&color_dots=#000814,#001D3D,#003566,#0077B6,#00B4D8
-            quantum-purple.svg?palette=github-dark&color_snake=#C77DFF&color_dots=#10002B,#240046,#3C096C,#5A189A,#7B2CBF
-            hologram-green.gif?palette=github-dark&color_snake=#39FF14&color_dots=#001100,#002200,#003300,#004400,#005500
-            plasma-orange.svg?palette=github-dark&color_snake=#FF6D00&color_dots=#0F0F0F,#1F1F1F,#2F2F2F,#3F3F3F,#4F4F4F
-            ocean-teal.svg?palette=github-dark&color_snake=#00FFD1&color_dots=#0A1628,#0D2137,#102B46,#133555,#164064
-            solar-gold.svg?palette=github-dark&color_snake=#FFD700&color_dots=#1A1200,#2A1F00,#3A2C00,#4A3900,#5A4600
+            assets/snake-dark.svg?palette=github-dark&color_snake=#00FFD1&color_dots=#0D1117,#161B22,#21262D,#30363D,#484F58
+            assets/snake-light.svg?palette=github&color_snake=#00897B&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
-      - name: Commit and Push Generated Files
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add *.svg *.gif
+          git add assets/snake-*.svg
           if git diff --cached --quiet; then
-            echo "No changes to commit - all files are up to date."
+            echo "No changes to commit."
           else
-            git commit -m "🐍 Auto-update: Regenerate all snake game animations [$(date +'%Y-%m-%d')]"
+            git commit -m "🐍 Update snake animations [$(date +'%Y-%m-%d')]"
             git push
           fi
