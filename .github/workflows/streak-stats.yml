@@ -1,38 +1,35 @@
-name: 🔥 Generate Streak Stats
+name: 📊 Generate Stats Cards
 
 on:
+  push:
+    branches: [main]
   schedule:
-    - cron: '0 0 * * *'   # Runs daily at midnight UTC
-  workflow_dispatch:       # Allow manual trigger
+    - cron: '0 0 * * *'   # Daily at midnight UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  generate-streak:
+  generate-stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Streak Stats SVG
-        uses: be-next/github-streak-stats-action@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          username: Rajath2005
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output_path: assets/streak-stats.svg
-          hide_border: 'true'
-          border_radius: '12'
-          background: '0D1117'
-          border: '00FFD1'
-          stroke: '00FFD1'
-          ring: '00FFD1'
-          fire: 'FF6B35'
-          currStreakNum: 'FFFFFF'
-          sideNums: 'FFFFFF'
-          currStreakLabel: '00FFD1'
-          sideLabels: '00FFD1'
-          dates: '8B949E'
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests python-dateutil
+
+      - name: Generate Streak Stats SVG
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: Rajath2005
+        run: python .github/scripts/generate_streak.py
 
       - name: Commit and Push
         run: |
@@ -42,6 +39,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🔥 Update streak stats [$(date +'%Y-%m-%d')]"
+            git commit -m "📊 Update streak stats SVG [$(date +'%Y-%m-%d')]"
             git push
           fi
