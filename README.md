@@ -187,11 +187,11 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajath2005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&border_radius=12&title_color=00FFD1&icon_color=FFD700&text_color=C9D1D9&bg_color=0D1117&ring_color=00FFD1" height="190" alt="Rajath Kiran GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=Rajath2005&theme=transparent&hide_border=true&border_radius=12&stroke=00FFD1&ring=00FFD1&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFD1&sideLabels=00FFD1&dates=8B949E&background=0D1117" height="190" alt="GitHub Streak Stats"/>
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/streak-stats.svg" height="190" alt="GitHub Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajath2005&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&area=true&area_color=00FFD120&hide_border=true&border_radius=12&custom_title=Contribution%20Timeline" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajath2005&theme=github_dark" width="95%" alt="Contribution Activity Graph"/>
 
 <br/><br/>
 

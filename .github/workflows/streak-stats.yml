@@ -1,0 +1,47 @@
+name: 🔥 Generate Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Runs daily at midnight UTC
+  workflow_dispatch:       # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  generate-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats SVG
+        uses: be-next/github-streak-stats-action@v1
+        with:
+          username: Rajath2005
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: assets/streak-stats.svg
+          hide_border: 'true'
+          border_radius: '12'
+          background: '0D1117'
+          border: '00FFD1'
+          stroke: '00FFD1'
+          ring: '00FFD1'
+          fire: 'FF6B35'
+          currStreakNum: 'FFFFFF'
+          sideNums: 'FFFFFF'
+          currStreakLabel: '00FFD1'
+          sideLabels: '00FFD1'
+          dates: '8B949E'
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/streak-stats.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🔥 Update streak stats [$(date +'%Y-%m-%d')]"
+            git push
+          fi
