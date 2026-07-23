@@ -370,22 +370,6 @@ goal:
 <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        SPOTIFY NOW PLAYING                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-### 🎵 Now Playing
-
-<a href="https://open.spotify.com">
-  <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/now-playing.svg" width="380" alt="Rajath Kiran A Spotify now playing — current track"/>
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                           CONNECT                                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
