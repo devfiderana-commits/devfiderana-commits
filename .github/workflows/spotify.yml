@@ -1,0 +1,43 @@
+name: 🎵 Spotify Now Playing
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # Every 5 minutes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  spotify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Now Playing
+        uses: novatorem/novatorem@master
+        env:
+          SPOTIFY_CLIENT_ID:     ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          # Output to assets folder
+          SPOTIFY_BAR_COLOR: "#00FFD1"
+
+      - name: Move output to assets
+        run: |
+          if [ -f "now-playing.svg" ]; then
+            mv now-playing.svg assets/now-playing.svg
+          fi
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/now-playing.svg
+          if git diff --cached --quiet; then
+            echo "Nothing changed — not playing or same track."
+          else
+            git commit -m "🎵 Update Spotify now playing [$(date +'%H:%M')]"
+            git push
+          fi
