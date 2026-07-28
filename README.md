@@ -8,13 +8,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/header-banner.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/header-banner.svg">
-    <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/header-banner.svg" width="100%" alt="Rajath Kiran A — Full Stack Developer, Cloud Engineer, and Open Source contributor from Puttur, India. React, Node.js, Next.js, Google Cloud Platform, MongoDB."/>
+    <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/header-banner.svg" width="100%" alt="Rajath Kiran A — Full Stack Developer, Cloud Engineer, and Open Source contributor from Puttur, India. React, Node.js, Next.js, Google Cloud Platform, MySQL."/>
   </picture>
 </a>
 
 <!-- Typing Animation -->
 <a href="https://rajathkiran.me">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=39FF14&center=true&vCenter=true&width=750&height=38&lines=✨+Building+products+that+solve+real+problems;🏆+2×+VTU+Rank+%231+%7C+50%2B+Google+Cloud+Badges;💻+React+·+Node.js+·+Next.js+·+GCP+·+MongoDB;🧠+LangChain+%26+LLM+Integration+Explorer;🌍+Open+for+Internships+%26+Collaborations" alt="Rajath Kiran A — Full Stack Developer specializing in React, Node.js, Google Cloud, and AI-powered applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=39FF14&center=true&vCenter=true&width=750&height=38&lines=✨+Building+products+that+solve+real+problems;🏆+2×+VTU+Rank+%231+%7C+50%2B+Google+Cloud+Badges;💻+React+·+Node.js+·+Next.js+·+GCP+·+MySQL;🧠+LangChain+%26+LLM+Integration+Explorer;🌍+Open+for+Internships+%26+Collaborations" alt="Rajath Kiran A — Full Stack Developer specializing in React, Node.js, Google Cloud, and AI-powered applications"/>
 </a>
 
 <br/>
@@ -35,7 +35,7 @@
 <div align="center">
 
 <a href="https://rajathkiran.me">
-  <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/about-card.svg" width="92%" alt="Rajath Kiran A — Full Stack Developer and Cloud Engineer. B.E. Computer Science at VCET Puttur VTU. Stack: React, Node.js, Next.js, GCP, MongoDB. Achievements: 2× VTU Rank #1, 50+ Google Cloud badges, NPTEL certified. Building AI-powered healthcare and smart city applications."/>
+  <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/about-card.svg" width="92%" alt="Rajath Kiran A — Full Stack Developer and Cloud Engineer. B.E. Computer Science at VCET Puttur VTU. Stack: React, Node.js, Next.js, GCP, MySQL. Achievements: 2× VTU Rank #1, 50+ Google Cloud badges, NPTEL certified. Building AI-powered healthcare and smart city applications."/>
 </a>
 
 </div>
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/skills-orbit.svg" width="85%" alt="Rajath Kiran A interactive skills orbit diagram — 3 rotating rings showing Frontend (React, Next.js, TypeScript, Tailwind), Backend (Node.js, Python, Java, MongoDB, Express, Firebase), and Cloud+Tools (Google Cloud, Docker, Git, MySQL/PostgreSQL) technologies"/>
+<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/skills-orbit.svg" width="85%" alt="Rajath Kiran A interactive skills orbit diagram — 3 rotating rings showing Frontend (React, Next.js, TypeScript, Tailwind), Backend (Node.js, Python, Java, Express, Firebase), and Cloud+Tools (Google Cloud, Docker, Git, MySQL/PostgreSQL) technologies"/>
 
 </div>
 
@@ -94,7 +94,6 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" alt="Node.js runtime"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" alt="Express.js framework"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117" alt="MongoDB NoSQL database"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117" alt="Google Firebase backend"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" alt="MySQL relational database"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117" alt="PostgreSQL relational database"/>

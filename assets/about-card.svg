@@ -104,7 +104,8 @@
     <tspan fill="#FFD700">"React"</tspan><tspan fill="#E6EDF3">, </tspan>
     <tspan fill="#FFD700">"Node.js"</tspan><tspan fill="#E6EDF3">, </tspan>
     <tspan fill="#FFD700">"GCP"</tspan><tspan fill="#E6EDF3">, </tspan>
-    <tspan fill="#FFD700">"MongoDB"</tspan>
+    <tspan fill="#FFD700">"MySQL"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"Java"</tspan>
     <tspan fill="#E6EDF3">]</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.7s" fill="freeze"/>
   </text>
@@ -196,16 +197,16 @@
     <animate attributeName="width" values="0;270" dur="1.8s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
-  <!-- MongoDB — 80% -->
-  <text x="515" y="245" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">MongoDB</text>
+  <!-- MySQL — 80% -->
+  <text x="515" y="245" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">MySQL</text>
   <text x="880" y="245" font-family="'JetBrains Mono', monospace" font-size="10" fill="#28C840" text-anchor="end">80%</text>
   <rect x="515" y="250" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="250" width="0"   height="7" rx="3.5" fill="url(#bar5)" filter="url(#barGlow)">
     <animate attributeName="width" values="0;288" dur="1.8s" begin="1.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
-  <!-- TypeScript — 70% -->
-  <text x="515" y="281" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">TypeScript</text>
+  <!-- Java — 70% -->
+  <text x="515" y="281" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">Java</text>
   <text x="880" y="281" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ADFF2F" text-anchor="end">70%</text>
   <rect x="515" y="286" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="286" width="0"   height="7" rx="3.5" fill="url(#bar6)" filter="url(#barGlow)">

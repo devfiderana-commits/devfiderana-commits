@@ -157,11 +157,11 @@
     <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#339933" stroke-width="1.5"/>
     <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#339933" text-anchor="middle">⬡ Node.js</text>
   </g>
-  <!-- MongoDB -->
+  <!-- Java -->
   <g>
     <animateMotion dur="60s" begin="-10s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
-    <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#47A248" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#47A248" text-anchor="middle">🍃 MongoDB</text>
+    <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#ED8B00" stroke-width="1.5"/>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#ED8B00" text-anchor="middle">☕ Java</text>
   </g>
   <!-- Express -->
   <g>
