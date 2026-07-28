@@ -64,7 +64,7 @@ with open('d:/DevWorkspace/Github_Repos/Rajath2005/assets/header-banner.svg', 'r
 
 # Replace the original image with ASCII
 content = re.sub(
-    r'<!-- Avatar image -->\s*<image[^>]+/>',
+    r'<!-- ASCII Avatar -->\s*<g transform="translate\(102, 102\)">[\s\S]*?</g>',
     ascii_svg,
     content
 )
