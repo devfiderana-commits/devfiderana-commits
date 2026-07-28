@@ -1,14 +1,14 @@
 <svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00FFD1;stop-opacity:0.8">
-        <animate attributeName="stop-color" values="#00FFD1;#7B61FF;#00D4FF;#00FFD1" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0%" style="stop-color:#39FF14;stop-opacity:0.8">
+        <animate attributeName="stop-color" values="#39FF14;#ADFF2F;#00FF66;#39FF14" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" style="stop-color:#7B61FF;stop-opacity:0.6">
-        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#00FFD1;#7B61FF" dur="6s" repeatCount="indefinite"/>
+      <stop offset="50%" style="stop-color:#ADFF2F;stop-opacity:0.6">
+        <animate attributeName="stop-color" values="#ADFF2F;#00FF66;#39FF14;#ADFF2F" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0.8">
-        <animate attributeName="stop-color" values="#00D4FF;#00FFD1;#7B61FF;#00D4FF" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" style="stop-color:#00FF66;stop-opacity:0.8">
+        <animate attributeName="stop-color" values="#00FF66;#39FF14;#ADFF2F;#00FF66" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -28,7 +28,7 @@
       </feMerge>
     </filter>
     <!-- Particle dots -->
-    <circle id="particle" r="1.5" fill="#00FFD1" opacity="0.6"/>
+    <circle id="particle" r="1.5" fill="#39FF14" opacity="0.6"/>
   </defs>
   
   <!-- Background fade -->

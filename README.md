@@ -14,14 +14,14 @@
 
 <!-- Typing Animation -->
 <a href="https://rajathkiran.me">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=00FFD1&center=true&vCenter=true&width=750&height=38&lines=✨+Building+products+that+solve+real+problems;🏆+2×+VTU+Rank+%231+%7C+50%2B+Google+Cloud+Badges;💻+React+·+Node.js+·+Next.js+·+GCP+·+MongoDB;🧠+LangChain+%26+LLM+Integration+Explorer;🌍+Open+for+Internships+%26+Collaborations" alt="Rajath Kiran A — Full Stack Developer specializing in React, Node.js, Google Cloud, and AI-powered applications"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=39FF14&center=true&vCenter=true&width=750&height=38&lines=✨+Building+products+that+solve+real+problems;🏆+2×+VTU+Rank+%231+%7C+50%2B+Google+Cloud+Badges;💻+React+·+Node.js+·+Next.js+·+GCP+·+MongoDB;🧠+LangChain+%26+LLM+Integration+Explorer;🌍+Open+for+Internships+%26+Collaborations" alt="Rajath Kiran A — Full Stack Developer specializing in React, Node.js, Google Cloud, and AI-powered applications"/>
 </a>
 
 <br/>
 
 <!-- Metrics strip -->
-<a href="https://github.com/Rajath2005"><img src="https://komarev.com/ghpvc/?username=Rajath2005&label=Profile+Views&color=00FFD1&style=flat&labelColor=0D1117" alt="Profile views — Rajath Kiran A GitHub profile"/></a>
-<a href="https://github.com/Rajath2005?tab=followers"><img src="https://img.shields.io/github/followers/Rajath2005?label=Followers&style=flat&color=00FFD1&labelColor=0D1117&logo=github" alt="GitHub followers count — Rajath Kiran A"/></a>
+<a href="https://github.com/Rajath2005"><img src="https://komarev.com/ghpvc/?username=Rajath2005&label=Profile+Views&color=39FF14&style=flat&labelColor=0D1117" alt="Profile views — Rajath Kiran A GitHub profile"/></a>
+<a href="https://github.com/Rajath2005?tab=followers"><img src="https://img.shields.io/github/followers/Rajath2005?label=Followers&style=flat&color=39FF14&labelColor=0D1117&logo=github" alt="GitHub followers count — Rajath Kiran A"/></a>
 <img src="https://img.shields.io/github/stars/Rajath2005?affiliations=OWNER&label=Total+Stars&style=flat&color=FFD700&labelColor=0D1117&logo=github" alt="Total GitHub stars — Rajath Kiran A repositories"/>
 
 </div>
@@ -137,7 +137,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<a href="https://github.com/Rajath2005/mediq.io"><img src="https://img.shields.io/github/stars/Rajath2005/mediq.io?style=flat-square&color=FFD700&labelColor=0D1117" alt="MediQ.io GitHub stars"/></a> <a href="https://github.com/Rajath2005/mediq.io"><img src="https://img.shields.io/github/last-commit/Rajath2005/mediq.io?style=flat-square&color=00FFD1&labelColor=0D1117" alt="MediQ.io last commit date"/></a>
+<a href="https://github.com/Rajath2005/mediq.io"><img src="https://img.shields.io/github/stars/Rajath2005/mediq.io?style=flat-square&color=FFD700&labelColor=0D1117" alt="MediQ.io GitHub stars"/></a> <a href="https://github.com/Rajath2005/mediq.io"><img src="https://img.shields.io/github/last-commit/Rajath2005/mediq.io?style=flat-square&color=39FF14&labelColor=0D1117" alt="MediQ.io last commit date"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -147,7 +147,7 @@
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/OOP-00599C?style=flat-square" alt="OOP Design Patterns"/>
 
-<a href="https://github.com/Rajath2005/SmartCityApp"><img src="https://img.shields.io/github/stars/Rajath2005/SmartCityApp?style=flat-square&color=FFD700&labelColor=0D1117" alt="SmartCityApp stars"/></a> <a href="https://github.com/Rajath2005/SmartCityApp"><img src="https://img.shields.io/github/last-commit/Rajath2005/SmartCityApp?style=flat-square&color=00FFD1&labelColor=0D1117" alt="SmartCityApp last commit"/></a>
+<a href="https://github.com/Rajath2005/SmartCityApp"><img src="https://img.shields.io/github/stars/Rajath2005/SmartCityApp?style=flat-square&color=FFD700&labelColor=0D1117" alt="SmartCityApp stars"/></a> <a href="https://github.com/Rajath2005/SmartCityApp"><img src="https://img.shields.io/github/last-commit/Rajath2005/SmartCityApp?style=flat-square&color=39FF14&labelColor=0D1117" alt="SmartCityApp last commit"/></a>
 
 </td>
 </tr>
@@ -159,7 +159,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
 
-<a href="https://github.com/Rajath2005/COPD"><img src="https://img.shields.io/github/stars/Rajath2005/COPD?style=flat-square&color=FFD700&labelColor=0D1117" alt="COPD project stars"/></a> <a href="https://github.com/Rajath2005/COPD"><img src="https://img.shields.io/github/last-commit/Rajath2005/COPD?style=flat-square&color=00FFD1&labelColor=0D1117" alt="COPD last commit"/></a>
+<a href="https://github.com/Rajath2005/COPD"><img src="https://img.shields.io/github/stars/Rajath2005/COPD?style=flat-square&color=FFD700&labelColor=0D1117" alt="COPD project stars"/></a> <a href="https://github.com/Rajath2005/COPD"><img src="https://img.shields.io/github/last-commit/Rajath2005/COPD?style=flat-square&color=39FF14&labelColor=0D1117" alt="COPD last commit"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -169,7 +169,7 @@
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="REST API"/>
 
-<a href="https://github.com/Rajath2005/Englisho.io"><img src="https://img.shields.io/github/stars/Rajath2005/Englisho.io?style=flat-square&color=FFD700&labelColor=0D1117" alt="Englisho.io stars"/></a> <a href="https://github.com/Rajath2005/Englisho.io"><img src="https://img.shields.io/github/last-commit/Rajath2005/Englisho.io?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Englisho.io last commit"/></a>
+<a href="https://github.com/Rajath2005/Englisho.io"><img src="https://img.shields.io/github/stars/Rajath2005/Englisho.io?style=flat-square&color=FFD700&labelColor=0D1117" alt="Englisho.io stars"/></a> <a href="https://github.com/Rajath2005/Englisho.io"><img src="https://img.shields.io/github/last-commit/Rajath2005/Englisho.io?style=flat-square&color=39FF14&labelColor=0D1117" alt="Englisho.io last commit"/></a>
 
 </td>
 </tr>
@@ -181,7 +181,7 @@
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 
-<a href="https://github.com/Rajath2005/rajathkiran.me"><img src="https://img.shields.io/github/stars/Rajath2005/rajathkiran.me?style=flat-square&color=FFD700&labelColor=0D1117" alt="Portfolio stars"/></a> <a href="https://github.com/Rajath2005/rajathkiran.me"><img src="https://img.shields.io/github/last-commit/Rajath2005/rajathkiran.me?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Portfolio last commit"/></a>
+<a href="https://github.com/Rajath2005/rajathkiran.me"><img src="https://img.shields.io/github/stars/Rajath2005/rajathkiran.me?style=flat-square&color=FFD700&labelColor=0D1117" alt="Portfolio stars"/></a> <a href="https://github.com/Rajath2005/rajathkiran.me"><img src="https://img.shields.io/github/last-commit/Rajath2005/rajathkiran.me?style=flat-square&color=39FF14&labelColor=0D1117" alt="Portfolio last commit"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -191,7 +191,7 @@
 
 <img src="https://img.shields.io/badge/DevTools-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub DevTools"/> <img src="https://img.shields.io/badge/Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions automation"/>
 
-<a href="https://github.com/Rajath2005/code-review-env"><img src="https://img.shields.io/github/stars/Rajath2005/code-review-env?style=flat-square&color=FFD700&labelColor=0D1117" alt="Code review env stars"/></a> <a href="https://github.com/Rajath2005/code-review-env"><img src="https://img.shields.io/github/last-commit/Rajath2005/code-review-env?style=flat-square&color=00FFD1&labelColor=0D1117" alt="Code review env last commit"/></a>
+<a href="https://github.com/Rajath2005/code-review-env"><img src="https://img.shields.io/github/stars/Rajath2005/code-review-env?style=flat-square&color=FFD700&labelColor=0D1117" alt="Code review env stars"/></a> <a href="https://github.com/Rajath2005/code-review-env"><img src="https://img.shields.io/github/last-commit/Rajath2005/code-review-env?style=flat-square&color=39FF14&labelColor=0D1117" alt="Code review env last commit"/></a>
 
 </td>
 </tr>
@@ -200,7 +200,7 @@
 <div align="center">
 
 <a href="https://github.com/Rajath2005?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories_→-00FFD1?style=for-the-badge&logo=github&logoColor=0D1117" alt="View all Rajath Kiran A GitHub repositories"/>
+  <img src="https://img.shields.io/badge/Explore_All_Repositories_→-39FF14?style=for-the-badge&logo=github&logoColor=0D1117" alt="View all Rajath Kiran A GitHub repositories"/>
 </a>
 
 </div>
@@ -232,7 +232,7 @@
 <br/><br/>
 
 <!-- Language + productive time -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=donut-vertical&hide_border=true&langs_count=8&border_radius=12&title_color=00FFD1&text_color=C9D1D9&bg_color=0D1117" height="220" alt="Rajath Kiran A most used programming languages — JavaScript, Python, Java, TypeScript, CSS, HTML"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=donut-vertical&hide_border=true&langs_count=8&border_radius=12&title_color=39FF14&text_color=C9D1D9&bg_color=0D1117" height="220" alt="Rajath Kiran A most used programming languages — JavaScript, Python, Java, TypeScript, CSS, HTML"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajath2005&theme=2077&utc_offset=5.5" height="220" alt="Rajath Kiran A most productive coding hours — IST timezone"/>
 
 </div>
@@ -377,7 +377,7 @@ goal:
 
 ### 🌐 Let's Connect
 
-<a href="https://rajathkiran.me"><img src="https://img.shields.io/badge/Portfolio-rajathkiran.me-00FFD1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Rajath Kiran A portfolio website rajathkiran.me"/></a>
+<a href="https://rajathkiran.me"><img src="https://img.shields.io/badge/Portfolio-rajathkiran.me-39FF14?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Rajath Kiran A portfolio website rajathkiran.me"/></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/rajath-kiran/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="Rajath Kiran A LinkedIn profile"/></a>
 &nbsp;
@@ -416,7 +416,7 @@ goal:
   <br/>
   <i>"All learning should be interesting and enjoyable."</i>
   <br/><br/>
-  Last updated: <img src="https://img.shields.io/badge/July-2026-00FFD1?style=flat&labelColor=0D1117" alt="Last updated July 2026"/>
+  Last updated: <img src="https://img.shields.io/badge/July-2026-39FF14?style=flat&labelColor=0D1117" alt="Last updated July 2026"/>
 </sub>
 
 </div>

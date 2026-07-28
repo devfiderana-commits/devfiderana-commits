@@ -8,11 +8,11 @@
     </radialGradient>
 
     <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00FFD1">
-        <animate attributeName="stop-color" values="#00FFD1;#00D4FF;#7B61FF;#00FFD1" dur="8s" repeatCount="indefinite"/>
+      <stop offset="0%"   stop-color="#39FF14">
+        <animate attributeName="stop-color" values="#39FF14;#00FF66;#ADFF2F;#39FF14" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#7B61FF">
-        <animate attributeName="stop-color" values="#7B61FF;#00FFD1;#00D4FF;#7B61FF" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#ADFF2F">
+        <animate attributeName="stop-color" values="#ADFF2F;#39FF14;#00FF66;#ADFF2F" dur="8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
@@ -22,12 +22,12 @@
     </radialGradient>
 
     <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00FFD1" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#39FF14" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="transparent"/>
     </radialGradient>
     
     <radialGradient id="nodeGlowViolet" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#7B61FF" stop-opacity="0.3"/>
+      <stop offset="0%" stop-color="#ADFF2F" stop-opacity="0.3"/>
       <stop offset="100%" stop-color="transparent"/>
     </radialGradient>
 
@@ -60,34 +60,34 @@
 
   <!-- Isometric Tech Grid Background -->
   <pattern id="isoGrid" width="60" height="34.64" patternUnits="userSpaceOnUse" patternTransform="translate(10, 10)">
-    <path d="M 30,0 L 60,17.32 L 30,34.64 L 0,17.32 Z" fill="none" stroke="#7B61FF" stroke-width="0.3" opacity="0.1"/>
+    <path d="M 30,0 L 60,17.32 L 30,34.64 L 0,17.32 Z" fill="none" stroke="#ADFF2F" stroke-width="0.3" opacity="0.1"/>
   </pattern>
   <rect width="820" height="420" fill="url(#isoGrid)"/>
   
   <!-- Glowing Constellation Points in background -->
-  <circle cx="200" cy="100" r="1.5" fill="#00FFD1" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/></circle>
-  <circle cx="650" cy="90" r="2" fill="#7B61FF" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" repeatCount="indefinite"/></circle>
-  <circle cx="150" cy="320" r="1.5" fill="#00D4FF" opacity="0.3"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="200" cy="100" r="1.5" fill="#39FF14" opacity="0.4"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="650" cy="90" r="2" fill="#ADFF2F" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" repeatCount="indefinite"/></circle>
+  <circle cx="150" cy="320" r="1.5" fill="#00FF66" opacity="0.3"><animate attributeName="opacity" values="0.1;0.6;0.1" dur="6s" repeatCount="indefinite"/></circle>
   <circle cx="700" cy="330" r="2.5" fill="#FFD700" opacity="0.4"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="4.5s" repeatCount="indefinite"/></circle>
 
   <!-- ===================== ORBIT RINGS (Visual paths) ===================== -->
   <!-- Ring 1 -->
-  <ellipse cx="410" cy="210" rx="160" ry="65" fill="none" stroke="#00FFD1" stroke-width="1.5" stroke-dasharray="4 8" opacity="0.4"/>
-  <ellipse cx="410" cy="210" rx="160" ry="65" fill="none" stroke="#00FFD1" stroke-width="0.5" filter="url(#glow)" opacity="0.6"/>
+  <ellipse cx="410" cy="210" rx="160" ry="65" fill="none" stroke="#39FF14" stroke-width="1.5" stroke-dasharray="4 8" opacity="0.4"/>
+  <ellipse cx="410" cy="210" rx="160" ry="65" fill="none" stroke="#39FF14" stroke-width="0.5" filter="url(#glow)" opacity="0.6"/>
 
   <!-- Ring 2 -->
-  <ellipse cx="410" cy="210" rx="260" ry="105" fill="none" stroke="#7B61FF" stroke-width="1.2" stroke-dasharray="8 12" opacity="0.3"/>
-  <ellipse cx="410" cy="210" rx="260" ry="105" fill="none" stroke="#7B61FF" stroke-width="0.5" filter="url(#glow)" opacity="0.5"/>
+  <ellipse cx="410" cy="210" rx="260" ry="105" fill="none" stroke="#ADFF2F" stroke-width="1.2" stroke-dasharray="8 12" opacity="0.3"/>
+  <ellipse cx="410" cy="210" rx="260" ry="105" fill="none" stroke="#ADFF2F" stroke-width="0.5" filter="url(#glow)" opacity="0.5"/>
 
   <!-- Ring 3 -->
-  <ellipse cx="410" cy="210" rx="350" ry="145" fill="none" stroke="#00D4FF" stroke-width="1" stroke-dasharray="2 10" opacity="0.25"/>
-  <ellipse cx="410" cy="210" rx="350" ry="145" fill="none" stroke="#00D4FF" stroke-width="0.4" filter="url(#glow)" opacity="0.4"/>
+  <ellipse cx="410" cy="210" rx="350" ry="145" fill="none" stroke="#00FF66" stroke-width="1" stroke-dasharray="2 10" opacity="0.25"/>
+  <ellipse cx="410" cy="210" rx="350" ry="145" fill="none" stroke="#00FF66" stroke-width="0.4" filter="url(#glow)" opacity="0.4"/>
 
   <!-- Ring Labels (Isometric angled) -->
   <g transform="skewX(-30)">
-    <text x="730" y="115" font-family="'JetBrains Mono', monospace" font-size="9" fill="#00FFD1" opacity="0.6" letter-spacing="2">FRONTEND</text>
-    <text x="830" y="145" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7B61FF" opacity="0.5" letter-spacing="2">BACKEND</text>
-    <text x="920" y="175" font-family="'JetBrains Mono', monospace" font-size="9" fill="#00D4FF" opacity="0.4" letter-spacing="2">CLOUD + TOOLS</text>
+    <text x="730" y="115" font-family="'JetBrains Mono', monospace" font-size="9" fill="#39FF14" opacity="0.6" letter-spacing="2">FRONTEND</text>
+    <text x="830" y="145" font-family="'JetBrains Mono', monospace" font-size="9" fill="#ADFF2F" opacity="0.5" letter-spacing="2">BACKEND</text>
+    <text x="920" y="175" font-family="'JetBrains Mono', monospace" font-size="9" fill="#00FF66" opacity="0.4" letter-spacing="2">CLOUD + TOOLS</text>
   </g>
 
   <!-- ===================== CENTER REACTOR CORE ===================== -->
@@ -96,22 +96,22 @@
     <circle cx="0" cy="0" r="50" fill="url(#nodeGlow)" filter="url(#heavyGlow)"/>
     
     <!-- Outer Hexagon -->
-    <polygon points="0,-45 38.97,-22.5 38.97,22.5 0,45 -38.97,22.5 -38.97,-22.5" fill="none" stroke="#00FFD1" stroke-width="1.5" opacity="0.8">
+    <polygon points="0,-45 38.97,-22.5 38.97,22.5 0,45 -38.97,22.5 -38.97,-22.5" fill="none" stroke="#39FF14" stroke-width="1.5" opacity="0.8">
       <animateTransform attributeName="transform" type="rotate" values="0;360" dur="15s" repeatCount="indefinite"/>
     </polygon>
     
     <!-- Inner Hexagon (Counter-rotating) -->
-    <polygon points="0,-35 30.31,-17.5 30.31,17.5 0,35 -30.31,17.5 -30.31,-17.5" fill="none" stroke="#7B61FF" stroke-width="2" opacity="0.9" filter="url(#glow)">
+    <polygon points="0,-35 30.31,-17.5 30.31,17.5 0,35 -30.31,17.5 -30.31,-17.5" fill="none" stroke="#ADFF2F" stroke-width="2" opacity="0.9" filter="url(#glow)">
       <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="10s" repeatCount="indefinite"/>
     </polygon>
     
     <!-- Center Tech Triangle -->
-    <polygon points="0,-20 17.32,10 -17.32,10" fill="none" stroke="#00D4FF" stroke-width="2.5" filter="url(#glow)">
+    <polygon points="0,-20 17.32,10 -17.32,10" fill="none" stroke="#00FF66" stroke-width="2.5" filter="url(#glow)">
       <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5s" repeatCount="indefinite"/>
     </polygon>
 
     <!-- Base Center Circle -->
-    <circle cx="0" cy="0" r="28" fill="#090d16" stroke="#00FFD1" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="28" fill="#090d16" stroke="#39FF14" stroke-width="1.5"/>
     
     <!-- Core Text -->
     <text x="0" y="-3" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="900" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="3" filter="url(#glow)">RAJATH</text>
@@ -126,13 +126,13 @@
   <g>
     <animateMotion dur="40s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#orbit1"/></animateMotion>
     <circle cx="0" cy="0" r="30" fill="url(#nodeGlow)" filter="url(#glow)" opacity="0.6"/>
-    <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#00FFD1" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#39FF14" stroke-width="1.5"/>
     <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#61DAFB" text-anchor="middle">⚛ React</text>
   </g>
   <!-- Next.js -->
   <g>
     <animateMotion dur="40s" begin="-10s" repeatCount="indefinite"><mpath xlink:href="#orbit1"/></animateMotion>
-    <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#00FFD1" stroke-width="1.5"/>
+    <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#39FF14" stroke-width="1.5"/>
     <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#E6EDF3" text-anchor="middle">▲ Next.js</text>
   </g>
   <!-- Tailwind -->

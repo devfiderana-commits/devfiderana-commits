@@ -192,7 +192,7 @@ def build_svg(total: int, current: int, longest: int, first_date: str, last_date
         lx = PAD + col_w * i
         return (
             f'<line x1="{lx:.1f}" y1="32" x2="{lx:.1f}" y2="{H - 28}"'
-            f' stroke="#00FFD1" stroke-width="1" stroke-opacity="0.25"/>'
+            f' stroke="#39FF14" stroke-width="1" stroke-opacity="0.25"/>'
         )
 
     def column(i, label_top, value_str, label_bot, color):
@@ -215,7 +215,7 @@ def build_svg(total: int, current: int, longest: int, first_date: str, last_date
   <rect width="{W}" height="{H}" rx="14" fill="#0D1117"/>
   <!-- Border glow -->
   <rect width="{W}" height="{H}" rx="14" fill="none"
-        stroke="#00FFD1" stroke-width="1" stroke-opacity="0.35"/>
+        stroke="#39FF14" stroke-width="1" stroke-opacity="0.35"/>
 
   <!-- Date range header -->
   <text x="{W / 2:.1f}" y="21" text-anchor="middle" fill="#6E7681"
@@ -224,7 +224,7 @@ def build_svg(total: int, current: int, longest: int, first_date: str, last_date
   <!-- Three columns -->
   {column(0, "Total Contributions", f"{total:,}", "contributions", "#FFFFFF")}
   {column(1, "Current Streak", f"{current} {fire}", "days", "#FF6B35")}
-  {column(2, "Longest Streak", f"{longest} {lightning}", "days", "#00FFD1")}
+  {column(2, "Longest Streak", f"{longest} {lightning}", "days", "#39FF14")}
 
   <!-- Footer -->
   <text x="{W / 2:.1f}" y="{H - 8:.1f}" text-anchor="middle" fill="#484F58"
