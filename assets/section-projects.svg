@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
   <defs>
     <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#ADFF2F"><animate attributeName="stop-color" values="#ADFF2F;#39FF14;#00FF66;#ADFF2F" dur="7s" repeatCount="indefinite"/></stop>
-      <stop offset="100%" stop-color="#00FF66"><animate attributeName="stop-color" values="#00FF66;#ADFF2F;#39FF14;#00FF66" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset="0%"   stop-color="#7B61FF"><animate attributeName="stop-color" values="#7B61FF;#39FF14;#00D4FF;#7B61FF" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#00D4FF"><animate attributeName="stop-color" values="#00D4FF;#7B61FF;#39FF14;#00D4FF" dur="7s" repeatCount="indefinite"/></stop>
     </linearGradient>
     <linearGradient id="scanG2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="transparent"/>
-      <stop offset="40%"  stop-color="#ADFF2F" stop-opacity="0.3"/>
-      <stop offset="60%"  stop-color="#ADFF2F" stop-opacity="0.6"/>
+      <stop offset="40%"  stop-color="#7B61FF" stop-opacity="0.3"/>
+      <stop offset="60%"  stop-color="#7B61FF" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
     <filter id="gp"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
@@ -17,11 +17,11 @@
     <animate attributeName="x" values="-120;900;-120" dur="5s" repeatCount="indefinite" calcMode="ease-in-out"/>
   </rect>
   <rect x="0" y="60" width="900" height="1" fill="url(#pg)" opacity="0.25"/>
-  <circle cx="18" cy="32" r="5" fill="#ADFF2F" opacity="0.7" filter="url(#gp)">
+  <circle cx="18" cy="32" r="5" fill="#7B61FF" opacity="0.7" filter="url(#gp)">
     <animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/>
     <animate attributeName="r" values="5;6.5;5" dur="2.2s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="18" cy="32" r="10" fill="#ADFF2F" opacity="0.1">
+  <circle cx="18" cy="32" r="10" fill="#7B61FF" opacity="0.1">
     <animate attributeName="r" values="10;16;10" dur="2.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.1;0;0.1" dur="2.2s" repeatCount="indefinite"/>
   </circle>

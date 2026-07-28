@@ -8,13 +8,13 @@
     </linearGradient>
     <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#39FF14">
-        <animate attributeName="stop-color" values="#39FF14;#ADFF2F;#00FF66;#39FF14" dur="8s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#39FF14;#7B61FF;#00D4FF;#39FF14" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" style="stop-color:#ADFF2F">
-        <animate attributeName="stop-color" values="#ADFF2F;#00FF66;#FFD700;#ADFF2F" dur="8s" repeatCount="indefinite"/>
+      <stop offset="50%" style="stop-color:#7B61FF">
+        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#FFD700;#7B61FF" dur="8s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" style="stop-color:#00FF66">
-        <animate attributeName="stop-color" values="#00FF66;#39FF14;#ADFF2F;#00FF66" dur="8s" repeatCount="indefinite"/>
+      <stop offset="100%" style="stop-color:#00D4FF">
+        <animate attributeName="stop-color" values="#00D4FF;#39FF14;#7B61FF;#00D4FF" dur="8s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <filter id="headerGlow">
@@ -56,11 +56,11 @@
     <animate attributeName="cx" values="150;180;150" dur="10s" repeatCount="indefinite"/>
     <animate attributeName="r" values="40;55;40" dur="8s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1050" cy="140" r="50" fill="#ADFF2F" opacity="0.04" filter="url(#softGlow)">
+  <circle cx="1050" cy="140" r="50" fill="#7B61FF" opacity="0.04" filter="url(#softGlow)">
     <animate attributeName="cx" values="1050;1020;1050" dur="12s" repeatCount="indefinite"/>
     <animate attributeName="r" values="50;65;50" dur="9s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="600" cy="100" r="35" fill="#00FF66" opacity="0.03" filter="url(#softGlow)">
+  <circle cx="600" cy="100" r="35" fill="#00D4FF" opacity="0.03" filter="url(#softGlow)">
     <animate attributeName="cy" values="100;80;100" dur="7s" repeatCount="indefinite"/>
   </circle>
   
@@ -97,7 +97,7 @@
     <animate attributeName="cx" values="400;420;400" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.4;0.8;0.4" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="500" cy="150" r="1" fill="#ADFF2F" opacity="0.3">
+  <circle cx="500" cy="150" r="1" fill="#7B61FF" opacity="0.3">
     <animate attributeName="cy" values="150;130;150" dur="4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.5s" repeatCount="indefinite"/>
   </circle>
@@ -105,7 +105,7 @@
     <animate attributeName="cx" values="750;770;750" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.3;0.6;0.3" dur="3.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="350" cy="120" r="1" fill="#00FF66" opacity="0.4">
+  <circle cx="350" cy="120" r="1" fill="#00D4FF" opacity="0.4">
     <animate attributeName="cy" values="120;100;120" dur="3s" repeatCount="indefinite"/>
   </circle>
   <circle cx="850" cy="90" r="1.2" fill="#39FF14" opacity="0.3">

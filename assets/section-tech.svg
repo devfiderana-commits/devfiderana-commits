@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
   <defs>
     <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#39FF14"><animate attributeName="stop-color" values="#39FF14;#00FF66;#ADFF2F;#39FF14" dur="7s" repeatCount="indefinite"/></stop>
-      <stop offset="100%" stop-color="#ADFF2F"><animate attributeName="stop-color" values="#ADFF2F;#39FF14;#00FF66;#ADFF2F" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset="0%"   stop-color="#39FF14"><animate attributeName="stop-color" values="#39FF14;#00D4FF;#7B61FF;#39FF14" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#7B61FF"><animate attributeName="stop-color" values="#7B61FF;#39FF14;#00D4FF;#7B61FF" dur="7s" repeatCount="indefinite"/></stop>
     </linearGradient>
     <linearGradient id="scanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="transparent"/>

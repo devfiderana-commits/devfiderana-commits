@@ -12,14 +12,14 @@
     </linearGradient>
     <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#0a1628" stop-opacity="0.6"/>
-      <stop offset="50%"  stop-color="#ADFF2F" stop-opacity="0.06">
+      <stop offset="50%"  stop-color="#7B61FF" stop-opacity="0.06">
         <animate attributeName="stop-opacity" values="0.06;0.12;0.06" dur="7s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#0a1628" stop-opacity="0.6"/>
     </linearGradient>
     <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#060d18"/>
-      <stop offset="40%"  stop-color="#00FF66" stop-opacity="0.05">
+      <stop offset="40%"  stop-color="#00D4FF" stop-opacity="0.05">
         <animate attributeName="stop-opacity" values="0.05;0.10;0.05" dur="9s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#060d18"/>
@@ -27,10 +27,10 @@
     <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="transparent"/>
       <stop offset="20%"  stop-color="#39FF14">
-        <animate attributeName="stop-color" values="#39FF14;#ADFF2F;#00FF66;#39FF14" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#39FF14;#7B61FF;#00D4FF;#39FF14" dur="7s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="80%"  stop-color="#ADFF2F">
-        <animate attributeName="stop-color" values="#ADFF2F;#00FF66;#39FF14;#ADFF2F" dur="7s" repeatCount="indefinite"/>
+      <stop offset="80%"  stop-color="#7B61FF">
+        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#39FF14;#7B61FF" dur="7s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
@@ -54,7 +54,7 @@
   <circle r="2.5" fill="#39FF14" opacity="0.8" filter="url(#waveGlow)" cy="0.75">
     <animate attributeName="cx" values="0;1200;0" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle r="1.8" fill="#ADFF2F" opacity="0.6" filter="url(#waveGlow)" cy="0.75">
+  <circle r="1.8" fill="#7B61FF" opacity="0.6" filter="url(#waveGlow)" cy="0.75">
     <animate attributeName="cx" values="1200;0;1200" dur="6.5s" repeatCount="indefinite"/>
   </circle>
 
@@ -89,9 +89,9 @@
   <circle cx="80"  cy="100" r="0.7" fill="#E6EDF3" opacity="0"><animate attributeName="opacity" values="0;0.4;0" dur="3.2s" begin="0.5s" repeatCount="indefinite"/></circle>
   <circle cx="200" cy="90"  r="0.9" fill="#39FF14" opacity="0"><animate attributeName="opacity" values="0;0.5;0" dur="2.8s" begin="1.2s" repeatCount="indefinite"/></circle>
   <circle cx="340" cy="110" r="0.6" fill="#E6EDF3" opacity="0"><animate attributeName="opacity" values="0;0.3;0" dur="4.0s" begin="0.8s" repeatCount="indefinite"/></circle>
-  <circle cx="460" cy="95"  r="0.8" fill="#ADFF2F" opacity="0"><animate attributeName="opacity" values="0;0.4;0" dur="3.5s" begin="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="460" cy="95"  r="0.8" fill="#7B61FF" opacity="0"><animate attributeName="opacity" values="0;0.4;0" dur="3.5s" begin="2.1s" repeatCount="indefinite"/></circle>
   <circle cx="600" cy="115" r="1.0" fill="#E6EDF3" opacity="0"><animate attributeName="opacity" values="0;0.6;0" dur="2.6s" begin="0.3s" repeatCount="indefinite"/></circle>
-  <circle cx="720" cy="88"  r="0.7" fill="#00FF66" opacity="0"><animate attributeName="opacity" values="0;0.4;0" dur="3.9s" begin="1.7s" repeatCount="indefinite"/></circle>
+  <circle cx="720" cy="88"  r="0.7" fill="#00D4FF" opacity="0"><animate attributeName="opacity" values="0;0.4;0" dur="3.9s" begin="1.7s" repeatCount="indefinite"/></circle>
   <circle cx="840" cy="108" r="0.8" fill="#E6EDF3" opacity="0"><animate attributeName="opacity" values="0;0.5;0" dur="3.3s" begin="0.9s" repeatCount="indefinite"/></circle>
   <circle cx="970" cy="92"  r="0.6" fill="#FFD700" opacity="0"><animate attributeName="opacity" values="0;0.4;0" dur="4.1s" begin="1.4s" repeatCount="indefinite"/></circle>
   <circle cx="1100" cy="105" r="0.9" fill="#E6EDF3" opacity="0"><animate attributeName="opacity" values="0;0.5;0" dur="2.9s" begin="2.3s" repeatCount="indefinite"/></circle>

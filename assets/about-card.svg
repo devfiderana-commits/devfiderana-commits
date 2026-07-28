@@ -8,33 +8,33 @@
     </linearGradient>
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%"   stop-color="#39FF14" stop-opacity="0.6">
-        <animate attributeName="stop-color" values="#39FF14;#ADFF2F;#00FF66;#39FF14" dur="7s" repeatCount="indefinite"/>
+        <animate attributeName="stop-color" values="#39FF14;#7B61FF;#00D4FF;#39FF14" dur="7s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%"  stop-color="#ADFF2F" stop-opacity="0.3">
-        <animate attributeName="stop-color" values="#ADFF2F;#00FF66;#39FF14;#ADFF2F" dur="7s" repeatCount="indefinite"/>
+      <stop offset="50%"  stop-color="#7B61FF" stop-opacity="0.3">
+        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#39FF14;#7B61FF" dur="7s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#00FF66" stop-opacity="0.6">
-        <animate attributeName="stop-color" values="#00FF66;#39FF14;#ADFF2F;#00FF66" dur="7s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#00D4FF" stop-opacity="0.6">
+        <animate attributeName="stop-color" values="#00D4FF;#39FF14;#7B61FF;#00D4FF" dur="7s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <linearGradient id="panelDivider" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%"   stop-color="transparent"/>
       <stop offset="30%"  stop-color="#39FF14" stop-opacity="0.15"/>
-      <stop offset="70%"  stop-color="#ADFF2F" stop-opacity="0.15"/>
+      <stop offset="70%"  stop-color="#7B61FF" stop-opacity="0.15"/>
       <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
 
     <!-- Skill bar gradients -->
     <linearGradient id="bar1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#39FF14"/>
-      <stop offset="100%" stop-color="#00FF66"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
     </linearGradient>
     <linearGradient id="bar2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#00FF66"/>
-      <stop offset="100%" stop-color="#ADFF2F"/>
+      <stop offset="0%"   stop-color="#00D4FF"/>
+      <stop offset="100%" stop-color="#7B61FF"/>
     </linearGradient>
     <linearGradient id="bar3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#ADFF2F"/>
+      <stop offset="0%"   stop-color="#7B61FF"/>
       <stop offset="100%" stop-color="#39FF14"/>
     </linearGradient>
     <linearGradient id="bar4" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -46,8 +46,8 @@
       <stop offset="100%" stop-color="#28C840"/>
     </linearGradient>
     <linearGradient id="bar6" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#ADFF2F"/>
-      <stop offset="100%" stop-color="#00FF66"/>
+      <stop offset="0%"   stop-color="#7B61FF"/>
+      <stop offset="100%" stop-color="#00D4FF"/>
     </linearGradient>
 
     <!-- Filters -->
@@ -84,22 +84,22 @@
 
   <!-- Line 1 -->
   <text x="22" y="74" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> name</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Rajath Kiran A</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> name</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Rajath Kiran A</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
   </text>
   <!-- Line 2 -->
   <text x="22" y="100" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> role</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Full Stack Dev &amp; Cloud Eng.</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> role</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Full Stack Dev &amp; Cloud Eng.</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze"/>
   </text>
   <!-- Line 3 -->
   <text x="22" y="126" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> education</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> B.E. CS — VCET Puttur (VTU)</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> education</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> B.E. CS — VCET Puttur (VTU)</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
   </text>
   <!-- Line 4 -->
   <text x="22" y="152" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> stack</tspan><tspan fill="#30363D">:</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> stack</tspan><tspan fill="#30363D">:</tspan>
     <tspan fill="#E6EDF3"> [</tspan>
     <tspan fill="#FFD700">"React"</tspan><tspan fill="#E6EDF3">, </tspan>
     <tspan fill="#FFD700">"Node.js"</tspan><tspan fill="#E6EDF3">, </tspan>
@@ -111,7 +111,7 @@
   </text>
   <!-- Line 5 -->
   <text x="22" y="178" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> achievements</tspan><tspan fill="#30363D">:</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> achievements</tspan><tspan fill="#30363D">:</tspan>
     <tspan fill="#E6EDF3"> [</tspan>
     <tspan fill="#39FF14">"2× VTU #1"</tspan><tspan fill="#E6EDF3">, </tspan>
     <tspan fill="#FFD700">"50+ GCP"</tspan><tspan fill="#E6EDF3">, </tspan>
@@ -121,17 +121,17 @@
   </text>
   <!-- Line 6 -->
   <text x="22" y="204" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> building</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> AI Healthcare + Smart City</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> building</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> AI Healthcare + Smart City</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.7s" fill="freeze"/>
   </text>
   <!-- Line 7 -->
   <text x="22" y="230" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> portfolio</tspan><tspan fill="#30363D">:</tspan><tspan fill="#ADFF2F"> https://rajathkiran.me</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> portfolio</tspan><tspan fill="#30363D">:</tspan><tspan fill="#7B61FF"> https://rajathkiran.me</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze"/>
   </text>
   <!-- Line 8 -->
   <text x="22" y="256" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#69FF9B"> open_to</tspan><tspan fill="#30363D">:</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> open_to</tspan><tspan fill="#30363D">:</tspan>
     <tspan fill="#E6EDF3"> [</tspan>
     <tspan fill="#28C840">"Internships"</tspan><tspan fill="#E6EDF3">, </tspan>
     <tspan fill="#28C840">"OSS"</tspan><tspan fill="#E6EDF3">, </tspan>
@@ -149,10 +149,10 @@
   <circle cx="488" cy="70"  r="3" fill="#28C840" opacity="0.7" filter="url(#glow)"><animate attributeName="opacity" values="0.7;1;0.7" dur="2.1s" repeatCount="indefinite"/></circle>
   <circle cx="488" cy="96"  r="3" fill="#39FF14" opacity="0.6" filter="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.5s" repeatCount="indefinite"/></circle>
   <circle cx="488" cy="122" r="3" fill="#FFD700" opacity="0.6" filter="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.9s" repeatCount="indefinite"/></circle>
-  <circle cx="488" cy="148" r="3" fill="#ADFF2F" opacity="0.6" filter="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="3.0s" repeatCount="indefinite"/></circle>
+  <circle cx="488" cy="148" r="3" fill="#7B61FF" opacity="0.6" filter="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="3.0s" repeatCount="indefinite"/></circle>
   <circle cx="488" cy="174" r="3" fill="#39FF14" opacity="0.6" filter="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="2.3s" repeatCount="indefinite"/></circle>
   <circle cx="488" cy="200" r="3" fill="#28C840" opacity="0.7" filter="url(#glow)"><animate attributeName="opacity" values="0.7;1;0.7" dur="2.7s" repeatCount="indefinite"/></circle>
-  <circle cx="488" cy="226" r="3" fill="#ADFF2F" opacity="0.6" filter="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="488" cy="226" r="3" fill="#7B61FF" opacity="0.6" filter="url(#glow)"><animate attributeName="opacity" values="0.6;1;0.6" dur="1.8s" repeatCount="indefinite"/></circle>
   <circle cx="488" cy="252" r="3" fill="#28C840" opacity="0.7" filter="url(#glow)"><animate attributeName="opacity" values="0.7;1;0.7" dur="2.2s" repeatCount="indefinite"/></circle>
 
   <!-- ============================================================ -->
@@ -166,7 +166,7 @@
   <!-- === SKILL BAR MACRO (y offsets: 100, 138, 176, 214, 252, 290) === -->
 
   <!-- React.js — 90% -->
-  <text x="515" y="101" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">React.js</text>
+  <text x="515" y="101" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">React.js</text>
   <text x="880" y="101" font-family="'JetBrains Mono', monospace" font-size="10" fill="#39FF14" text-anchor="end">90%</text>
   <rect x="515" y="106" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="106" width="0"   height="7" rx="3.5" fill="url(#bar1)" filter="url(#barGlow)">
@@ -174,23 +174,23 @@
   </rect>
 
   <!-- Node.js — 85% -->
-  <text x="515" y="137" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">Node.js</text>
-  <text x="880" y="137" font-family="'JetBrains Mono', monospace" font-size="10" fill="#00FF66" text-anchor="end">85%</text>
+  <text x="515" y="137" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Node.js</text>
+  <text x="880" y="137" font-family="'JetBrains Mono', monospace" font-size="10" fill="#00D4FF" text-anchor="end">85%</text>
   <rect x="515" y="142" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="142" width="0"   height="7" rx="3.5" fill="url(#bar2)" filter="url(#barGlow)">
     <animate attributeName="width" values="0;306" dur="1.8s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
   <!-- Google Cloud — 78% -->
-  <text x="515" y="173" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">Google Cloud</text>
-  <text x="880" y="173" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ADFF2F" text-anchor="end">78%</text>
+  <text x="515" y="173" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Google Cloud</text>
+  <text x="880" y="173" font-family="'JetBrains Mono', monospace" font-size="10" fill="#7B61FF" text-anchor="end">78%</text>
   <rect x="515" y="178" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="178" width="0"   height="7" rx="3.5" fill="url(#bar3)" filter="url(#barGlow)">
     <animate attributeName="width" values="0;281" dur="1.8s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
   <!-- Python — 75% -->
-  <text x="515" y="209" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">Python / ML</text>
+  <text x="515" y="209" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Python / ML</text>
   <text x="880" y="209" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FFD700" text-anchor="end">75%</text>
   <rect x="515" y="214" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="214" width="0"   height="7" rx="3.5" fill="url(#bar4)" filter="url(#barGlow)">
@@ -198,7 +198,7 @@
   </rect>
 
   <!-- MySQL — 80% -->
-  <text x="515" y="245" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">MySQL</text>
+  <text x="515" y="245" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">MySQL</text>
   <text x="880" y="245" font-family="'JetBrains Mono', monospace" font-size="10" fill="#28C840" text-anchor="end">80%</text>
   <rect x="515" y="250" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="250" width="0"   height="7" rx="3.5" fill="url(#bar5)" filter="url(#barGlow)">
@@ -206,8 +206,8 @@
   </rect>
 
   <!-- Java — 70% -->
-  <text x="515" y="281" font-family="'JetBrains Mono', monospace" font-size="11" fill="#69FF9B">Java</text>
-  <text x="880" y="281" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ADFF2F" text-anchor="end">70%</text>
+  <text x="515" y="281" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Java</text>
+  <text x="880" y="281" font-family="'JetBrains Mono', monospace" font-size="10" fill="#7B61FF" text-anchor="end">70%</text>
   <rect x="515" y="286" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="286" width="0"   height="7" rx="3.5" fill="url(#bar6)" filter="url(#barGlow)">
     <animate attributeName="width" values="0;252" dur="1.8s" begin="2.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
