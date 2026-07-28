@@ -214,61 +214,30 @@
 <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/section-stats.svg" width="100%" alt="GitHub Analytics section"/>
 <br/><br/>
 
-<!-- Trophy row -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rajath2005&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%" alt="Rajath Kiran A GitHub trophies — commits, repositories, stars, followers, issues, pull requests, reviews"/>
-
-<br/><br/>
-
-<!-- Stats + Streak side by side -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajath2005&theme=github_dark" height="190" alt="Rajath Kiran A GitHub statistics — total stars, commits, PRs, issues, contributed to"/>
-<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/streak-stats.svg" height="190" alt="Rajath Kiran A GitHub streak stats — current streak, longest streak, total contributions since joining"/>
-
-<br/>
-
-<!-- Contribution graph full width -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajath2005&theme=github_dark" width="95%" alt="Rajath Kiran A GitHub contribution activity graph 2024-2025"/>
-
-<br/><br/>
-
-<!-- Language + productive time -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajath2005&layout=donut-vertical&hide_border=true&langs_count=8&border_radius=12&title_color=39FF14&text_color=C9D1D9&bg_color=0D1117" height="220" alt="Rajath Kiran A most used programming languages — JavaScript, Python, Java, TypeScript, CSS, HTML"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rajath2005&theme=2077&utc_offset=5.5" height="220" alt="Rajath Kiran A most productive coding hours — IST timezone"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  ISOMETRIC 3D CONTRIBUTION CALENDAR                ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-### 🧊 3D Contribution Calendar
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/metrics-isocalendar.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/metrics-isocalendar.svg">
-  <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/metrics-isocalendar.svg" width="60%" alt="Rajath Kiran A isometric 3D GitHub contribution calendar — half year view in IST timezone"/>
-</picture>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                      CONTRIBUTION SNAKE                            ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-light.svg">
-  <img alt="Rajath Kiran A GitHub contribution graph eaten by an animated snake — dark theme with violet and teal dots" src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-dark.svg" width="95%"/>
-</picture>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>🔥 GitHub Streak</b><br/><br/>
+      <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/streak-stats.svg" width="100%" alt="Rajath Kiran A GitHub streak stats — current streak, longest streak, total contributions since joining"/>
+    </td>
+    <td width="33%" align="center">
+      <b>🧊 3D Contribution Calendar</b><br/><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/metrics-isocalendar.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/metrics-isocalendar.svg">
+        <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/metrics-isocalendar.svg" width="100%" alt="Rajath Kiran A isometric 3D GitHub contribution calendar"/>
+      </picture>
+    </td>
+    <td width="33%" align="center">
+      <b>🐍 Contribution Snake</b><br/><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-light.svg">
+        <img alt="Rajath Kiran A GitHub contribution graph eaten by an animated snake" src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/snake-dark.svg" width="100%"/>
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -313,58 +282,13 @@
 
 <br/>
 
-<a href="https://leetcode.com/u/rajath2005/">
-  <img src="https://leetcard.jacoblin.cool/rajath2005?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=12" width="50%" alt="Rajath Kiran LeetCode profile stats and heatmap — problems solved, acceptance rate, ranking"/>
-</a>
 
-<br/><br/>
 
 <a href="https://leetcode.com/u/rajath2005/"><img src="https://img.shields.io/badge/LeetCode-@rajath2005-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=0D1117" alt="LeetCode profile @rajath2005"/></a>&nbsp;
 <a href="https://www.naukri.com/code360/profile/rajathajeru"><img src="https://img.shields.io/badge/Code360-2×_VTU_Rank_%231-FF6B35?style=flat-square&logo=codingninjas&logoColor=white&labelColor=0D1117" alt="Code360 profile — 2× VTU Rank #1"/></a>&nbsp;
 <a href="https://www.hackerrank.com/@rajathajeru"><img src="https://img.shields.io/badge/HackerRank-@rajathajeru-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=0D1117" alt="HackerRank profile @rajathajeru"/></a>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    WRITING & CURRENT FOCUS                         ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### ✍️ Latest Articles
-
-- 🔌 [Top 5 VS Code Extensions for Student Devs](https://rajathpersonal28com.wordpress.com/2025/07/30/top-5-vs-code-extensions-every-student-developer-should-use-in-2025/)
-- 🌐 [Top Free Resources for Learning Programming](https://rajathpersonal28com.wordpress.com/2025/02/05/top-free-online-resources-for-learning-programming/)
-- 🗺️ [Beginner's Tech Roadmap for Web Design](https://rajathpersonal28com.wordpress.com/2025/02/05/a-beginners-tech-roadmap-for-web-design/)
-- 🧠 [Memory Management in Operating Systems](https://medium.com/@arajath5463/memory-management-techniques-in-operating-system-eb1f53d7f1f9)
-
-</td>
-<td width="45%" valign="top">
-
-### 🎯 Currently
-
-```yaml
-building:
-  - AI-powered healthcare (MediQ.io v2)
-  - Smart city management system
-learning:
-  - LangChain & LLM API integration
-  - System Design & Scalability
-  - Docker & Kubernetes
-grinding:
-  - Daily LeetCode challenges
-  - Advanced DSA patterns
-goal:
-  - GCP Cloud Certification
-```
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/Rajath2005/Rajath2005/main/assets/line-divider.svg" width="100%" alt=""/>
 
