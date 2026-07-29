@@ -40,5 +40,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "📊 Update streak stats SVG [$(date +'%Y-%m-%d')]"
+            git pull --rebase
             git push
           fi
