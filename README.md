@@ -1,532 +1,448 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" width="100%" alt="RATIARISON Fanilo Fiderana">
-
-<br>
+<img src="./assets/header-banner.svg" alt="RATIARISON Fanilo Fiderana" width="100%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=39FF14&center=true&vCenter=true&width=850&height=42&lines=Building+products+that+solve+real+problems;Web+%7C+Backend+%7C+Artificial+Intelligence;Turning+ideas+into+real+applications" alt="Typing animation">
 
-<br><br>
-
-<img src="./assets/line-divider.svg" width="100%" alt="Divider">
-
 </div>
 
-<table>
-<tr>
-
-<td width="27%" align="center" valign="middle">
-
-<img src="./za.png" width="150" height="150" alt="RATIARISON Fanilo Fiderana">
-
-<br><br>
-
-<h2>RATIARISON<br>Fanilo Fiderana</h2>
-
-<p>
-<strong>Informaticien</strong>
-</p>
-
-<p>
-Web Development<br>
-Backend Development<br>
-Artificial Intelligence
-</p>
-
-</td>
-
-<td width="73%" valign="middle">
-
-<img src="./assets/about-card.svg" width="100%" alt="About">
-
-<br>
-
-### À propos
-
-Étudiant en informatique à Madagascar, je construis des applications orientées vers des **problèmes concrets**, avec un intérêt particulier pour le développement web, le backend et l'intelligence artificielle.
-
-Mon travail couvre également les **API REST, bases de données, CI/CD, systèmes Linux et réseaux**.
-
-Je m'intéresse particulièrement à la conception de solutions complètes : de l'interface utilisateur jusqu'à l'architecture backend et aux services de données.
-
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 <div align="center">
 
-<img src="./assets/line-divider.svg" width="100%" alt="Divider">
-
-<img src="./assets/section-tech.svg" width="100%" alt="Technology section">
-
-<br><br>
-
-<h2>TECH STACK</h2>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,php,laravel,html,css,js,ts,react,vite" alt="Web and backend technologies">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mariadb,git,github,githubactions,docker,linux,ubuntu" alt="Database DevOps and systems technologies">
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
 
 </div>
 
-<br>
-
 <table>
 <tr>
+<td width="35%" align="center">
 
-<td width="33%" valign="top">
+<img src="./za.png" width="220" alt="RATIARISON Fanilo Fiderana">
 
-### Artificial Intelligence
+</td>
 
-<img src="https://skillicons.dev/icons?i=python" width="45" alt="Python">
+<td width="65%">
 
-<br><br>
+# RATIARISON Fanilo Fiderana
+
+### Informaticien
+
+**Web Development · Backend Development · Artificial Intelligence**
+
+Je construis des applications orientées vers des problèmes concrets, avec un intérêt particulier pour le développement web, le backend et l'intelligence artificielle.
+
+</td>
+</tr>
+</table>
+
+---
+
+## À propos
+
+Étudiant en informatique à Madagascar, je développe des applications et des solutions numériques en combinant développement web, backend, bases de données et intelligence artificielle.
+
+Mon travail couvre également les **API REST, l'architecture applicative, le CI/CD, Linux, les systèmes et les réseaux**.
+
+Je m'intéresse particulièrement aux projets permettant de transformer une idée en une application complète, de l'interface utilisateur jusqu'au backend et aux services de données.
+
+---
+
+<div align="center">
+
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
+
+<img src="./assets/section-tech.svg" width="100%" alt="Technology">
+
+</div>
+
+# TECH STACK
+
+## Artificial Intelligence
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+</p>
 
 **Domain**
 
-* AI integration
-* NLP
-* Text processing
-* CV analysis
-* Data analysis
-* Decision-support systems
+- AI integration
+- Natural Language Processing
+- Text processing
+- CV analysis
+- Data analysis
+- Decision-support systems
 
-</td>
+---
 
-<td width="33%" valign="top">
+## Backend Engineering
 
-### Backend Engineering
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,php,laravel" alt="Backend stack">
-
-<br><br>
+</p>
 
 **Technologies**
 
-* Python
-* FastAPI
-* Node.js
-* Express.js
-* PHP
-* Laravel
-* REST API
+- Python
+- FastAPI
+- Node.js
+- Express.js
+- PHP
+- Laravel
+- REST API
+- Authentication & JWT
 
-</td>
+---
 
-<td width="33%" valign="top">
+## Web Development
 
-### Web Development
-
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="Web stack">
-
-<br><br>
+</p>
 
 **Technologies**
 
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-* React
-* Vite
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Vite
 
-</td>
+---
 
-</tr>
+## Databases
 
-<tr>
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database stack">
+</p>
 
-<td width="33%" valign="top">
+**Technologies**
 
-### Databases
+- MongoDB
+- MySQL
+- PostgreSQL
+- MariaDB
+- Microsoft Access
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,mariadb" alt="Database stack">
+---
 
-<br><br>
+## DevOps
 
-MongoDB
-MySQL
-PostgreSQL
-MariaDB
-Microsoft Access
-
-</td>
-
-<td width="33%" valign="top">
-
-### DevOps
-
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" alt="DevOps stack">
+</p>
 
-<br><br>
+**Technologies**
 
-Git
-GitHub
-GitHub Actions
-CI/CD
-Docker
+- Git
+- GitHub
+- GitHub Actions
+- CI/CD
+- Docker
 
-</td>
+---
 
-<td width="33%" valign="top">
+## Systems & Networks
 
-### Systems & Networks
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,apache" alt="Systems stack">
+</p>
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Linux technologies">
+**Technologies**
 
-<br><br>
+- Linux
+- Ubuntu
+- Windows Server
+- Apache
+- DHCP
+- DNS
+- Network administration
 
-Linux / Ubuntu
-Windows Server
-Apache
-DHCP
-DNS
-
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 <div align="center">
 
-<img src="./assets/line-divider.svg" width="100%" alt="Divider">
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
 
 <img src="./assets/section-projects.svg" width="100%" alt="Projects">
 
 </div>
 
-<br>
+# FEATURED PROJECTS
 
-<table>
-<tr>
+## 01 · Dembéni — Portail Citoyen
 
-<td width="70%" valign="top">
+**Full-Stack Municipal Platform**
 
-## Dembéni — Portail Citoyen
-
-**Full-stack municipal platform**
-
-Plateforme destinée à la digitalisation des services municipaux de Dembéni, Mayotte.
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" alt="Dembéni stack">
-
-<br><br>
-
-`JWT` `REST API`
+Plateforme destinée à la digitalisation des services municipaux de **Dembéni, Mayotte**.
 
 ### Fonctionnalités
 
-* Services municipaux
-* Actualités
-* Espace citoyen
-* Authentification
-* Messagerie
-* Administration
-* Gestion des données
+- Services municipaux
+- Actualités
+- Espace citoyen
+- Authentification
+- Messagerie
+- Administration
+- Gestion des données
+- API REST
+- Authentification JWT
 
-</td>
+### Stack
 
-<td width="30%" align="center" valign="middle">
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" alt="Dembéni stack">
+</p>
 
-<img src="./assets/about-card.svg" width="100%" alt="Dembéni project">
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
 
-<br><br>
+### Liens
 
+<p>
 <a href="https://devfiderana-commits.github.io/dembeniH/">
-<strong>FRONTEND</strong>
+<img src="https://img.shields.io/badge/LIVE%20FRONTEND-39FF14?style=for-the-badge&logo=googlechrome&logoColor=050B16" alt="Frontend">
 </a>
-
-<br><br>
 
 <a href="https://dembenih.onrender.com">
-<strong>BACKEND</strong>
+<img src="https://img.shields.io/badge/BACKEND-59F3D3?style=for-the-badge&logo=render&logoColor=050B16" alt="Backend">
 </a>
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="30%" align="center" valign="middle">
-
-<img src="./assets/skills-orbit.svg" width="100%" alt="AI project">
-
-<br>
-
-<a href="https://github.com/devfiderana-commits/CV-IA-Recrut">
-<strong>VIEW REPOSITORY</strong>
+<a href="https://github.com/devfiderana-commits/dembeni">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="Source code">
 </a>
+</p>
 
-</td>
+---
 
-<td width="70%" valign="top">
+## 02 · MadaCV Recruit AI
 
-## MadaCV Recruit AI
-
-**Artificial Intelligence / Recruitment**
+**Artificial Intelligence · Recruitment**
 
 Solution destinée à assister les recruteurs dans l'analyse et la présélection de CV.
 
-Le système vise à comparer les profils candidats avec les exigences d'une offre d'emploi afin de faciliter l'évaluation et le classement des candidatures.
+Le système compare les profils candidats avec les exigences d'une offre d'emploi afin de faciliter l'évaluation, le scoring et le classement des candidatures.
+
+### Fonctionnalités
+
+- Création d'une offre d'emploi
+- Définition des compétences recherchées
+- Import de CV
+- Extraction du contenu des CV
+- Analyse des profils
+- Comparaison CV / offre
+- Scoring
+- Classement des candidats
+- Explication des résultats
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb" alt="MadaCV Recruit AI stack">
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb" alt="MadaCV stack">
+</p>
 
-<br><br>
+`Python` `FastAPI` `MongoDB` `Artificial Intelligence` `NLP`
 
-`Artificial Intelligence` `NLP` `CV Analysis`
+### Liens
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## Portfolio personnel
-
-Portfolio professionnel présentant mon profil, mes compétences, mon parcours et mes réalisations.
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Portfolio stack">
-
-<br><br>
-
-<a href="https://devfiderana-commits.github.io/portfolio/">
-<strong>VIEW PORTFOLIO</strong>
+<p>
+<a href="https://github.com/devfiderana-commits/CV-IA-Recrut">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="Repository">
 </a>
+</p>
 
-  
+---
+
+## 03 · Portfolio Personnel
+
+**Professional Portfolio**
+
+Portfolio présentant mon profil, mes compétences, mon parcours et mes réalisations.
+
+### Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" alt="Portfolio stack">
+</p>
+
+`HTML` `CSS` `JavaScript`
+
+### Liens
+
+<p>
+<a href="https://devfiderana-commits.github.io/portfolio/">
+<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-39FF14?style=for-the-badge&logo=googlechrome&logoColor=050B16" alt="Portfolio">
+</a>
 
 <a href="https://github.com/devfiderana-commits/portfolio">
-<strong>SOURCE CODE</strong>
+<img src="https://img.shields.io/badge/SOURCE%20CODE-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="Source code">
+</a>
+</p>
+
+---
+
+# OTHER PROJECTS
+
+## E-Commerce Platform
+
+Application e-commerce développée autour d'une architecture web complète.
+
+**Technologies**
+
+`PHP` `Laravel` `MySQL`
+
+<a href="https://github.com/devfiderana-commits/AV">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="E-commerce project">
 </a>
 
-</td>
+---
 
-<td width="50%" valign="top">
+## Video Calling Application
 
-## Autres réalisations
+Application web permettant la communication vidéo en temps réel.
 
-### E-commerce
-
-`Laravel` `PHP` `MySQL`
-
-### Application d'appel vidéo
+**Technologies**
 
 `React` `Vite` `Supabase`
 
-### Gestion d'étudiants
+---
+
+## Student Management System
+
+Application de gestion des étudiants développée pour la gestion et l'organisation des données académiques.
+
+**Technologie**
 
 `Microsoft Access`
 
-### Systèmes & réseaux
+---
+
+## Systems & Networks
+
+Travaux pratiques et projets autour de l'administration système et réseau.
+
+**Technologies**
 
 `Linux` `Ubuntu` `Windows Server` `Apache` `DHCP` `DNS`
 
-</td>
-
-</tr>
-</table>
-
-<br>
+---
 
 <div align="center">
 
-<img src="./assets/line-divider.svg" width="100%" alt="Divider">
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
 
 <img src="./assets/section-stats.svg" width="100%" alt="GitHub statistics">
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=devfiderana-commits&show_icons=true&hide_border=true&bg_color=050B16&title_color=59F3D3&icon_color=74C7FF&text_color=EAF7FF&rank_icon=github" width="49%" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfiderana-commits&layout=compact&hide_border=true&bg_color=050B16&title_color=59F3D3&text_color=EAF7FF" width="49%" alt="Top languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=devfiderana-commits&hide_border=true&background=050B16&ring=59F3D3&fire=74C7FF&currStreakLabel=EAF7FF&sideLabels=9DB0C5&dates=9DB0C5" width="75%" alt="GitHub streak">
-
 </div>
 
-<br>
+# GITHUB STATISTICS
 
 <div align="center">
 
-<img src="./assets/metrics-languages.svg" width="49%" alt="Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=devfiderana-commits&show_icons=true&hide_border=true&bg_color=050B16&title_color=59F3D3&icon_color=74C7FF&text_color=EAF7FF&rank_icon=github" height="170">
 
-<img src="./assets/metrics-isocalendar.svg" width="49%" alt="Contribution calendar">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfiderana-commits&layout=compact&hide_border=true&bg_color=050B16&title_color=59F3D3&text_color=EAF7FF" height="170">
 
 </div>
-
-<br>
 
 <div align="center">
 
-<img src="./assets/line-divider.svg" width="100%" alt="Divider">
-
-<h2>CONTRIBUTION ACTIVITY</h2>
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg">
-  <img src="./assets/snake-dark.svg" width="100%" alt="GitHub contribution snake">
-</picture>
+<img src="https://streak-stats.demolab.com?user=devfiderana-commits&hide_border=true&background=050B16&ring=59F3D3&fire=74C7FF&currStreakLabel=EAF7FF&sideLabels=9DB0C5&dates=9DB0C5" width="65%" alt="GitHub streak">
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="./assets/line-divider.svg" width="100%" alt="Divider">
+<img src="./assets/metrics-languages.svg" width="100%" alt="Languages">
 
-<h2>EDUCATION</h2>
+<img src="./assets/metrics-isocalendar.svg" width="100%" alt="Contribution calendar">
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
+# CONTRIBUTION ACTIVITY
 
-<td width="20%" align="center">
+<div align="center">
 
-<strong>2026–2027</strong>
+<img src="./assets/snake-dark.svg" width="100%" alt="GitHub contribution snake">
 
-</td>
+</div>
 
-<td>
+---
 
-<strong>Licence 3 Informatique</strong><br>
+<div align="center">
+
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
+
+</div>
+
+# EDUCATION
+
+### 2026 – 2027
+
+**Licence 3 Informatique**
+
 U.S.V.P.A.
 
-</td>
+### 2025 – 2026
 
-</tr>
+**DTS Informatique**
 
-<tr>
-
-<td align="center">
-
-<strong>2025–2026</strong>
-
-</td>
-
-<td>
-
-<strong>DTS Informatique</strong><br>
 U.S.V.P.A.
 
-</td>
+### 2023 – 2024
 
-</tr>
+**Baccalauréat — Série D**
 
-<tr>
-
-<td align="center">
-
-<strong>2023–2024</strong>
-
-</td>
-
-<td>
-
-<strong>Baccalauréat — Série D</strong><br>
 LP Martin Luther
 
-</td>
+### 2021 – 2022
 
-</tr>
+**BEPC**
 
-<tr>
-
-<td align="center">
-
-<strong>2021–2022</strong>
-
-</td>
-
-<td>
-
-<strong>BEPC</strong><br>
 LPND Mandroseza
 
-</td>
-
-</tr>
-
-</table>
-
-<br>
+---
 
 <div align="center">
 
-<img src="./assets/line-divider.svg" width="100%" alt="Divider">
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
 
-<h2>CONTACT</h2>
+</div>
 
-<br>
+# CONTACT
 
-<strong>Available for Web, Backend & Artificial Intelligence projects.</strong>
+**Available for Web, Backend & Artificial Intelligence projects.**
 
-<br><br>
-
+<p>
 <a href="https://devfiderana-commits.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-59F3D3?style=for-the-badge&logo=googlechrome&logoColor=050B16">
+<img src="https://img.shields.io/badge/PORTFOLIO-59F3D3?style=for-the-badge&logo=googlechrome&logoColor=050B16" alt="Portfolio">
 </a>
 
 <a href="https://github.com/devfiderana-commits">
-<img src="https://img.shields.io/badge/GITHUB-74C7FF?style=for-the-badge&logo=github&logoColor=050B16">
+<img src="https://img.shields.io/badge/GITHUB-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="GitHub">
 </a>
 
 <a href="mailto:Nilo06dera@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
+</p>
 
-<br><br>
+**Alasora, Madagascar**
 
-<strong>Alasora, Madagascar</strong>
+**+261 38 26 968 885**
 
-<br>
+---
 
-<a href="tel:+2613826968885">+261 38 26 968 885</a>
+<div align="center">
 
-<br><br>
+<img src="./assets/wave-footer.svg" width="100%" alt="footer">
 
-<img src="./assets/wave-footer.svg" width="100%" alt="Footer">
+### RATIARISON Fanilo Fiderana
 
-<br>
-
-<strong>RATIARISON Fanilo Fiderana</strong>
-
-<br><br>
-
-<sub>Web · Backend · Artificial Intelligence</sub>
+**Web · Backend · Artificial Intelligence**
 
 </div>
