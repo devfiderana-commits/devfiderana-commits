@@ -1,338 +1,458 @@
-<!DOCTYPE html>
-<html lang="fr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="description"
-      content="Portfolio professionnel de RATIARISON Fanilo Fiderana, Informaticien spécialisé en développement web, backend et intelligence artificielle."
-    />
-    <title>RATIARISON Fanilo Fiderana | Informaticien</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <div class="page-shell">
-      <!-- header removed (navbar deleted) -->
+<!-- ========================================================= -->
 
-      <main>
-        <!-- Cinematic header adapted with left name column -->
-        <section id="home" class="hero section">
-          <div class="container cinematic-grid">
-            <div class="cinematic-left reveal">
-              <img src="za.png" alt="Photo de Fanilo Fiderana" class="avatar" />
-              <div class="name-below-avatar">
-                <h2 class="cinematic-name">RATIARISON<br/><span>Fanilo Fiderana</span></h2>
-                <p class="cinematic-sub">Développement Web · Backend · Intelligence Artificielle</p>
-              </div>
-            </div>
+<!-- RATIARISON FANILO FIDERANA — GITHUB PROFILE              -->
 
-            <div class="cinematic-right reveal">
-              <div class="hero-banner">
-                <picture>
-                  <source media="(prefers-color-scheme: dark)" srcset="assets/header-banner.svg">
-                  <source media="(prefers-color-scheme: light)" srcset="assets/header-banner.svg">
-                  <img src="assets/header-banner.svg" alt="Bannière du portfolio"/>
-                </picture>
-              </div>
+<!-- ========================================================= -->
 
-              <div class="typing-row">
-                <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=39FF14&center=true&vCenter=true&width=750&height=38&lines=✨+Building+products+that+solve+real+problems;🏆+Awards+&+Projects;💻+Web+·+Backend+·+IA" alt="typing"/>
-              </div>
+<div align="center">
 
-              <img src="assets/line-divider.svg" width="100%" alt="" />
+<img src="./assets/header-banner.svg" width="100%" alt="RATIARISON Fanilo Fiderana">
 
-              <div class="about-card-large">
-                <img src="assets/about-card.svg" alt="About card" />
-              </div>
+<br>
 
-              <img src="assets/line-divider.svg" width="100%" alt="" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=39FF14&center=true&vCenter=true&width=800&height=42&lines=Building+products+that+solve+real+problems;Web+%C2%B7+Backend+%C2%B7+Artificial+Intelligence;Developing+ideas+into+real+applications" alt="Typing SVG">
 
-              <div class="skills-orbit-large">
-                <img src="assets/skills-orbit.svg" alt="skills orbit" />
-              </div>
+<br>
 
-              <!-- section-tech and section-projects removed -->
-            </div>
-          </div>
-        </section>
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
 
-        <section id="skills" class="section">
-          <div class="container">
-            <div class="section-heading reveal">
-              <p class="eyebrow">Compétences</p>
-              <h2>Un socle technique solide pour la création et la maintenance d’applications.</h2>
-            </div>
+</div>
 
-            <div class="skills-grid">
-              <article class="skill-card reveal">
-                <h3>Intelligence artificielle</h3>
-                <ul>
-                  <li>Intégration d’IA</li>
-                  <li>NLP</li>
-                  <li>Traitement de données textuelles</li>
-                </ul>
-              </article>
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
 
-              <article class="skill-card reveal">
-                <h3>Backend</h3>
-                <ul>
-                  <li>Python</li>
-                  <li>Node.js</li>
-                  <li>Express.js</li>
-                  <li>PHP</li>
-                  <li>Laravel</li>
-                  <li>API REST</li>
-                </ul>
-              </article>
+<img src="./za.png" width="150" height="150" alt="RATIARISON Fanilo Fiderana">
 
-              <article class="skill-card reveal">
-                <h3>Web</h3>
-                <ul>
-                  <li>HTML</li>
-                  <li>CSS</li>
-                  <li>JavaScript</li>
-                  <li>TypeScript</li>
-                  <li>React</li>
-                </ul>
-              </article>
+<br><br>
 
-              <article class="skill-card reveal">
-                <h3>Bases de données</h3>
-                <ul>
-                  <li>MongoDB</li>
-                  <li>MySQL</li>
-                  <li>PostgreSQL</li>
-                  <li>MariaDB</li>
-                  <li>Microsoft Access</li>
-                </ul>
-              </article>
+<h2>RATIARISON<br>Fanilo Fiderana</h2>
 
-              <article class="skill-card reveal">
-                <h3>DevOps</h3>
-                <ul>
-                  <li>Git</li>
-                  <li>GitHub</li>
-                  <li>GitHub Actions</li>
-                  <li>CI/CD</li>
-                  <li>Docker</li>
-                </ul>
-              </article>
+<p>
+<b>Informaticien</b>
+</p>
 
-              <article class="skill-card reveal">
-                <h3>Systèmes & réseaux</h3>
-                <ul>
-                  <li>Linux / Ubuntu</li>
-                  <li>Windows Server</li>
-                  <li>Apache</li>
-                  <li>DHCP</li>
-                  <li>DNS</li>
-                </ul>
-              </article>
-            </div>
-          </div>
-        </section>
+<p>
+Web · Backend<br>
+Artificial Intelligence
+</p>
 
-        <section id="projects" class="section">
-          <div class="container">
-            <div class="section-heading reveal">
-              <p class="eyebrow">Projets</p>
-              <h2>Quelques réalisations concrètes.</h2>
-            </div>
+</td>
 
-            <div class="projects-grid">
-              <article class="project-card reveal">
-                <div class="project-topline">
-                  <span class="project-type">Portfolio personnel</span>
-                </div>
-                <h3>Portfolio personnel</h3>
-                <p>Site personnel présentant mon profil, mes compétences et mes projets.</p>
-                <div class="tags">
-                  <span>HTML</span>
-                  <span>CSS</span>
-                  <span>JavaScript</span>
-                </div>
-                <div class="project-links">
-                  <a href="https://devfiderana-commits.github.io/portfolio/" target="_blank" rel="noreferrer">Voir le projet</a>
-                  <a href="https://github.com/devfiderana-commits/portfolio" target="_blank" rel="noreferrer">GitHub</a>
-                </div>
-              </article>
+<td width="75%" valign="top">
 
-              <article class="project-card reveal">
-                <div class="project-topline">
-                  <span class="project-type">IA</span>
-                </div>
-                <h3>AI Recruit / MadaCV Recruit AI</h3>
-                <p>
-                  Solution d’analyse et de présélection de CV à l’aide de l’intelligence artificielle.
-                </p>
-                <div class="tags">
-                  <span>IA</span>
-                  <span>NLP</span>
-                  <span>CV</span>
-                </div>
-                <div class="project-links only-link">
-                  <a href="https://github.com/devfiderana-commits/CV-IA-Recrut" target="_blank" rel="noreferrer">GitHub</a>
-                </div>
-              </article>
+<img src="./assets/about-card.svg" width="100%" alt="About me">
 
-              <article class="project-card reveal">
-                <div class="project-topline">
-                  <span class="project-type">Full-stack</span>
-                </div>
-                <h3>Portail citoyen de Dembéni, Mayotte</h3>
-                <p>
-                  Plateforme full-stack de digitalisation des services municipaux.
-                </p>
-                <div class="tags">
-                  <span>React</span>
-                  <span>Vite</span>
-                  <span>Node.js</span>
-                  <span>Express.js</span>
-                  <span>MongoDB</span>
-                  <span>JWT</span>
-                  <span>API REST</span>
-                </div>
-                <div class="project-links">
-                  <a href="https://devfiderana-commits.github.io/dembeniH/" target="_blank" rel="noreferrer">Frontend</a>
-                  <a href="https://dembenih.onrender.com" target="_blank" rel="noreferrer">Backend</a>
-                </div>
-              </article>
+<br><br>
 
-              <article class="project-card reveal">
-                <div class="project-topline">
-                  <span class="project-type">E-commerce</span>
-                </div>
-                <h3>Plateforme e-commerce</h3>
-                <p>Solution de vente en ligne avec architecture robuste et gestion de données.</p>
-                <div class="tags">
-                  <span>Laravel</span>
-                  <span>PHP</span>
-                  <span>MySQL</span>
-                </div>
-              </article>
+### 👨‍💻 À propos
 
-              <article class="project-card reveal">
-                <div class="project-topline">
-                  <span class="project-type">Vidéos</span>
-                </div>
-                <h3>Application web d’appel vidéo</h3>
-                <p>Application de visioconférence web avec intégration de services modernes.</p>
-                <div class="tags">
-                  <span>React</span>
-                  <span>Vite</span>
-                  <span>Supabase</span>
-                </div>
-              </article>
+Étudiant en informatique à Madagascar, je m'intéresse au **développement web**, au **backend**, à l'**intelligence artificielle**, aux **bases de données** et aux **systèmes & réseaux**.
 
-              <article class="project-card reveal">
-                <div class="project-topline">
-                  <span class="project-type">Gestion</span>
-                </div>
-                <h3>Application de gestion d’étudiants</h3>
-                <p>Outil de suivi et gestion administrative des étudiants.</p>
-                <div class="tags">
-                  <span>Microsoft Access</span>
-                </div>
-              </article>
+Je développe des applications et des solutions informatiques orientées vers des **problèmes réels**, avec une attention particulière portée à l'architecture backend, aux API, aux données et à l'intégration de technologies d'IA.
 
-              <article class="project-card reveal">
-                <div class="project-topline">
-                  <span class="project-type">Systèmes & réseaux</span>
-                </div>
-                <h3>Projets systèmes et réseaux</h3>
-                <p>Travaux autour de Linux, Ubuntu, Windows Server, Apache, DHCP et DNS.</p>
-                <div class="tags">
-                  <span>Linux</span>
-                  <span>Ubuntu</span>
-                  <span>Windows Server</span>
-                  <span>Apache</span>
-                  <span>DHCP</span>
-                  <span>DNS</span>
-                </div>
-              </article>
-            </div>
-          </div>
-        </section>
+</td>
+</tr>
+</table>
 
-        <section id="parcours" class="section">
-          <div class="container">
-            <div class="section-heading reveal">
-              <p class="eyebrow">Parcours</p>
-              <h2>Formation.</h2>
-            </div>
+<br>
 
-            <div class="timeline reveal">
-              <div class="timeline-item">
-                <div class="time">2026–2027</div>
-                <div class="content">
-                  <h3>Licence 3 Informatique</h3>
-                  <p>U.S.V.P.A.</p>
-                </div>
-              </div>
+<div align="center">
 
-              <div class="timeline-item">
-                <div class="time">2025–2026</div>
-                <div class="content">
-                  <h3>DTS Informatique</h3>
-                  <p>U.S.V.P.A.</p>
-                </div>
-              </div>
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
 
-              <div class="timeline-item">
-                <div class="time">2023–2024</div>
-                <div class="content">
-                  <h3>Baccalauréat série D</h3>
-                  <p>LP Martin Luther</p>
-                </div>
-              </div>
+<h2>⚡ TECH STACK</h2>
 
-              <div class="timeline-item">
-                <div class="time">2021–2022</div>
-                <div class="content">
-                  <h3>BEPC</h3>
-                  <p>LPND Mandroseza</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
+<img src="./assets/skills-orbit.svg" width="90%" alt="Skills">
 
-        <section id="contact" class="section contact-section">
-          <div class="container">
-            <div class="section-heading reveal">
-              <p class="eyebrow">Contact</p>
-              <h2>Disponible pour des projets web, backend et IA.</h2>
-            </div>
+</div>
 
-            <div class="contact-grid reveal">
-              <div class="contact-card">
-                <span>Localisation</span>
-                <strong>Alasora, Madagascar</strong>
-              </div>
-              <div class="contact-card">
-                <span>Téléphone</span>
-                <a href="tel:+2613826968885">+261 38 26 968 885</a>
-              </div>
-              <div class="contact-card">
-                <span>Email</span>
-                <a href="mailto:Nilo06dera@gmail.com">Nilo06dera@gmail.com</a>
-              </div>
-            </div>
-          </div>
-        </section>
+<br>
 
-        <!-- SVG gallery removed -->
+<table>
+<tr>
+<td width="33%" valign="top">
 
-      </main>
+### 🤖 Intelligence artificielle
 
-      <footer class="site-footer">
-        <div class="container footer-wrap">
-          <p>© <span id="year"></span> RATIARISON Fanilo Fiderana</p>
-          <p>Informaticien</p>
-        </div>
-      </footer>
-    </div>
+* Intégration d'IA
+* NLP
+* Traitement de données textuelles
+* Analyse de CV
+* Systèmes d'aide à la décision
 
-    <script src="script.js"></script>
-  </body>
-</html>
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+
+* Python
+* FastAPI
+* Node.js
+* Express.js
+* PHP
+* Laravel
+* API REST
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Web
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+* React
+* Vite
+
+</td>
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🗄️ Bases de données
+
+* MongoDB
+* MySQL
+* PostgreSQL
+* MariaDB
+* Microsoft Access
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 DevOps
+
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+* Docker
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🖥️ Systèmes & réseaux
+
+* Linux / Ubuntu
+* Windows Server
+* Apache
+* DHCP
+* DNS
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
+
+<img src="./assets/section-projects.svg" width="100%" alt="Projects">
+
+</div>
+
+<br>
+
+## 🏛️ Dembéni — Portail Citoyen
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### Portail citoyen de Dembéni, Mayotte
+
+Plateforme **full-stack** destinée à la digitalisation des services municipaux.
+
+**Stack technique**
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
+
+**Fonctionnalités**
+
+* Services municipaux
+* Actualités
+* Espace citoyen
+* Authentification
+* Messagerie
+* Administration
+* Gestion des données
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<a href="https://devfiderana-commits.github.io/dembeniH/">
+<img src="./assets/section-projects.svg" width="100%" alt="Dembéni">
+</a>
+
+<br>
+
+<a href="https://devfiderana-commits.github.io/dembeniH/">
+<b>🌐 Frontend</b>
+</a>
+
+<br><br>
+
+<a href="https://dembenih.onrender.com">
+<b>⚙️ Backend</b>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🤖 AI Recruit / MadaCV Recruit AI
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+### Intelligence artificielle & recrutement
+
+Solution destinée à assister le recruteur dans l'**analyse et la présélection de CV**.
+
+Le système vise à comparer les profils avec les exigences d'une offre d'emploi afin d'aider à l'évaluation des candidatures.
+
+**Technologies**
+
+`Python` `FastAPI` `NLP` `IA` `MongoDB`
+
+</td>
+
+<td width="35%" align="center">
+
+<a href="https://github.com/devfiderana-commits/CV-IA-Recrut">
+
+<img src="./assets/about-card.svg" width="100%" alt="AI Recruit">
+
+<br>
+
+<b>💻 Voir le repository</b>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌐 Portfolio personnel
+
+### Portfolio professionnel
+
+Site présentant mon profil, mes compétences, mon parcours et mes réalisations.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+<p>
+<a href="https://devfiderana-commits.github.io/portfolio/">
+🌐 <b>Voir le portfolio</b>
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/devfiderana-commits/portfolio">
+💻 <b>GitHub</b>
+</a>
+</p>
+
+---
+
+## 🛒 Plateforme e-commerce
+
+Solution de vente en ligne avec gestion des données et architecture backend.
+
+`Laravel` `PHP` `MySQL`
+
+---
+
+## 🎥 Application web d'appel vidéo
+
+Application web de visioconférence.
+
+`React` `Vite` `Supabase`
+
+---
+
+## 🎓 Application de gestion d'étudiants
+
+Outil de suivi et de gestion administrative des étudiants.
+
+`Microsoft Access`
+
+---
+
+## 🌐 Systèmes & réseaux
+
+Travaux pratiques autour de :
+
+`Linux` `Ubuntu` `Windows Server` `Apache` `DHCP` `DNS`
+
+<br>
+
+<div align="center">
+
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
+
+<img src="./assets/section-stats.svg" width="100%" alt="GitHub statistics">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=devfiderana-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050B16&title_color=59F3D3&icon_color=74C7FF&text_color=EAF7FF" width="49%" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfiderana-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=050B16&title_color=59F3D3&text_color=EAF7FF" width="49%" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=devfiderana-commits&theme=tokyonight&hide_border=true&background=050B16&ring=59F3D3&fire=74C7FF&currStreakLabel=EAF7FF" width="75%" alt="GitHub Streak">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/metrics-languages.svg" width="49%" alt="Languages">
+
+<img src="./assets/metrics-isocalendar.svg" width="49%" alt="Contribution Calendar">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
+
+<h2>🎓 PARCOURS</h2>
+
+</div>
+
+<table>
+<tr>
+<td width="20%" align="center">
+
+### 2026–2027
+
+</td>
+<td>
+
+**Licence 3 Informatique**
+U.S.V.P.A.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 2025–2026
+
+</td>
+<td>
+
+**DTS Informatique**
+U.S.V.P.A.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 2023–2024
+
+</td>
+<td>
+
+**Baccalauréat — Série D**
+LP Martin Luther
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 2021–2022
+
+</td>
+<td>
+
+**BEPC**
+LPND Mandroseza
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
+
+<h2>📫 CONTACT</h2>
+
+<p>
+<b>Disponible pour des projets Web, Backend et IA.</b>
+</p>
+
+<p>
+
+📍 <b>Alasora, Madagascar</b>
+
+<br>
+
+📞 <a href="tel:+2613826968885">+261 38 26 968 885</a>
+
+<br>
+
+📧 <a href="mailto:Nilo06dera@gmail.com">[Nilo06dera@gmail.com](mailto:Nilo06dera@gmail.com)</a>
+
+</p>
+
+<p>
+
+<a href="https://devfiderana-commits.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-59F3D3?style=for-the-badge&logo=googlechrome&logoColor=050B16">
+</a>
+
+<a href="https://github.com/devfiderana-commits">
+<img src="https://img.shields.io/badge/GitHub-74C7FF?style=for-the-badge&logo=github&logoColor=050B16">
+</a>
+
+</p>
+
+<br>
+
+<img src="./assets/wave-footer.svg" width="100%" alt="Footer">
+
+<br>
+
+<b>Building useful solutions with Web, Backend & AI.</b>
+
+<br><br>
+
+⭐ <i>Thanks for visiting my profile.</i>
+
+</div>
