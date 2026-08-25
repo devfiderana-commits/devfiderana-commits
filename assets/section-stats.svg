@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" class="svg-harmonized" role="img" focusable="false" preserveAspectRatio="xMidYMid meet" aria-labelledby="title">
+  <title id="title">Section stats</title>
   <defs>
     <linearGradient id="sg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#FFD700"><animate attributeName="stop-color" values="#FFD700;#39FF14;#7B61FF;#FFD700" dur="7s" repeatCount="indefinite"/></stop>

@@ -1,36 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" class="svg-harmonized" role="img" focusable="false" preserveAspectRatio="xMidYMid meet" aria-labelledby="title">
+  <title id="title">Wave footer</title>
   <defs>
     <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#060d18"/>
-      <stop offset="30%"  stop-color="#0a1628">
-        <animate attributeName="stop-color" values="#0a1628;#0f1d30;#0a1628" dur="10s" repeatCount="indefinite"/>
+      <stop offset="30%"  stop-color="#0d1725">
+        <animate attributeName="stop-color" values="#0d1725;#111f32;#0d1725" dur="10s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="70%"  stop-color="#39FF14" stop-opacity="0.08">
+      <stop offset="70%"  stop-color="#59f3d3" stop-opacity="0.08">
         <animate attributeName="stop-opacity" values="0.08;0.15;0.08" dur="8s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#060d18"/>
     </linearGradient>
     <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0a1628" stop-opacity="0.6"/>
-      <stop offset="50%"  stop-color="#7B61FF" stop-opacity="0.06">
-        <animate attributeName="stop-opacity" values="0.06;0.12;0.06" dur="7s" repeatCount="indefinite"/>
+      <stop offset="0%"   stop-color="#0d1725" stop-opacity="0.6"/>
+      <stop offset="50%"  stop-color="#8b5cf6" stop-opacity="0.08">
+        <animate attributeName="stop-opacity" values="0.08;0.14;0.08" dur="7s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#0a1628" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#0d1725" stop-opacity="0.6"/>
     </linearGradient>
     <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#060d18"/>
-      <stop offset="40%"  stop-color="#00D4FF" stop-opacity="0.05">
+      <stop offset="40%"  stop-color="#74c7ff" stop-opacity="0.05">
         <animate attributeName="stop-opacity" values="0.05;0.10;0.05" dur="9s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="#060d18"/>
     </linearGradient>
     <linearGradient id="topLine" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="transparent"/>
-      <stop offset="20%"  stop-color="#39FF14">
-        <animate attributeName="stop-color" values="#39FF14;#7B61FF;#00D4FF;#39FF14" dur="7s" repeatCount="indefinite"/>
+      <stop offset="20%"  stop-color="#59f3d3">
+        <animate attributeName="stop-color" values="#59f3d3;#74c7ff;#8b5cf6;#59f3d3" dur="7s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="80%"  stop-color="#7B61FF">
-        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#39FF14;#7B61FF" dur="7s" repeatCount="indefinite"/>
+      <stop offset="80%"  stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#74c7ff;#59f3d3;#8b5cf6" dur="7s" repeatCount="indefinite"/>
       </stop>
       <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
@@ -51,10 +52,10 @@
   <rect x="0" y="0" width="1200" height="1.5" fill="url(#topLine)" filter="url(#waveGlow)"/>
 
   <!-- Traveling dot on top line -->
-  <circle r="2.5" fill="#39FF14" opacity="0.8" filter="url(#waveGlow)" cy="0.75">
+  <circle r="2.5" fill="#59f3d3" opacity="0.8" filter="url(#waveGlow)" cy="0.75">
     <animate attributeName="cx" values="0;1200;0" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle r="1.8" fill="#7B61FF" opacity="0.6" filter="url(#waveGlow)" cy="0.75">
+  <circle r="1.8" fill="#8b5cf6" opacity="0.6" filter="url(#waveGlow)" cy="0.75">
     <animate attributeName="cx" values="1200;0;1200" dur="6.5s" repeatCount="indefinite"/>
   </circle>
 

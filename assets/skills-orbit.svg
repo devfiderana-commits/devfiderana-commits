@@ -114,38 +114,38 @@
     <circle cx="0" cy="0" r="28" fill="#090d16" stroke="#39FF14" stroke-width="1.5"/>
     
     <!-- Core Text -->
-    <text x="0" y="-3" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="900" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="3" filter="url(#glow)">RAJATH</text>
-    <text x="0" y="-3" font-family="'Segoe UI', sans-serif" font-size="12" font-weight="900" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="3">RAJATH</text>
-    <text x="0" y="10" font-family="'JetBrains Mono', monospace" font-size="7" fill="#8B949E" text-anchor="middle" letter-spacing="2">KIRAN A</text>
+    <text x="0" y="-3" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="900" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="2" filter="url(#glow)">FANILO</text>
+    <text x="0" y="-3" font-family="'Segoe UI', sans-serif" font-size="11" font-weight="900" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="2">FANILO</text>
+    <text x="0" y="10" font-family="'JetBrains Mono', monospace" font-size="7" fill="#8B949E" text-anchor="middle" letter-spacing="2">RATIARISON</text>
   </g>
 
   <!-- ===================== NODES ===================== -->
 
   <!-- ORBIT 1: FRONTEND (4 Nodes, 40s duration -> 10s offset) -->
-  <!-- React -->
+  <!-- HTML -->
   <g>
     <animateMotion dur="40s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#orbit1"/></animateMotion>
     <circle cx="0" cy="0" r="30" fill="url(#nodeGlow)" filter="url(#glow)" opacity="0.6"/>
     <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#39FF14" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#61DAFB" text-anchor="middle">⚛ React</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#E34F26" text-anchor="middle">HTML</text>
   </g>
-  <!-- Next.js -->
+  <!-- CSS -->
   <g>
     <animateMotion dur="40s" begin="-10s" repeatCount="indefinite"><mpath xlink:href="#orbit1"/></animateMotion>
     <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#39FF14" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#E6EDF3" text-anchor="middle">▲ Next.js</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#1572B6" text-anchor="middle">CSS</text>
   </g>
-  <!-- Tailwind -->
+  <!-- JavaScript -->
   <g>
     <animateMotion dur="40s" begin="-20s" repeatCount="indefinite"><mpath xlink:href="#orbit1"/></animateMotion>
     <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#06B6D4" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#06B6D4" text-anchor="middle">🌊 Tailwind</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#F7DF1E" text-anchor="middle">JS</text>
   </g>
-  <!-- TypeScript -->
+  <!-- React -->
   <g>
     <animateMotion dur="40s" begin="-30s" repeatCount="indefinite"><mpath xlink:href="#orbit1"/></animateMotion>
     <circle cx="0" cy="0" r="18" fill="url(#nodeBg)" stroke="#3178C6" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#3178C6" text-anchor="middle">TS TypeScript</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#61DAFB" text-anchor="middle">React</text>
   </g>
 
 
@@ -155,67 +155,65 @@
     <animateMotion dur="60s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
     <circle cx="0" cy="0" r="35" fill="url(#nodeGlowViolet)" filter="url(#glow)" opacity="0.6"/>
     <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#339933" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#339933" text-anchor="middle">⬡ Node.js</text>
-  </g>
-  <!-- Java -->
-  <g>
-    <animateMotion dur="60s" begin="-10s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
-    <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#ED8B00" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#ED8B00" text-anchor="middle">☕ Java</text>
-  </g>
-  <!-- Express -->
-  <g>
-    <animateMotion dur="60s" begin="-20s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
-    <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#8B949E" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#8B949E" text-anchor="middle">◆ Express</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#339933" text-anchor="middle">Node.js</text>
   </g>
   <!-- Python -->
   <g>
+    <animateMotion dur="60s" begin="-10s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
+    <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#ED8B00" stroke-width="1.5"/>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#3776AB" text-anchor="middle">Python</text>
+  </g>
+  <!-- Express.js -->
+  <g>
+    <animateMotion dur="60s" begin="-20s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
+    <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#8B949E" stroke-width="1.5"/>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#8B949E" text-anchor="middle">Express</text>
+  </g>
+  <!-- PHP -->
+  <g>
     <animateMotion dur="60s" begin="-30s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
     <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#3776AB" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#3776AB" text-anchor="middle">🐍 Python</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#8892BF" text-anchor="middle">PHP</text>
   </g>
-  <!-- Firebase -->
+  <!-- Laravel -->
   <g>
     <animateMotion dur="60s" begin="-40s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
     <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#FFCA28" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8.5" font-weight="700" fill="#FFCA28" text-anchor="middle">🔥 Firebase</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8.5" font-weight="700" fill="#FF2D20" text-anchor="middle">Laravel</text>
   </g>
-  <!-- Java -->
+  <!-- API REST -->
   <g>
     <animateMotion dur="60s" begin="-50s" repeatCount="indefinite"><mpath xlink:href="#orbit2"/></animateMotion>
     <circle cx="0" cy="0" r="22" fill="url(#nodeBg)" stroke="#ED8B00" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#ED8B00" text-anchor="middle">☕ Java</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#ED8B00" text-anchor="middle">API REST</text>
   </g>
 
 
   <!-- ORBIT 3: CLOUD + TOOLS (4 Nodes, 80s duration -> 20s offset) CW motion! -->
-  <!-- GCP -->
+  <!-- GitHub -->
   <g>
     <animateMotion dur="80s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#orbit3"/></animateMotion>
     <circle cx="0" cy="0" r="24" fill="url(#nodeBg)" stroke="#4285F4" stroke-width="1.5"/>
-    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#4285F4" text-anchor="middle">☁️ Google</text>
-    <text x="0" y="10" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#4285F4" text-anchor="middle">Cloud</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#E6EDF3" text-anchor="middle">GitHub</text>
   </g>
   <!-- Docker -->
   <g>
     <animateMotion dur="80s" begin="-20s" repeatCount="indefinite"><mpath xlink:href="#orbit3"/></animateMotion>
     <circle cx="0" cy="0" r="24" fill="url(#nodeBg)" stroke="#2496ED" stroke-width="1.5"/>
-    <text x="0" y="0" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#2496ED" text-anchor="middle">🐳 Docker</text>
-    <text x="0" y="10" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#2496ED" text-anchor="middle">K8s</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="8" font-weight="700" fill="#2496ED" text-anchor="middle">Docker</text>
   </g>
-  <!-- Git -->
+  <!-- Linux -->
   <g>
     <animateMotion dur="80s" begin="-40s" repeatCount="indefinite"><mpath xlink:href="#orbit3"/></animateMotion>
     <circle cx="0" cy="0" r="24" fill="url(#nodeBg)" stroke="#F05032" stroke-width="1.5"/>
-    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#F05032" text-anchor="middle">⎇ Git</text>
+    <text x="0" y="4" font-family="'Segoe UI', sans-serif" font-size="9" font-weight="700" fill="#FCC624" text-anchor="middle">Linux</text>
   </g>
-  <!-- MySQL / Postgres -->
+  <!-- MongoDB / MySQL -->
   <g>
     <animateMotion dur="80s" begin="-60s" repeatCount="indefinite"><mpath xlink:href="#orbit3"/></animateMotion>
     <circle cx="0" cy="0" r="24" fill="url(#nodeBg)" stroke="#4479A1" stroke-width="1.5"/>
-    <text x="0" y="-1" font-family="'Segoe UI', sans-serif" font-size="7.5" font-weight="700" fill="#4479A1" text-anchor="middle">🛢 MySQL</text>
-    <text x="0" y="9" font-family="'Segoe UI', sans-serif" font-size="7.5" font-weight="700" fill="#4479A1" text-anchor="middle">Postgres</text>
+    <text x="0" y="-1" font-family="'Segoe UI', sans-serif" font-size="7" font-weight="700" fill="#47A248" text-anchor="middle">MongoDB</text>
+    <text x="0" y="9" font-family="'Segoe UI', sans-serif" font-size="7" font-weight="700" fill="#4479A1" text-anchor="middle">MySQL</text>
   </g>
 
   <!-- Title Footer -->

@@ -1,14 +1,15 @@
-<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" class="svg-harmonized" role="img" focusable="false" preserveAspectRatio="xMidYMid meet" aria-labelledby="title">
+  <title id="title">Wave divider</title>
   <defs>
     <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#39FF14;stop-opacity:0.8">
-        <animate attributeName="stop-color" values="#39FF14;#7B61FF;#00D4FF;#39FF14" dur="6s" repeatCount="indefinite"/>
+      <stop offset="0%" style="stop-color:#59f3d3;stop-opacity:0.8">
+        <animate attributeName="stop-color" values="#59f3d3;#74c7ff;#8b5cf6;#59f3d3" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" style="stop-color:#7B61FF;stop-opacity:0.6">
-        <animate attributeName="stop-color" values="#7B61FF;#00D4FF;#39FF14;#7B61FF" dur="6s" repeatCount="indefinite"/>
+      <stop offset="50%" style="stop-color:#74c7ff;stop-opacity:0.6">
+        <animate attributeName="stop-color" values="#74c7ff;#8b5cf6;#59f3d3;#74c7ff" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:0.8">
-        <animate attributeName="stop-color" values="#00D4FF;#39FF14;#7B61FF;#00D4FF" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0.8">
+        <animate attributeName="stop-color" values="#8b5cf6;#59f3d3;#74c7ff;#8b5cf6" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
     <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -28,7 +29,7 @@
       </feMerge>
     </filter>
     <!-- Particle dots -->
-    <circle id="particle" r="1.5" fill="#39FF14" opacity="0.6"/>
+    <circle id="particle" r="1.5" fill="#59f3d3" opacity="0.6"/>
   </defs>
   
   <!-- Background fade -->

@@ -73,7 +73,7 @@
   <circle cx="41" cy="19" r="5" fill="#FFBD2E"/>
   <circle cx="60" cy="19" r="5" fill="#28C840"/>
   <!-- Title -->
-  <text x="450" y="23" font-family="'JetBrains Mono', monospace" font-size="11" fill="#484F58" text-anchor="middle">rajath@github ~ $ whoami --full</text>
+  <text x="450" y="23" font-family="'JetBrains Mono', monospace" font-size="11" fill="#484F58" text-anchor="middle">fanilo@portfolio ~ $ whoami --full</text>
 
   <!-- ===================== PANEL DIVIDER ===================== -->
   <rect x="498" y="44" width="1" height="285" fill="url(#panelDivider)"/>
@@ -84,57 +84,57 @@
 
   <!-- Line 1 -->
   <text x="22" y="74" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> name</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Rajath Kiran A</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> name</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Fanilo Fiderana</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
   </text>
   <!-- Line 2 -->
   <text x="22" y="100" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> role</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Full Stack Dev &amp; Cloud Eng.</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> role</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Informaticien • Backend • IA</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.7s" fill="freeze"/>
   </text>
   <!-- Line 3 -->
   <text x="22" y="126" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> education</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> B.E. CS — VCET Puttur (VTU)</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> education</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> Licence 3 Informatique — USVPA</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.2s" fill="freeze"/>
   </text>
   <!-- Line 4 -->
   <text x="22" y="152" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
     <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> stack</tspan><tspan fill="#30363D">:</tspan>
     <tspan fill="#E6EDF3"> [</tspan>
-    <tspan fill="#FFD700">"React"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"HTML"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"CSS"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"JS"</tspan><tspan fill="#E6EDF3">, </tspan>
     <tspan fill="#FFD700">"Node.js"</tspan><tspan fill="#E6EDF3">, </tspan>
-    <tspan fill="#FFD700">"GCP"</tspan><tspan fill="#E6EDF3">, </tspan>
-    <tspan fill="#FFD700">"MySQL"</tspan><tspan fill="#E6EDF3">, </tspan>
-    <tspan fill="#FFD700">"Java"</tspan>
+    <tspan fill="#FFD700">"PHP"</tspan>
     <tspan fill="#E6EDF3">]</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.7s" fill="freeze"/>
   </text>
   <!-- Line 5 -->
   <text x="22" y="178" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> achievements</tspan><tspan fill="#30363D">:</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> expertise</tspan><tspan fill="#30363D">:</tspan>
     <tspan fill="#E6EDF3"> [</tspan>
-    <tspan fill="#39FF14">"2× VTU #1"</tspan><tspan fill="#E6EDF3">, </tspan>
-    <tspan fill="#FFD700">"50+ GCP"</tspan><tspan fill="#E6EDF3">, </tspan>
-    <tspan fill="#28C840">"NPTEL"</tspan>
+    <tspan fill="#39FF14">"Web"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#FFD700">"Backend"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#28C840">"IA"</tspan>
     <tspan fill="#E6EDF3">]</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.2s" fill="freeze"/>
   </text>
   <!-- Line 6 -->
   <text x="22" y="204" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> building</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> AI Healthcare + Smart City</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> building</tspan><tspan fill="#30363D">:</tspan><tspan fill="#E6EDF3"> APIs, services web et workflows IA</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.7s" fill="freeze"/>
   </text>
   <!-- Line 7 -->
   <text x="22" y="230" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
-    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> portfolio</tspan><tspan fill="#30363D">:</tspan><tspan fill="#7B61FF"> https://rajathkiran.me</tspan>
+    <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> portfolio</tspan><tspan fill="#30363D">:</tspan><tspan fill="#7B61FF"> https://devfiderana-commits.github.io/portfolio/</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze"/>
   </text>
   <!-- Line 8 -->
   <text x="22" y="256" font-family="'JetBrains Mono', monospace" font-size="12.5" opacity="0.0">
     <tspan fill="#39FF14">→</tspan><tspan fill="#7FDBFF"> open_to</tspan><tspan fill="#30363D">:</tspan>
     <tspan fill="#E6EDF3"> [</tspan>
-    <tspan fill="#28C840">"Internships"</tspan><tspan fill="#E6EDF3">, </tspan>
-    <tspan fill="#28C840">"OSS"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#28C840">"Recrutement"</tspan><tspan fill="#E6EDF3">, </tspan>
+    <tspan fill="#28C840">"Collab."</tspan><tspan fill="#E6EDF3">, </tspan>
     <tspan fill="#28C840">"Freelance"</tspan>
     <tspan fill="#E6EDF3">]</tspan>
     <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.7s" fill="freeze"/>
@@ -165,52 +165,52 @@
 
   <!-- === SKILL BAR MACRO (y offsets: 100, 138, 176, 214, 252, 290) === -->
 
-  <!-- React.js — 90% -->
-  <text x="515" y="101" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">React.js</text>
-  <text x="880" y="101" font-family="'JetBrains Mono', monospace" font-size="10" fill="#39FF14" text-anchor="end">90%</text>
+  <!-- React — 82% -->
+  <text x="515" y="101" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">React</text>
+  <text x="880" y="101" font-family="'JetBrains Mono', monospace" font-size="10" fill="#39FF14" text-anchor="end">82%</text>
   <rect x="515" y="106" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="106" width="0"   height="7" rx="3.5" fill="url(#bar1)" filter="url(#barGlow)">
-    <animate attributeName="width" values="0;324" dur="1.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="width" values="0;295" dur="1.8s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
-  <!-- Node.js — 85% -->
+  <!-- Node.js — 88% -->
   <text x="515" y="137" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Node.js</text>
-  <text x="880" y="137" font-family="'JetBrains Mono', monospace" font-size="10" fill="#00D4FF" text-anchor="end">85%</text>
+  <text x="880" y="137" font-family="'JetBrains Mono', monospace" font-size="10" fill="#00D4FF" text-anchor="end">88%</text>
   <rect x="515" y="142" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="142" width="0"   height="7" rx="3.5" fill="url(#bar2)" filter="url(#barGlow)">
-    <animate attributeName="width" values="0;306" dur="1.8s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="width" values="0;317" dur="1.8s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
-  <!-- Google Cloud — 78% -->
-  <text x="515" y="173" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Google Cloud</text>
-  <text x="880" y="173" font-family="'JetBrains Mono', monospace" font-size="10" fill="#7B61FF" text-anchor="end">78%</text>
+  <!-- Python / IA — 85% -->
+  <text x="515" y="173" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Python / IA</text>
+  <text x="880" y="173" font-family="'JetBrains Mono', monospace" font-size="10" fill="#7B61FF" text-anchor="end">85%</text>
   <rect x="515" y="178" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="178" width="0"   height="7" rx="3.5" fill="url(#bar3)" filter="url(#barGlow)">
-    <animate attributeName="width" values="0;281" dur="1.8s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="width" values="0;306" dur="1.8s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
-  <!-- Python — 75% -->
-  <text x="515" y="209" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Python / ML</text>
-  <text x="880" y="209" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FFD700" text-anchor="end">75%</text>
+  <!-- PHP / Laravel — 80% -->
+  <text x="515" y="209" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">PHP / Laravel</text>
+  <text x="880" y="209" font-family="'JetBrains Mono', monospace" font-size="10" fill="#FFD700" text-anchor="end">80%</text>
   <rect x="515" y="214" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="214" width="0"   height="7" rx="3.5" fill="url(#bar4)" filter="url(#barGlow)">
-    <animate attributeName="width" values="0;270" dur="1.8s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="width" values="0;288" dur="1.8s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
-  <!-- MySQL — 80% -->
-  <text x="515" y="245" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">MySQL</text>
-  <text x="880" y="245" font-family="'JetBrains Mono', monospace" font-size="10" fill="#28C840" text-anchor="end">80%</text>
+  <!-- MySQL / MongoDB — 83% -->
+  <text x="515" y="245" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">MySQL / MongoDB</text>
+  <text x="880" y="245" font-family="'JetBrains Mono', monospace" font-size="10" fill="#28C840" text-anchor="end">83%</text>
   <rect x="515" y="250" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="250" width="0"   height="7" rx="3.5" fill="url(#bar5)" filter="url(#barGlow)">
-    <animate attributeName="width" values="0;288" dur="1.8s" begin="1.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="width" values="0;299" dur="1.8s" begin="1.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
-  <!-- Java — 70% -->
-  <text x="515" y="281" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Java</text>
-  <text x="880" y="281" font-family="'JetBrains Mono', monospace" font-size="10" fill="#7B61FF" text-anchor="end">70%</text>
+  <!-- Linux / Ubuntu — 76% -->
+  <text x="515" y="281" font-family="'JetBrains Mono', monospace" font-size="11" fill="#7FDBFF">Linux / Ubuntu</text>
+  <text x="880" y="281" font-family="'JetBrains Mono', monospace" font-size="10" fill="#7B61FF" text-anchor="end">76%</text>
   <rect x="515" y="286" width="360" height="7" rx="3.5" fill="#1d2433"/>
   <rect x="515" y="286" width="0"   height="7" rx="3.5" fill="url(#bar6)" filter="url(#barGlow)">
-    <animate attributeName="width" values="0;252" dur="1.8s" begin="2.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="width" values="0;274" dur="1.8s" begin="2.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
   </rect>
 
   <!-- Ambient corner dot -->
