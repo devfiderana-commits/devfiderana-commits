@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="./assets/header-banner.svg" alt="RATIARISON Fanilo Fiderana" width="100%">
+<img src="./assets/header-banner.svg" width="100%" alt="RATIARISON Fanilo Fiderana">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1400&color=39FF14&center=true&vCenter=true&width=850&height=42&lines=Building+products+that+solve+real+problems;Web+%7C+Backend+%7C+Artificial+Intelligence;Turning+ideas+into+real+applications" alt="Typing animation">
-
-</div>
-
----
-
-<div align="center">
 
 <img src="./assets/line-divider.svg" width="100%" alt="divider">
 
@@ -16,7 +10,7 @@
 
 <table>
 <tr>
-<td width="35%" align="center">
+<td align="center" width="35%">
 
 <img src="./za.png" width="220" alt="RATIARISON Fanilo Fiderana">
 
@@ -26,11 +20,13 @@
 
 # RATIARISON Fanilo Fiderana
 
-### Informaticien
+**Informaticien**
 
-**Web Development · Backend Development · Artificial Intelligence**
+Web Development
 
-Je construis des applications orientées vers des problèmes concrets, avec un intérêt particulier pour le développement web, le backend et l'intelligence artificielle.
+Backend Development
+
+Artificial Intelligence
 
 </td>
 </tr>
@@ -40,46 +36,32 @@ Je construis des applications orientées vers des problèmes concrets, avec un i
 
 ## À propos
 
-Étudiant en informatique à Madagascar, je développe des applications et des solutions numériques en combinant développement web, backend, bases de données et intelligence artificielle.
+Étudiant en informatique à Madagascar, je construis des applications orientées vers des **problèmes concrets**, avec un intérêt particulier pour le développement web, le backend et l'intelligence artificielle.
 
-Mon travail couvre également les **API REST, l'architecture applicative, le CI/CD, Linux, les systèmes et les réseaux**.
+Mon travail couvre également les **API REST, bases de données, CI/CD, systèmes Linux et réseaux**.
 
-Je m'intéresse particulièrement aux projets permettant de transformer une idée en une application complète, de l'interface utilisateur jusqu'au backend et aux services de données.
+Je m'intéresse particulièrement à la conception de solutions complètes : de l'interface utilisateur jusqu'à l'architecture backend et aux services de données.
 
 ---
-
-<div align="center">
 
 <img src="./assets/line-divider.svg" width="100%" alt="divider">
 
 <img src="./assets/section-tech.svg" width="100%" alt="Technology">
 
-</div>
-
 # TECH STACK
 
-## Artificial Intelligence
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" alt="Python">
-</p>
+### Artificial Intelligence
 
 **Domain**
 
 - AI integration
-- Natural Language Processing
+- NLP
 - Text processing
 - CV analysis
 - Data analysis
 - Decision-support systems
 
----
-
-## Backend Engineering
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,php,laravel" alt="Backend stack">
-</p>
+### Backend Engineering
 
 **Technologies**
 
@@ -90,15 +72,8 @@ Je m'intéresse particulièrement aux projets permettant de transformer une idé
 - PHP
 - Laravel
 - REST API
-- Authentication & JWT
 
----
-
-## Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="Web stack">
-</p>
+### Web Development
 
 **Technologies**
 
@@ -109,15 +84,7 @@ Je m'intéresse particulièrement aux projets permettant de transformer une idé
 - React
 - Vite
 
----
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database stack">
-</p>
-
-**Technologies**
+### Databases
 
 - MongoDB
 - MySQL
@@ -125,15 +92,7 @@ Je m'intéresse particulièrement aux projets permettant de transformer une idé
 - MariaDB
 - Microsoft Access
 
----
-
-## DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker" alt="DevOps stack">
-</p>
-
-**Technologies**
+### DevOps
 
 - Git
 - GitHub
@@ -141,41 +100,31 @@ Je m'intéresse particulièrement aux projets permettant de transformer une idé
 - CI/CD
 - Docker
 
----
+### Systems & Networks
 
-## Systems & Networks
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,apache" alt="Systems stack">
-</p>
-
-**Technologies**
-
-- Linux
-- Ubuntu
+- Linux / Ubuntu
 - Windows Server
 - Apache
 - DHCP
 - DNS
-- Network administration
 
 ---
-
-<div align="center">
 
 <img src="./assets/line-divider.svg" width="100%" alt="divider">
 
 <img src="./assets/section-projects.svg" width="100%" alt="Projects">
 
-</div>
+# PROJECTS
 
-# FEATURED PROJECTS
+## Dembéni — Portail Citoyen
 
-## 01 · Dembéni — Portail Citoyen
+**Full-stack municipal platform**
 
-**Full-Stack Municipal Platform**
+Plateforme destinée à la digitalisation des services municipaux de Dembéni, Mayotte.
 
-Plateforme destinée à la digitalisation des services municipaux de **Dembéni, Mayotte**.
+### Stack
+
+`React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
 
 ### Fonctionnalités
 
@@ -186,162 +135,100 @@ Plateforme destinée à la digitalisation des services municipaux de **Dembéni,
 - Messagerie
 - Administration
 - Gestion des données
-- API REST
-- Authentification JWT
-
-### Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" alt="Dembéni stack">
-</p>
-
-`React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `REST API`
 
 ### Liens
 
-<p>
-<a href="https://devfiderana-commits.github.io/dembeniH/">
-<img src="https://img.shields.io/badge/LIVE%20FRONTEND-39FF14?style=for-the-badge&logo=googlechrome&logoColor=050B16" alt="Frontend">
-</a>
+**Frontend**
 
-<a href="https://dembenih.onrender.com">
-<img src="https://img.shields.io/badge/BACKEND-59F3D3?style=for-the-badge&logo=render&logoColor=050B16" alt="Backend">
-</a>
+https://devfiderana-commits.github.io/dembeniH/
 
-<a href="https://github.com/devfiderana-commits/dembeni">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="Source code">
-</a>
-</p>
+**Backend**
+
+https://dembenih.onrender.com
+
+**Repository**
+
+https://github.com/devfiderana-commits/dembeni
 
 ---
 
-## 02 · MadaCV Recruit AI
+## MadaCV Recruit AI
 
-**Artificial Intelligence · Recruitment**
+**Artificial Intelligence / Recruitment**
 
 Solution destinée à assister les recruteurs dans l'analyse et la présélection de CV.
 
-Le système compare les profils candidats avec les exigences d'une offre d'emploi afin de faciliter l'évaluation, le scoring et le classement des candidatures.
-
-### Fonctionnalités
-
-- Création d'une offre d'emploi
-- Définition des compétences recherchées
-- Import de CV
-- Extraction du contenu des CV
-- Analyse des profils
-- Comparaison CV / offre
-- Scoring
-- Classement des candidats
-- Explication des résultats
+Le système vise à comparer les profils candidats avec les exigences d'une offre d'emploi afin de faciliter l'évaluation et le classement des candidatures.
 
 ### Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,mongodb" alt="MadaCV stack">
-</p>
+`Python` `FastAPI` `MongoDB` `Artificial Intelligence` `NLP` `CV Analysis`
 
-`Python` `FastAPI` `MongoDB` `Artificial Intelligence` `NLP`
+### Repository
 
-### Liens
-
-<p>
-<a href="https://github.com/devfiderana-commits/CV-IA-Recrut">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="Repository">
-</a>
-</p>
+https://github.com/devfiderana-commits/CV-IA-Recrut
 
 ---
 
-## 03 · Portfolio Personnel
+## Portfolio personnel
 
-**Professional Portfolio**
-
-Portfolio présentant mon profil, mes compétences, mon parcours et mes réalisations.
+Portfolio professionnel présentant mon profil, mes compétences, mon parcours et mes réalisations.
 
 ### Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Portfolio stack">
-</p>
 
 `HTML` `CSS` `JavaScript`
 
 ### Liens
 
-<p>
-<a href="https://devfiderana-commits.github.io/portfolio/">
-<img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-39FF14?style=for-the-badge&logo=googlechrome&logoColor=050B16" alt="Portfolio">
-</a>
+**Portfolio**
 
-<a href="https://github.com/devfiderana-commits/portfolio">
-<img src="https://img.shields.io/badge/SOURCE%20CODE-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="Source code">
-</a>
-</p>
+https://devfiderana-commits.github.io/portfolio/
+
+**Repository**
+
+https://github.com/devfiderana-commits/portfolio
 
 ---
 
-# OTHER PROJECTS
+## Autres réalisations
 
-## E-Commerce Platform
+### E-commerce
 
-Application e-commerce développée autour d'une architecture web complète.
+Application e-commerce développée avec une architecture web complète.
 
-**Technologies**
+`Laravel` `PHP` `MySQL`
 
-`PHP` `Laravel` `MySQL`
+### Application d'appel vidéo
 
-<a href="https://github.com/devfiderana-commits/AV">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-74C7FF?style=for-the-badge&logo=github&logoColor=050B16" alt="E-commerce project">
-</a>
-
----
-
-## Video Calling Application
-
-Application web permettant la communication vidéo en temps réel.
-
-**Technologies**
+Application web permettant la communication vidéo.
 
 `React` `Vite` `Supabase`
 
----
+### Gestion d'étudiants
 
-## Student Management System
-
-Application de gestion des étudiants développée pour la gestion et l'organisation des données académiques.
-
-**Technologie**
+Application destinée à la gestion des étudiants et des données académiques.
 
 `Microsoft Access`
 
----
+### Systèmes & réseaux
 
-## Systems & Networks
-
-Travaux pratiques et projets autour de l'administration système et réseau.
-
-**Technologies**
+Travaux pratiques et projets liés à l'administration système et réseau.
 
 `Linux` `Ubuntu` `Windows Server` `Apache` `DHCP` `DNS`
 
 ---
 
-<div align="center">
-
 <img src="./assets/line-divider.svg" width="100%" alt="divider">
 
 <img src="./assets/section-stats.svg" width="100%" alt="GitHub statistics">
-
-</div>
 
 # GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devfiderana-commits&show_icons=true&hide_border=true&bg_color=050B16&title_color=59F3D3&icon_color=74C7FF&text_color=EAF7FF&rank_icon=github" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=devfiderana-commits&show_icons=true&hide_border=true&bg_color=050B16&title_color=59F3D3&icon_color=74C7FF&text_color=EAF7FF&rank_icon=github" alt="GitHub statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfiderana-commits&layout=compact&hide_border=true&bg_color=050B16&title_color=59F3D3&text_color=EAF7FF" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devfiderana-commits&layout=compact&hide_border=true&bg_color=050B16&title_color=59F3D3&text_color=EAF7FF" alt="Top languages">
 
 </div>
 
@@ -353,15 +240,11 @@ Travaux pratiques et projets autour de l'administration système et réseau.
 
 ---
 
-<div align="center">
-
 <img src="./assets/metrics-languages.svg" width="100%" alt="Languages">
 
 <img src="./assets/metrics-isocalendar.svg" width="100%" alt="Contribution calendar">
 
-</div>
-
----
+<img src="./assets/line-divider.svg" width="100%" alt="divider">
 
 # CONTRIBUTION ACTIVITY
 
@@ -373,33 +256,29 @@ Travaux pratiques et projets autour de l'administration système et réseau.
 
 ---
 
-<div align="center">
-
 <img src="./assets/line-divider.svg" width="100%" alt="divider">
-
-</div>
 
 # EDUCATION
 
-### 2026 – 2027
+### 2026–2027
 
 **Licence 3 Informatique**
 
 U.S.V.P.A.
 
-### 2025 – 2026
+### 2025–2026
 
 **DTS Informatique**
 
 U.S.V.P.A.
 
-### 2023 – 2024
+### 2023–2024
 
 **Baccalauréat — Série D**
 
 LP Martin Luther
 
-### 2021 – 2022
+### 2021–2022
 
 **BEPC**
 
@@ -407,17 +286,14 @@ LPND Mandroseza
 
 ---
 
-<div align="center">
-
 <img src="./assets/line-divider.svg" width="100%" alt="divider">
-
-</div>
 
 # CONTACT
 
 **Available for Web, Backend & Artificial Intelligence projects.**
 
-<p>
+<div align="center">
+
 <a href="https://devfiderana-commits.github.io/portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-59F3D3?style=for-the-badge&logo=googlechrome&logoColor=050B16" alt="Portfolio">
 </a>
@@ -429,7 +305,8 @@ LPND Mandroseza
 <a href="mailto:Nilo06dera@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
-</p>
+
+</div>
 
 **Alasora, Madagascar**
 
@@ -439,10 +316,10 @@ LPND Mandroseza
 
 <div align="center">
 
-<img src="./assets/wave-footer.svg" width="100%" alt="footer">
+<img src="./assets/wave-footer.svg" width="100%" alt="Footer">
 
-### RATIARISON Fanilo Fiderana
+**RATIARISON Fanilo Fiderana**
 
-**Web · Backend · Artificial Intelligence**
+Web · Backend · Artificial Intelligence
 
 </div>
